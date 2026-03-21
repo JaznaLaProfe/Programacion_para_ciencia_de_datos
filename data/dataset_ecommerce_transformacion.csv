@@ -38,7 +38,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 37,Deportes,Centro,Tarjeta,51.46,5,3.4,4.3
 38,Deportes,Centro,Tarjeta,51.66,4,3.6,4.7
 39,Hogar,Norte,Transferencia,83.94,3,4.0,4.7
-40,Electrónica,Centro,Débito,17.41,1,-0.2,5.3
+40,Electrónica,Centro,Débito,17.41,1,0.2,5.3
 41,Hogar,Norte,Transferencia,41.58,3,4.4,6.0
 42,Hogar,Centro,Transferencia,51.38,2,2.0,3.1
 43,Ropa,Centro,Tarjeta,43.05,3,3.1,3.6
@@ -141,7 +141,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 140,Deportes,Norte,Transferencia,55.25,4,3.4,3.4
 141,Deportes,Centro,Transferencia,20.79,5,2.3,5.7
 142,Ropa,Sur,Tarjeta,30.25,4,4.2,3.2
-143,Deportes,Sur,Débito,-24.65,1,2.7,4.0
+143,Deportes,Sur,Débito,24.65,1,2.7,4.0
 144,Deportes,Centro,Débito,40.4,1,3.5,3.1
 145,Ropa,Norte,Débito,24.02,5,4.1,5.2
 146,Ropa,Sur,Transferencia,16.25,4,1.5,3.6
@@ -249,7 +249,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 248,Ropa,Norte,Débito,44.57,2,4.0,3.9
 249,Hogar,Sur,Débito,64.01,1,3.2,2.2
 250,Electrónica,Sur,Tarjeta,33.7,3,1.6,3.8
-251,Deportes,Norte,Tarjeta,-0.97,5,3.9,4.3
+251,Deportes,Norte,Tarjeta,0.97,5,3.9,4.3
 252,Hogar,Norte,Tarjeta,47.18,4,2.2,4.2
 253,Ropa,Sur,Transferencia,50.31,4,4.0,4.2
 254,Electrónica,Sur,Débito,79.82,4,1.1,4.1
@@ -284,7 +284,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 283,Ropa,Sur,Tarjeta,43.03,5,1.9,5.0
 284,Electrónica,Norte,Transferencia,48.49,2,6.0,4.2
 285,Deportes,Norte,Transferencia,30.31,4,3.1,4.9
-286,Ropa,Norte,Tarjeta,-0.29,1,2.4,5.4
+286,Ropa,Norte,Tarjeta,0.29,1,2.4,5.4
 287,Deportes,Sur,Tarjeta,49.67,5,3.0,3.9
 288,Hogar,Sur,Transferencia,64.35,1,2.0,4.2
 289,Ropa,Norte,Débito,15.04,5,3.7,4.2
@@ -308,7 +308,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 307,Hogar,Sur,Tarjeta,41.82,3,3.7,4.8
 308,Electrónica,Norte,Débito,30.0,3,2.9,4.6
 309,Hogar,Centro,Tarjeta,73.33,2,2.6,4.4
-310,Electrónica,Norte,Débito,46.24,1,-1.0,3.0
+310,Electrónica,Norte,Débito,46.24,1,1.0,3.0
 311,Electrónica,Norte,Tarjeta,30.01,3,3.1,4.3
 312,Hogar,Norte,Débito,49.62,3,3.9,2.6
 313,Ropa,Norte,Transferencia,68.06,1,4.4,3.1
@@ -418,7 +418,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 417,Ropa,Sur,Débito,43.74,1,3.2,4.6
 418,Electrónica,Centro,Débito,56.54,4,2.1,3.8
 419,Ropa,Centro,Transferencia,34.3,2,2.7,3.5
-420,Electrónica,Sur,Transferencia,42.63,1,-0.9,5.3
+420,Electrónica,Sur,Transferencia,42.63,1,0.9,5.3
 421,Hogar,Sur,Transferencia,56.14,3,2.6,4.0
 422,Deportes,Centro,Débito,31.08,3,2.8,3.7
 423,Deportes,Centro,Transferencia,45.36,1,3.9,4.3
@@ -460,7 +460,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 459,Ropa,Norte,Débito,49.8,4,2.9,3.7
 460,Hogar,Sur,Transferencia,64.98,4,4.1,2.6
 461,Deportes,Sur,Transferencia,32.2,4,3.0,2.8
-462,Hogar,Centro,Tarjeta,-0.44,1,2.6,3.8
+462,Hogar,Centro,Tarjeta,0.44,1,2.6,3.8
 463,Electrónica,Norte,Transferencia,82.15,2,3.8,4.3
 464,Ropa,Norte,Transferencia,33.09,3,3.1,4.0
 465,Electrónica,Sur,Transferencia,50.23,3,4.0,3.5
@@ -527,7 +527,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 526,Hogar,Centro,Débito,18.04,4,3.4,3.2
 527,Ropa,Centro,Transferencia,43.35,4,3.4,5.0
 528,Electrónica,Norte,Tarjeta,48.91,5,2.4,3.8
-529,Ropa,Centro,Débito,46.4,2,-0.1,4.1
+529,Ropa,Centro,Débito,46.4,2,0.1,4.1
 530,Ropa,Norte,Débito,28.17,5,1.6,3.5
 531,Deportes,Norte,Tarjeta,26.33,1,4.8,4.3
 532,Electrónica,Centro,Transferencia,33.64,2,3.2,4.1
@@ -609,7 +609,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 608,Ropa,Centro,Tarjeta,50.29,4,2.3,4.3
 609,Deportes,Centro,Transferencia,60.51,4,3.4,5.8
 610,Electrónica,Norte,Débito,62.05,1,3.1,4.6
-611,Deportes,Norte,Débito,-11.39,2,5.6,3.0
+611,Deportes,Norte,Débito,11.39,2,5.6,3.0
 612,Ropa,Centro,Transferencia,30.38,1,3.7,5.9
 613,Ropa,Norte,Transferencia,43.92,4,3.8,3.6
 614,Deportes,Norte,Débito,22.33,3,3.7,3.2
@@ -640,7 +640,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 639,Ropa,Sur,Tarjeta,25.32,3,2.2,5.6
 640,Electrónica,Sur,Tarjeta,21.65,3,2.1,5.1
 641,Ropa,Norte,Débito,56.59,3,2.5,5.1
-642,Electrónica,Norte,Débito,-2.43,5,3.7,4.2
+642,Electrónica,Norte,Débito,2.43,5,3.7,4.2
 643,Hogar,Sur,Débito,40.04,4,4.3,3.0
 644,Deportes,Centro,Transferencia,66.9,2,3.4,5.7
 645,Electrónica,Sur,Transferencia,79.71,5,3.8,5.1
@@ -699,11 +699,11 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 698,Deportes,Norte,Débito,59.38,3,2.3,3.0
 699,Deportes,Norte,Débito,38.27,4,2.5,3.7
 700,Electrónica,Centro,Transferencia,70.4,5,2.8,4.3
-701,Ropa,Centro,Tarjeta,107.88,2,-0.3,4.7
+701,Ropa,Centro,Tarjeta,107.88,2,0.3,4.7
 702,Ropa,Norte,Transferencia,78.34,4,1.5,4.8
 703,Electrónica,Centro,Transferencia,52.27,1,3.0,5.2
 704,Deportes,Norte,Débito,42.37,2,2.9,4.2
-705,Ropa,Norte,Débito,-0.6,2,2.2,4.4
+705,Ropa,Norte,Débito,0.6,2,2.2,4.4
 706,Electrónica,Sur,Débito,29.79,3,0.4,5.7
 707,Deportes,Centro,Tarjeta,26.06,3,2.1,4.2
 708,Electrónica,Norte,Tarjeta,72.04,5,4.8,4.3
@@ -791,7 +791,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 790,Ropa,Sur,Tarjeta,46.87,4,3.8,4.0
 791,Ropa,Centro,Débito,58.51,2,5.2,4.0
 792,Ropa,Norte,Transferencia,19.48,5,1.6,4.0
-793,Hogar,Sur,Transferencia,-5.83,5,3.5,4.3
+793,Hogar,Sur,Transferencia,5.83,5,3.5,4.3
 794,Hogar,Norte,Transferencia,67.74,5,2.6,4.9
 795,Hogar,Norte,Transferencia,42.08,3,3.5,3.5
 796,Ropa,Norte,Transferencia,26.72,2,4.2,4.2
@@ -872,7 +872,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 871,Deportes,Sur,Transferencia,27.54,5,0.4,3.0
 872,Deportes,Sur,Débito,55.33,3,4.0,5.5
 873,Electrónica,Norte,Transferencia,28.56,2,2.5,4.2
-874,Ropa,Centro,Débito,-13.83,3,3.3,4.5
+874,Ropa,Centro,Débito,13.83,3,3.3,4.5
 875,Hogar,Sur,Débito,49.48,1,3.7,4.4
 876,Electrónica,Norte,Débito,63.16,1,2.4,2.9
 877,Ropa,Sur,Transferencia,60.98,5,2.5,4.5
@@ -914,16 +914,16 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 913,Deportes,Centro,Transferencia,35.45,4,2.7,4.7
 914,Deportes,Sur,Débito,40.07,1,5.8,4.4
 915,Electrónica,Sur,Transferencia,71.58,4,3.5,5.9
-916,Electrónica,Sur,Transferencia,23.93,5,-0.1,4.2
+916,Electrónica,Sur,Transferencia,23.93,5,0.1,4.2
 917,Deportes,Sur,Transferencia,48.1,3,1.0,4.2
 918,Ropa,Norte,Débito,30.3,4,1.4,4.4
 919,Hogar,Sur,Transferencia,55.14,2,3.6,3.7
-920,Deportes,Centro,Transferencia,-4.92,2,4.3,4.1
+920,Deportes,Centro,Transferencia,4.92,2,4.3,4.1
 921,Deportes,Sur,Tarjeta,58.07,4,0.8,5.1
 922,Electrónica,Norte,Transferencia,9.89,4,2.2,3.2
 923,Hogar,Norte,Débito,57.86,2,3.5,4.8
 924,Electrónica,Sur,Débito,75.27,4,4.7,5.0
-925,Electrónica,Norte,Transferencia,-7.39,2,3.0,4.5
+925,Electrónica,Norte,Transferencia,7.39,2,3.0,4.5
 926,Hogar,Sur,Débito,21.76,2,2.3,4.1
 927,Deportes,Norte,Tarjeta,43.0,4,4.0,4.3
 928,Deportes,Norte,Transferencia,68.47,2,1.9,4.2
@@ -939,7 +939,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 938,Electrónica,Norte,Débito,31.9,4,2.5,4.1
 939,Hogar,Norte,Tarjeta,55.26,4,2.1,4.0
 940,Electrónica,Norte,Tarjeta,79.13,1,2.8,3.7
-941,Deportes,Centro,Transferencia,43.26,5,-0.2,3.6
+941,Deportes,Centro,Transferencia,43.26,5,0.2,3.6
 942,Hogar,Norte,Débito,34.77,5,3.0,3.3
 943,Deportes,Norte,Débito,62.46,4,0.7,5.1
 944,Hogar,Sur,Tarjeta,37.32,3,3.6,4.6
@@ -1005,8 +1005,8 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 1004,Hogar,Sur,Transferencia,49.17,5,4.0,4.7
 1005,Hogar,Sur,Transferencia,68.54,3,1.6,3.3
 1006,Ropa,Norte,Tarjeta,82.27,1,4.1,4.3
-1007,Deportes,Centro,Transferencia,53.21,3,-1.2,4.6
-1008,Deportes,Norte,Débito,52.77,5,-0.0,4.6
+1007,Deportes,Centro,Transferencia,53.21,3,1.2,4.6
+1008,Deportes,Norte,Débito,52.77,5,0.0,4.6
 1009,Ropa,Norte,Débito,60.13,2,4.1,4.6
 1010,Deportes,Centro,Transferencia,34.35,4,2.6,4.4
 1011,Ropa,Centro,Transferencia,60.56,3,1.3,4.1
@@ -1014,7 +1014,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 1013,Ropa,Norte,Tarjeta,49.35,4,4.3,3.9
 1014,Hogar,Norte,Débito,54.83,2,3.1,3.8
 1015,Electrónica,Norte,Transferencia,45.35,3,5.7,3.7
-1016,Ropa,Sur,Tarjeta,-9.07,1,2.4,4.6
+1016,Ropa,Sur,Tarjeta,9.07,1,2.4,4.6
 1017,Electrónica,Norte,Débito,48.31,1,3.0,4.6
 1018,Electrónica,Norte,Transferencia,48.64,2,2.6,4.2
 1019,Ropa,Sur,Tarjeta,54.18,3,4.7,4.5
@@ -1086,7 +1086,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 1085,Ropa,Norte,Débito,62.18,4,3.1,3.5
 1086,Electrónica,Sur,Transferencia,73.12,3,2.5,3.6
 1087,Hogar,Norte,Transferencia,79.28,2,4.9,3.8
-1088,Electrónica,Centro,Tarjeta,68.32,2,-0.1,4.2
+1088,Electrónica,Centro,Tarjeta,68.32,2,0.1,4.2
 1089,Hogar,Norte,Débito,49.66,3,2.9,4.8
 1090,Electrónica,Sur,Débito,59.28,5,3.0,3.2
 1091,Hogar,Centro,Tarjeta,26.52,1,3.1,4.4
@@ -1117,7 +1117,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 1116,Ropa,Sur,Transferencia,45.18,4,2.2,3.8
 1117,Hogar,Norte,Transferencia,47.58,2,1.9,3.9
 1118,Electrónica,Norte,Débito,51.16,4,4.6,5.1
-1119,Hogar,Sur,Tarjeta,-12.97,2,3.0,4.5
+1119,Hogar,Sur,Tarjeta,12.97,2,3.0,4.5
 1120,Hogar,Centro,Transferencia,34.45,1,0.6,4.6
 1121,Deportes,Centro,Débito,58.82,4,5.1,3.3
 1122,Deportes,Centro,Transferencia,57.51,3,4.7,4.0
@@ -1139,8 +1139,8 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 1138,Electrónica,Centro,Tarjeta,28.84,2,3.7,3.2
 1139,Hogar,Norte,Tarjeta,24.26,1,1.0,3.3
 1140,Hogar,Centro,Débito,20.19,3,3.2,4.5
-1141,Electrónica,Sur,Débito,-0.45,3,2.0,4.4
-1142,Deportes,Norte,Transferencia,-4.93,1,2.8,4.3
+1141,Electrónica,Sur,Débito,0.45,3,2.0,4.4
+1142,Deportes,Norte,Transferencia,4.93,1,2.8,4.3
 1143,Electrónica,Norte,Tarjeta,63.57,3,2.8,5.3
 1144,Hogar,Centro,Débito,32.54,4,3.9,3.8
 1145,Electrónica,Norte,Débito,43.46,2,3.2,4.3
@@ -1161,10 +1161,10 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 1160,Electrónica,Norte,Débito,60.56,5,6.2,2.4
 1161,Deportes,Norte,Transferencia,45.06,4,3.7,4.0
 1162,Hogar,Norte,Débito,72.04,5,3.5,5.2
-1163,Ropa,Norte,Tarjeta,-3.51,5,2.3,3.7
+1163,Ropa,Norte,Tarjeta,3.51,5,2.3,3.7
 1164,Deportes,Sur,Tarjeta,18.47,1,3.0,4.0
 1165,Hogar,Norte,Débito,50.04,2,4.8,3.4
-1166,Electrónica,Sur,Débito,-3.81,2,3.9,3.1
+1166,Electrónica,Sur,Débito,3.81,2,3.9,3.1
 1167,Hogar,Centro,Tarjeta,15.1,3,3.1,4.2
 1168,Electrónica,Norte,Débito,56.12,1,2.2,3.5
 1169,Electrónica,Centro,Tarjeta,56.34,2,2.0,4.2
@@ -1177,7 +1177,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 1176,Electrónica,Sur,Transferencia,31.63,4,4.0,4.4
 1177,Electrónica,Norte,Débito,6.54,4,1.4,4.2
 1178,Deportes,Norte,Tarjeta,53.77,4,3.9,3.8
-1179,Hogar,Sur,Débito,-15.22,1,3.8,3.7
+1179,Hogar,Sur,Débito,15.22,1,3.8,3.7
 1180,Hogar,Centro,Débito,44.92,3,4.4,3.9
 1181,Hogar,Sur,Transferencia,22.28,3,3.2,5.6
 1182,Ropa,Sur,Transferencia,60.08,1,2.7,5.2
@@ -1202,17 +1202,17 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 1201,Electrónica,Centro,Tarjeta,22.47,3,3.9,4.7
 1202,Deportes,Norte,Transferencia,45.68,5,2.7,4.0
 1203,Ropa,Centro,Transferencia,51.61,2,1.4,3.5
-1204,Deportes,Sur,Transferencia,48.9,5,-0.5,3.3
+1204,Deportes,Sur,Transferencia,48.9,5,0.5,3.3
 1205,Electrónica,Norte,Débito,32.28,4,3.0,2.9
 1206,Ropa,Norte,Transferencia,26.56,1,2.7,3.8
 1207,Electrónica,Centro,Tarjeta,16.33,5,4.5,5.2
 1208,Ropa,Norte,Débito,26.95,4,2.1,5.2
 1209,Electrónica,Centro,Tarjeta,82.67,3,1.7,5.2
-1210,Electrónica,Centro,Tarjeta,-1.7,2,5.2,5.6
+1210,Electrónica,Centro,Tarjeta,1.7,2,5.2,5.6
 1211,Deportes,Centro,Tarjeta,43.81,1,3.3,5.4
 1212,Deportes,Norte,Transferencia,57.21,1,2.4,4.9
-1213,Deportes,Centro,Tarjeta,49.72,2,-0.7,2.8
-1214,Deportes,Centro,Débito,-0.7,2,1.5,4.8
+1213,Deportes,Centro,Tarjeta,49.72,2,0.7,2.8
+1214,Deportes,Centro,Débito,0.7,2,1.5,4.8
 1215,Deportes,Sur,Tarjeta,15.83,1,6.1,3.3
 1216,Electrónica,Sur,Transferencia,31.38,2,2.1,3.4
 1217,Ropa,Centro,Transferencia,47.41,3,3.1,3.6
@@ -1310,7 +1310,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 1309,Ropa,Norte,Débito,10.18,3,2.7,3.0
 1310,Ropa,Centro,Tarjeta,80.36,1,3.7,3.8
 1311,Electrónica,Centro,Transferencia,40.97,5,3.4,4.4
-1312,Hogar,Centro,Débito,23.33,2,-0.1,3.3
+1312,Hogar,Centro,Débito,23.33,2,0.1,3.3
 1313,Ropa,Centro,Débito,48.84,3,3.8,4.7
 1314,Electrónica,Sur,Transferencia,24.63,3,3.4,4.2
 1315,Deportes,Centro,Tarjeta,68.65,1,4.2,4.4
@@ -1358,7 +1358,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 1357,Hogar,Sur,Tarjeta,73.52,5,5.2,5.3
 1358,Ropa,Sur,Transferencia,50.0,1,3.1,4.5
 1359,Electrónica,Centro,Transferencia,42.56,5,1.7,3.1
-1360,Electrónica,Sur,Tarjeta,-5.5,3,4.1,3.7
+1360,Electrónica,Sur,Tarjeta,5.5,3,4.1,3.7
 1361,Hogar,Centro,Tarjeta,33.22,4,2.2,3.8
 1362,Hogar,Sur,Transferencia,44.8,1,3.5,4.7
 1363,Deportes,Norte,Transferencia,65.36,1,2.9,3.8
@@ -1455,7 +1455,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 1454,Hogar,Norte,Tarjeta,68.45,2,1.2,4.2
 1455,Deportes,Sur,Débito,43.02,1,4.8,4.7
 1456,Hogar,Norte,Transferencia,56.04,3,4.1,3.8
-1457,Electrónica,Sur,Débito,-0.73,4,0.6,4.0
+1457,Electrónica,Sur,Débito,0.73,4,0.6,4.0
 1458,Electrónica,Centro,Transferencia,5.56,1,3.7,4.8
 1459,Deportes,Norte,Débito,50.98,4,5.2,4.5
 1460,Deportes,Sur,Transferencia,22.14,4,3.8,3.5
@@ -1762,7 +1762,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 1761,Electrónica,Norte,Débito,15.33,1,2.7,4.5
 1762,Hogar,Norte,Débito,61.65,1,2.7,3.7
 1763,Hogar,Norte,Tarjeta,15.14,1,3.7,3.7
-1764,Electrónica,Sur,Débito,85.7,2,-0.4,4.0
+1764,Electrónica,Sur,Débito,85.7,2,0.4,4.0
 1765,Deportes,Sur,Tarjeta,54.18,1,2.7,5.1
 1766,Hogar,Norte,Tarjeta,53.71,2,4.7,4.3
 1767,Deportes,Norte,Transferencia,43.88,3,1.1,3.2
@@ -1772,7 +1772,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 1771,Electrónica,Sur,Débito,68.03,5,1.1,2.3
 1772,Ropa,Centro,Tarjeta,17.43,1,1.0,4.5
 1773,Electrónica,Sur,Transferencia,68.91,3,3.5,4.4
-1774,Hogar,Sur,Débito,-15.25,5,2.6,4.1
+1774,Hogar,Sur,Débito,15.25,5,2.6,4.1
 1775,Ropa,Centro,Transferencia,28.92,2,4.3,5.1
 1776,Ropa,Centro,Transferencia,60.19,3,3.2,2.4
 1777,Hogar,Norte,Transferencia,66.15,5,2.1,5.5
@@ -1837,7 +1837,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 1836,Hogar,Norte,Débito,47.14,5,2.0,4.6
 1837,Ropa,Sur,Transferencia,31.26,2,3.7,5.2
 1838,Hogar,Centro,Transferencia,33.22,1,1.7,4.6
-1839,Deportes,Norte,Transferencia,-7.94,5,1.7,4.4
+1839,Deportes,Norte,Transferencia,7.94,5,1.7,4.4
 1840,Deportes,Norte,Tarjeta,52.08,5,4.3,3.3
 1841,Ropa,Norte,Tarjeta,41.83,3,3.9,2.2
 1842,Electrónica,Centro,Transferencia,48.32,4,5.0,3.3
@@ -1845,7 +1845,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 1844,Deportes,Norte,Transferencia,9.57,2,3.2,4.9
 1845,Electrónica,Norte,Débito,23.51,4,2.3,5.2
 1846,Ropa,Sur,Tarjeta,32.59,1,2.2,3.8
-1847,Ropa,Norte,Transferencia,-14.08,2,2.5,3.9
+1847,Ropa,Norte,Transferencia,14.08,2,2.5,3.9
 1848,Deportes,Centro,Débito,39.52,3,4.5,3.7
 1849,Hogar,Norte,Débito,9.23,2,6.0,4.8
 1850,Hogar,Sur,Tarjeta,55.9,2,2.7,2.9
@@ -1924,7 +1924,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 1923,Electrónica,Norte,Débito,27.89,3,3.3,4.4
 1924,Deportes,Centro,Tarjeta,29.45,2,0.9,4.2
 1925,Hogar,Norte,Tarjeta,27.84,5,1.1,2.7
-1926,Deportes,Centro,Tarjeta,-19.51,3,3.4,5.0
+1926,Deportes,Centro,Tarjeta,19.51,3,3.4,5.0
 1927,Deportes,Centro,Transferencia,63.25,1,4.8,4.1
 1928,Electrónica,Sur,Débito,16.72,3,5.4,2.6
 1929,Electrónica,Sur,Transferencia,33.62,4,5.5,3.7
@@ -2080,7 +2080,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2079,Hogar,Norte,Débito,73.53,2,3.3,4.8
 2080,Electrónica,Sur,Débito,23.11,1,2.6,4.1
 2081,Ropa,Sur,Tarjeta,51.76,1,1.8,3.6
-2082,Hogar,Centro,Tarjeta,-9.4,2,2.8,3.7
+2082,Hogar,Centro,Tarjeta,9.4,2,2.8,3.7
 2083,Deportes,Sur,Débito,48.5,2,3.9,3.8
 2084,Deportes,Sur,Débito,42.23,5,0.2,2.6
 2085,Deportes,Sur,Débito,60.16,1,3.4,4.9
@@ -2126,18 +2126,18 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2125,Deportes,Centro,Tarjeta,63.54,5,1.4,2.9
 2126,Hogar,Sur,Débito,46.98,5,0.9,4.3
 2127,Deportes,Centro,Débito,42.45,4,3.6,3.3
-2128,Hogar,Centro,Débito,-0.89,1,6.8,3.9
+2128,Hogar,Centro,Débito,0.89,1,6.8,3.9
 2129,Ropa,Sur,Transferencia,4.56,2,3.6,3.2
 2130,Ropa,Centro,Tarjeta,27.56,3,4.8,4.0
 2131,Electrónica,Norte,Transferencia,33.52,1,2.6,4.1
 2132,Electrónica,Sur,Tarjeta,52.99,1,3.2,3.4
-2133,Ropa,Centro,Transferencia,-7.17,2,2.5,3.1
+2133,Ropa,Centro,Transferencia,7.17,2,2.5,3.1
 2134,Electrónica,Norte,Tarjeta,53.24,4,3.1,4.7
 2135,Hogar,Centro,Transferencia,47.35,1,5.0,3.8
 2136,Deportes,Sur,Transferencia,28.53,5,2.7,4.5
 2137,Ropa,Norte,Transferencia,32.11,1,3.7,4.4
 2138,Hogar,Centro,Débito,65.66,2,1.8,4.4
-2139,Deportes,Norte,Transferencia,57.46,5,-0.0,3.7
+2139,Deportes,Norte,Transferencia,57.46,5,0.0,3.7
 2140,Deportes,Sur,Tarjeta,39.07,2,1.4,4.2
 2141,Hogar,Centro,Tarjeta,1.82,3,2.8,2.8
 2142,Hogar,Centro,Tarjeta,61.72,2,4.5,3.3
@@ -2145,7 +2145,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2144,Hogar,Centro,Débito,24.87,3,2.4,4.0
 2145,Electrónica,Norte,Débito,5.9,5,2.7,5.3
 2146,Hogar,Norte,Tarjeta,37.79,1,2.3,3.9
-2147,Ropa,Centro,Tarjeta,-13.45,2,4.5,2.6
+2147,Ropa,Centro,Tarjeta,13.45,2,4.5,2.6
 2148,Electrónica,Sur,Transferencia,36.6,1,2.3,3.3
 2149,Electrónica,Sur,Tarjeta,60.91,4,2.7,3.9
 2150,Deportes,Centro,Débito,32.91,5,3.7,5.2
@@ -2186,7 +2186,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2185,Deportes,Norte,Tarjeta,40.67,1,2.7,4.5
 2186,Electrónica,Norte,Tarjeta,66.01,2,1.6,4.0
 2187,Deportes,Sur,Débito,55.77,4,4.9,2.7
-2188,Deportes,Norte,Débito,-25.89,1,2.1,4.1
+2188,Deportes,Norte,Débito,25.89,1,2.1,4.1
 2189,Hogar,Norte,Débito,47.66,1,4.5,3.4
 2190,Electrónica,Norte,Tarjeta,74.18,1,3.4,4.7
 2191,Electrónica,Sur,Tarjeta,40.32,1,5.1,4.8
@@ -2271,9 +2271,9 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2270,Hogar,Norte,Débito,50.43,1,4.6,3.5
 2271,Deportes,Norte,Tarjeta,73.35,3,4.6,3.4
 2272,Electrónica,Norte,Débito,67.44,2,2.9,3.6
-2273,Hogar,Centro,Transferencia,-14.15,4,3.0,4.1
+2273,Hogar,Centro,Transferencia,14.15,4,3.0,4.1
 2274,Electrónica,Sur,Débito,25.95,2,3.6,5.4
-2275,Electrónica,Centro,Tarjeta,-2.87,3,3.0,4.8
+2275,Electrónica,Centro,Tarjeta,2.87,3,3.0,4.8
 2276,Hogar,Norte,Tarjeta,52.78,2,3.1,4.3
 2277,Deportes,Centro,Débito,72.78,3,3.9,4.6
 2278,Deportes,Norte,Transferencia,6.34,3,3.5,4.1
@@ -2306,7 +2306,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2305,Hogar,Norte,Transferencia,58.87,3,3.0,4.3
 2306,Electrónica,Norte,Débito,40.09,3,4.4,5.7
 2307,Electrónica,Centro,Débito,45.91,5,4.6,3.8
-2308,Deportes,Centro,Débito,-1.4,3,3.8,4.3
+2308,Deportes,Centro,Débito,1.4,3,3.8,4.3
 2309,Deportes,Centro,Tarjeta,49.55,3,1.6,3.3
 2310,Electrónica,Centro,Débito,21.21,3,3.8,3.5
 2311,Electrónica,Centro,Débito,54.28,4,4.6,4.8
@@ -2332,7 +2332,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2331,Electrónica,Sur,Tarjeta,48.81,1,2.7,4.8
 2332,Deportes,Norte,Tarjeta,26.76,3,1.7,4.1
 2333,Ropa,Sur,Débito,48.4,4,3.0,3.2
-2334,Deportes,Norte,Transferencia,32.08,2,-0.0,4.8
+2334,Deportes,Norte,Transferencia,32.08,2,0.0,4.8
 2335,Hogar,Sur,Transferencia,32.8,5,3.5,5.2
 2336,Deportes,Sur,Transferencia,42.51,1,3.8,4.9
 2337,Electrónica,Sur,Débito,44.45,3,0.7,3.7
@@ -2349,7 +2349,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2348,Ropa,Sur,Débito,53.9,5,3.8,5.2
 2349,Deportes,Centro,Débito,57.22,1,4.5,5.4
 2350,Ropa,Norte,Transferencia,32.1,3,4.4,4.6
-2351,Electrónica,Sur,Transferencia,-4.38,2,1.6,5.2
+2351,Electrónica,Sur,Transferencia,4.38,2,1.6,5.2
 2352,Deportes,Norte,Débito,49.99,5,2.8,3.3
 2353,Ropa,Centro,Tarjeta,54.32,1,2.2,4.9
 2354,Hogar,Centro,Tarjeta,32.28,1,3.2,6.8
@@ -2373,7 +2373,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2372,Electrónica,Norte,Débito,16.34,1,1.2,3.5
 2373,Hogar,Centro,Transferencia,26.71,2,2.5,3.4
 2374,Electrónica,Sur,Transferencia,30.93,3,2.5,3.1
-2375,Electrónica,Centro,Transferencia,-2.51,1,1.6,4.7
+2375,Electrónica,Centro,Transferencia,2.51,1,1.6,4.7
 2376,Ropa,Norte,Débito,62.25,5,3.4,3.1
 2377,Electrónica,Sur,Débito,62.84,1,4.0,3.1
 2378,Electrónica,Sur,Tarjeta,1.89,1,4.0,3.8
@@ -2385,7 +2385,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2384,Hogar,Centro,Transferencia,63.09,4,1.4,4.4
 2385,Electrónica,Sur,Tarjeta,48.65,2,5.1,5.0
 2386,Ropa,Centro,Débito,17.1,1,3.6,4.2
-2387,Electrónica,Norte,Tarjeta,-24.25,2,5.1,4.8
+2387,Electrónica,Norte,Tarjeta,24.25,2,5.1,4.8
 2388,Ropa,Norte,Débito,48.46,2,3.5,2.8
 2389,Ropa,Sur,Transferencia,35.13,4,1.0,3.9
 2390,Deportes,Norte,Transferencia,2.26,3,2.6,4.0
@@ -2448,7 +2448,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2447,Deportes,Centro,Tarjeta,49.12,2,3.0,4.2
 2448,Electrónica,Sur,Tarjeta,82.89,1,3.4,4.8
 2449,Hogar,Sur,Débito,63.2,4,2.9,3.6
-2450,Ropa,Sur,Débito,-1.68,1,2.7,3.8
+2450,Ropa,Sur,Débito,1.68,1,2.7,3.8
 2451,Deportes,Centro,Tarjeta,51.77,4,2.8,5.1
 2452,Hogar,Sur,Transferencia,18.64,5,1.5,3.7
 2453,Hogar,Norte,Transferencia,52.27,3,1.4,4.4
@@ -2477,7 +2477,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2476,Hogar,Sur,Tarjeta,61.53,1,1.6,3.3
 2477,Electrónica,Centro,Tarjeta,12.17,2,5.0,4.9
 2478,Deportes,Sur,Transferencia,61.06,3,3.3,4.8
-2479,Ropa,Centro,Tarjeta,-30.06,4,3.6,3.3
+2479,Ropa,Centro,Tarjeta,30.06,4,3.6,3.3
 2480,Hogar,Norte,Tarjeta,47.47,1,2.1,5.2
 2481,Electrónica,Centro,Tarjeta,73.2,1,2.5,2.9
 2482,Hogar,Centro,Transferencia,35.62,5,2.5,4.2
@@ -2542,9 +2542,9 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2541,Electrónica,Norte,Tarjeta,89.27,4,2.7,4.4
 2542,Deportes,Norte,Transferencia,60.87,2,2.3,3.8
 2543,Deportes,Norte,Débito,58.88,1,1.9,4.9
-2544,Electrónica,Sur,Transferencia,46.73,5,-0.1,5.5
+2544,Electrónica,Sur,Transferencia,46.73,5,0.1,5.5
 2545,Hogar,Sur,Tarjeta,41.5,2,2.2,4.2
-2546,Ropa,Centro,Débito,-13.26,5,3.9,4.6
+2546,Ropa,Centro,Débito,13.26,5,3.9,4.6
 2547,Hogar,Sur,Tarjeta,11.97,4,3.4,4.1
 2548,Hogar,Centro,Débito,10.61,5,2.6,2.8
 2549,Ropa,Centro,Transferencia,34.43,2,3.0,4.9
@@ -2596,7 +2596,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2595,Hogar,Sur,Transferencia,22.43,5,2.8,4.2
 2596,Deportes,Norte,Tarjeta,33.86,1,2.9,4.6
 2597,Hogar,Sur,Débito,46.35,1,2.9,4.1
-2598,Electrónica,Centro,Transferencia,20.24,3,-0.0,4.5
+2598,Electrónica,Centro,Transferencia,20.24,3,0.0,4.5
 2599,Ropa,Sur,Débito,62.89,4,1.9,3.7
 2600,Ropa,Centro,Transferencia,58.26,1,3.6,3.2
 2601,Hogar,Sur,Transferencia,57.51,5,3.7,4.1
@@ -2622,7 +2622,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2621,Hogar,Sur,Débito,64.29,5,3.3,4.2
 2622,Electrónica,Centro,Transferencia,25.41,3,3.6,5.0
 2623,Electrónica,Centro,Tarjeta,72.13,3,3.3,4.6
-2624,Deportes,Sur,Tarjeta,-2.21,2,2.4,4.3
+2624,Deportes,Sur,Tarjeta,2.21,2,2.4,4.3
 2625,Electrónica,Sur,Tarjeta,85.97,1,5.3,3.8
 2626,Hogar,Norte,Tarjeta,58.19,3,4.1,4.5
 2627,Electrónica,Centro,Débito,51.7,3,3.6,4.4
@@ -2634,7 +2634,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2633,Electrónica,Centro,Tarjeta,50.28,5,2.8,4.4
 2634,Electrónica,Centro,Transferencia,32.53,4,3.1,4.8
 2635,Deportes,Norte,Débito,34.57,3,2.0,5.0
-2636,Hogar,Sur,Débito,-1.11,2,3.3,3.8
+2636,Hogar,Sur,Débito,1.11,2,3.3,3.8
 2637,Ropa,Sur,Tarjeta,40.12,3,3.6,4.7
 2638,Electrónica,Sur,Tarjeta,32.31,2,4.1,4.9
 2639,Hogar,Sur,Débito,58.44,1,4.8,3.1
@@ -2646,7 +2646,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2645,Ropa,Norte,Débito,50.7,3,2.2,3.9
 2646,Hogar,Sur,Tarjeta,49.04,3,2.8,5.2
 2647,Deportes,Norte,Tarjeta,84.14,5,1.4,4.3
-2648,Electrónica,Norte,Transferencia,-0.14,4,3.2,3.7
+2648,Electrónica,Norte,Transferencia,0.14,4,3.2,3.7
 2649,Ropa,Norte,Transferencia,29.42,1,2.4,3.8
 2650,Deportes,Norte,Débito,62.56,5,3.2,3.5
 2651,Hogar,Sur,Débito,75.02,4,2.0,3.4
@@ -2719,7 +2719,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2718,Hogar,Centro,Débito,43.78,2,1.6,4.4
 2719,Ropa,Norte,Tarjeta,40.44,2,1.8,4.2
 2720,Ropa,Norte,Tarjeta,58.49,3,5.0,3.3
-2721,Ropa,Centro,Débito,17.91,4,-0.2,4.5
+2721,Ropa,Centro,Débito,17.91,4,0.2,4.5
 2722,Ropa,Sur,Débito,24.17,2,3.9,5.4
 2723,Ropa,Sur,Tarjeta,48.24,2,3.3,4.1
 2724,Hogar,Centro,Débito,36.97,4,3.3,4.8
@@ -2800,7 +2800,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2799,Deportes,Centro,Tarjeta,8.81,2,1.4,3.9
 2800,Hogar,Sur,Tarjeta,56.51,4,1.9,3.2
 2801,Ropa,Centro,Débito,16.43,3,2.9,4.4
-2802,Hogar,Centro,Débito,-15.93,3,2.9,4.3
+2802,Hogar,Centro,Débito,15.93,3,2.9,4.3
 2803,Deportes,Norte,Tarjeta,53.33,2,4.1,3.4
 2804,Ropa,Sur,Débito,91.99,1,1.1,2.8
 2805,Electrónica,Norte,Transferencia,34.22,4,4.6,5.3
@@ -2832,7 +2832,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2831,Deportes,Norte,Tarjeta,44.87,3,3.8,3.3
 2832,Electrónica,Centro,Débito,98.98,5,5.4,3.3
 2833,Electrónica,Norte,Débito,63.65,1,2.8,3.9
-2834,Deportes,Centro,Transferencia,-8.72,5,1.3,4.3
+2834,Deportes,Centro,Transferencia,8.72,5,1.3,4.3
 2835,Electrónica,Sur,Débito,91.85,2,3.3,3.9
 2836,Deportes,Norte,Transferencia,24.17,5,2.8,4.5
 2837,Ropa,Norte,Débito,55.36,1,1.9,6.1
@@ -2844,7 +2844,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2843,Electrónica,Norte,Débito,53.51,5,3.2,3.7
 2844,Electrónica,Sur,Transferencia,34.46,1,5.4,2.1
 2845,Ropa,Sur,Débito,11.48,4,4.6,3.2
-2846,Deportes,Norte,Débito,63.79,3,-0.7,3.7
+2846,Deportes,Norte,Débito,63.79,3,0.7,3.7
 2847,Electrónica,Sur,Débito,36.47,1,1.8,3.6
 2848,Electrónica,Centro,Transferencia,44.27,1,3.2,4.9
 2849,Deportes,Centro,Tarjeta,54.84,2,2.2,3.2
@@ -2852,7 +2852,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2851,Hogar,Norte,Tarjeta,10.17,5,2.7,4.4
 2852,Ropa,Centro,Tarjeta,64.29,4,3.0,5.0
 2853,Hogar,Norte,Tarjeta,10.34,5,3.2,4.0
-2854,Deportes,Sur,Débito,-15.4,1,4.5,3.5
+2854,Deportes,Sur,Débito,15.4,1,4.5,3.5
 2855,Ropa,Centro,Transferencia,13.45,4,3.0,4.1
 2856,Electrónica,Norte,Tarjeta,49.11,1,4.3,3.9
 2857,Electrónica,Norte,Tarjeta,75.46,1,4.2,5.2
@@ -2936,7 +2936,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 2935,Deportes,Centro,Transferencia,48.59,3,4.0,4.2
 2936,Electrónica,Centro,Débito,54.53,2,3.3,4.9
 2937,Electrónica,Centro,Débito,24.07,4,2.4,3.9
-2938,Deportes,Sur,Tarjeta,-1.21,3,3.3,3.4
+2938,Deportes,Sur,Tarjeta,1.21,3,3.3,3.4
 2939,Ropa,Sur,Débito,47.71,4,4.2,3.1
 2940,Ropa,Norte,Transferencia,17.34,4,4.7,4.0
 2941,Ropa,Norte,Tarjeta,52.82,5,3.6,3.1
@@ -3016,7 +3016,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 3015,Ropa,Centro,Transferencia,55.83,5,4.6,4.5
 3016,Deportes,Norte,Tarjeta,34.35,1,3.5,4.8
 3017,Deportes,Norte,Débito,44.46,3,1.9,4.6
-3018,Deportes,Norte,Transferencia,-7.73,1,1.1,4.5
+3018,Deportes,Norte,Transferencia,7.73,1,1.1,4.5
 3019,Electrónica,Sur,Transferencia,48.35,3,2.9,3.1
 3020,Ropa,Sur,Transferencia,18.29,1,4.1,4.5
 3021,Ropa,Centro,Transferencia,63.29,5,2.3,4.4
@@ -3104,7 +3104,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 3103,Deportes,Sur,Débito,41.4,4,1.8,4.8
 3104,Hogar,Centro,Débito,53.74,4,3.8,3.4
 3105,Hogar,Norte,Transferencia,48.84,3,2.7,3.3
-3106,Electrónica,Sur,Débito,-4.46,3,3.6,4.7
+3106,Electrónica,Sur,Débito,4.46,3,3.6,4.7
 3107,Electrónica,Sur,Débito,56.8,2,4.2,4.7
 3108,Electrónica,Norte,Tarjeta,51.29,2,2.5,3.4
 3109,Deportes,Sur,Transferencia,46.75,1,1.5,4.7
@@ -3158,7 +3158,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 3157,Ropa,Norte,Débito,66.83,3,3.2,4.2
 3158,Electrónica,Centro,Tarjeta,53.9,2,1.6,4.3
 3159,Electrónica,Sur,Débito,37.67,4,3.0,4.5
-3160,Ropa,Centro,Transferencia,74.3,4,-0.4,3.4
+3160,Ropa,Centro,Transferencia,74.3,4,0.4,3.4
 3161,Deportes,Norte,Débito,76.86,5,6.1,5.2
 3162,Electrónica,Centro,Débito,57.62,1,3.6,4.1
 3163,Deportes,Norte,Transferencia,49.05,2,4.6,4.6
@@ -3167,7 +3167,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 3166,Hogar,Centro,Transferencia,52.34,1,3.6,4.2
 3167,Hogar,Sur,Débito,33.28,4,0.5,4.7
 3168,Deportes,Norte,Tarjeta,35.19,2,3.3,2.4
-3169,Deportes,Norte,Tarjeta,-2.52,2,4.0,3.9
+3169,Deportes,Norte,Tarjeta,2.52,2,4.0,3.9
 3170,Hogar,Sur,Débito,45.05,3,1.0,4.8
 3171,Electrónica,Norte,Transferencia,68.41,5,1.6,3.7
 3172,Hogar,Norte,Débito,50.73,2,2.2,3.9
@@ -3196,7 +3196,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 3195,Ropa,Centro,Débito,53.41,3,3.6,4.3
 3196,Hogar,Centro,Tarjeta,8.69,4,5.2,4.9
 3197,Ropa,Sur,Transferencia,69.13,3,4.4,3.5
-3198,Hogar,Norte,Tarjeta,-4.22,5,4.9,3.8
+3198,Hogar,Norte,Tarjeta,4.22,5,4.9,3.8
 3199,Ropa,Sur,Transferencia,27.53,4,3.6,5.9
 3200,Deportes,Norte,Transferencia,41.92,2,3.1,3.1
 3201,Ropa,Norte,Débito,37.65,4,1.5,5.8
@@ -3205,7 +3205,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 3204,Electrónica,Centro,Débito,37.03,4,1.3,4.5
 3205,Deportes,Centro,Tarjeta,76.5,2,2.6,3.8
 3206,Deportes,Sur,Débito,41.93,5,4.1,3.9
-3207,Ropa,Norte,Débito,-3.95,2,3.7,3.4
+3207,Ropa,Norte,Débito,3.95,2,3.7,3.4
 3208,Ropa,Sur,Tarjeta,39.11,3,3.9,4.0
 3209,Deportes,Norte,Transferencia,68.37,4,4.1,3.0
 3210,Ropa,Sur,Transferencia,43.1,3,4.7,5.1
@@ -3254,7 +3254,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 3253,Electrónica,Centro,Tarjeta,62.13,4,3.2,4.8
 3254,Hogar,Centro,Tarjeta,48.47,5,1.7,5.0
 3255,Hogar,Norte,Tarjeta,62.86,2,4.0,4.0
-3256,Electrónica,Sur,Tarjeta,-0.74,5,3.8,5.6
+3256,Electrónica,Sur,Tarjeta,0.74,5,3.8,5.6
 3257,Electrónica,Sur,Débito,55.34,4,2.8,3.3
 3258,Deportes,Norte,Tarjeta,67.67,2,1.0,4.9
 3259,Deportes,Sur,Transferencia,45.49,2,2.3,4.2
@@ -3426,7 +3426,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 3425,Deportes,Centro,Tarjeta,95.48,2,3.0,3.1
 3426,Deportes,Sur,Tarjeta,52.93,3,2.3,4.6
 3427,Hogar,Sur,Débito,54.37,4,2.4,3.0
-3428,Deportes,Centro,Débito,44.9,4,-0.0,4.3
+3428,Deportes,Centro,Débito,44.9,4,0.0,4.3
 3429,Deportes,Sur,Débito,52.44,5,4.2,3.1
 3430,Electrónica,Sur,Transferencia,63.11,4,1.7,4.1
 3431,Electrónica,Centro,Tarjeta,4.47,5,4.2,4.9
@@ -3443,7 +3443,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 3442,Hogar,Centro,Transferencia,61.86,3,1.5,3.6
 3443,Ropa,Centro,Tarjeta,65.27,5,4.6,4.8
 3444,Hogar,Norte,Transferencia,28.4,1,1.9,4.2
-3445,Electrónica,Norte,Transferencia,-3.24,1,0.6,5.0
+3445,Electrónica,Norte,Transferencia,3.24,1,0.6,5.0
 3446,Electrónica,Centro,Débito,49.12,5,3.1,4.8
 3447,Electrónica,Sur,Débito,34.74,2,4.8,3.4
 3448,Hogar,Norte,Transferencia,50.6,3,2.6,4.1
@@ -3455,14 +3455,14 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 3454,Ropa,Norte,Transferencia,37.98,5,2.2,4.2
 3455,Electrónica,Centro,Débito,49.44,3,5.1,4.3
 3456,Ropa,Norte,Transferencia,60.56,4,4.1,4.0
-3457,Hogar,Sur,Transferencia,-7.28,2,4.5,3.7
+3457,Hogar,Sur,Transferencia,7.28,2,4.5,3.7
 3458,Electrónica,Centro,Tarjeta,98.54,4,2.8,4.6
 3459,Hogar,Sur,Tarjeta,90.99,2,2.9,3.6
 3460,Ropa,Sur,Transferencia,12.59,1,2.9,4.7
 3461,Ropa,Norte,Transferencia,72.38,5,2.1,4.6
 3462,Electrónica,Centro,Transferencia,26.61,1,4.0,4.2
 3463,Deportes,Norte,Transferencia,33.8,4,2.2,3.1
-3464,Ropa,Norte,Débito,-1.61,2,2.9,4.9
+3464,Ropa,Norte,Débito,1.61,2,2.9,4.9
 3465,Ropa,Norte,Débito,45.92,3,3.8,4.8
 3466,Ropa,Centro,Transferencia,29.27,4,4.7,4.3
 3467,Hogar,Centro,Transferencia,55.14,4,2.9,3.6
@@ -3496,7 +3496,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 3495,Deportes,Sur,Débito,39.4,1,3.4,5.9
 3496,Hogar,Norte,Tarjeta,61.89,5,2.1,3.3
 3497,Deportes,Centro,Débito,40.44,4,5.3,3.5
-3498,Deportes,Sur,Tarjeta,64.45,1,-1.2,3.8
+3498,Deportes,Sur,Tarjeta,64.45,1,1.2,3.8
 3499,Ropa,Centro,Transferencia,70.07,2,3.4,5.7
 3500,Ropa,Sur,Débito,62.67,3,3.6,5.0
 3501,Deportes,Centro,Débito,70.81,2,0.2,3.2
@@ -3525,7 +3525,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 3524,Ropa,Sur,Débito,34.16,5,2.1,2.9
 3525,Deportes,Sur,Débito,38.12,1,3.1,5.9
 3526,Electrónica,Norte,Tarjeta,51.96,1,3.0,4.7
-3527,Electrónica,Sur,Tarjeta,31.25,2,-0.1,5.0
+3527,Electrónica,Sur,Tarjeta,31.25,2,0.1,5.0
 3528,Electrónica,Sur,Tarjeta,48.8,1,2.0,3.5
 3529,Hogar,Sur,Transferencia,17.44,2,2.7,3.7
 3530,Ropa,Norte,Débito,16.51,4,1.9,3.1
@@ -3533,7 +3533,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 3532,Electrónica,Norte,Débito,48.47,5,3.6,4.6
 3533,Electrónica,Centro,Débito,54.42,3,2.5,3.4
 3534,Deportes,Centro,Tarjeta,31.67,1,3.1,4.1
-3535,Hogar,Sur,Débito,-10.32,5,3.1,5.1
+3535,Hogar,Sur,Débito,10.32,5,3.1,5.1
 3536,Electrónica,Sur,Débito,27.49,5,3.1,5.7
 3537,Ropa,Centro,Tarjeta,82.54,2,3.3,3.7
 3538,Deportes,Sur,Transferencia,73.9,2,1.5,4.2
@@ -3642,7 +3642,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 3641,Electrónica,Sur,Transferencia,49.72,1,1.7,3.6
 3642,Deportes,Norte,Tarjeta,20.81,4,4.2,3.9
 3643,Deportes,Centro,Débito,57.33,3,3.5,3.2
-3644,Hogar,Sur,Transferencia,-0.63,2,2.7,5.5
+3644,Hogar,Sur,Transferencia,0.63,2,2.7,5.5
 3645,Hogar,Centro,Transferencia,74.66,2,5.0,3.9
 3646,Electrónica,Sur,Débito,6.97,3,2.2,4.5
 3647,Ropa,Centro,Tarjeta,39.98,1,2.4,4.3
@@ -3685,7 +3685,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 3684,Deportes,Sur,Débito,51.07,1,4.9,5.0
 3685,Deportes,Centro,Tarjeta,55.87,3,1.5,2.7
 3686,Electrónica,Sur,Tarjeta,58.72,2,4.8,4.5
-3687,Hogar,Centro,Débito,-15.07,3,2.5,5.9
+3687,Hogar,Centro,Débito,15.07,3,2.5,5.9
 3688,Electrónica,Centro,Tarjeta,55.38,5,2.3,5.6
 3689,Electrónica,Sur,Transferencia,98.65,1,4.7,4.4
 3690,Deportes,Centro,Transferencia,66.92,4,1.9,3.4
@@ -3706,10 +3706,10 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 3705,Deportes,Norte,Débito,18.0,2,1.2,4.5
 3706,Ropa,Norte,Tarjeta,41.8,5,1.9,4.9
 3707,Deportes,Centro,Débito,36.99,1,3.9,3.8
-3708,Hogar,Centro,Transferencia,-4.2,4,3.8,4.4
+3708,Hogar,Centro,Transferencia,4.2,4,3.8,4.4
 3709,Deportes,Sur,Tarjeta,61.49,2,3.2,4.3
 3710,Deportes,Centro,Débito,40.09,2,2.6,4.5
-3711,Deportes,Sur,Transferencia,-23.07,4,2.4,2.8
+3711,Deportes,Sur,Transferencia,23.07,4,2.4,2.8
 3712,Ropa,Centro,Débito,50.71,5,2.6,4.1
 3713,Hogar,Sur,Tarjeta,43.0,1,3.0,4.9
 3714,Hogar,Centro,Débito,29.0,1,2.5,3.3
@@ -3781,7 +3781,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 3780,Deportes,Centro,Tarjeta,17.51,4,0.5,4.6
 3781,Hogar,Sur,Transferencia,25.65,1,3.4,2.7
 3782,Ropa,Centro,Débito,62.29,2,3.9,5.0
-3783,Electrónica,Sur,Tarjeta,-6.41,4,1.5,4.0
+3783,Electrónica,Sur,Tarjeta,6.41,4,1.5,4.0
 3784,Ropa,Sur,Transferencia,26.69,5,4.7,4.6
 3785,Hogar,Centro,Tarjeta,21.54,2,3.6,3.4
 3786,Ropa,Centro,Transferencia,27.37,3,2.3,4.4
@@ -3913,7 +3913,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 3912,Ropa,Centro,Transferencia,54.12,3,3.8,4.3
 3913,Ropa,Sur,Débito,32.23,5,3.3,5.5
 3914,Hogar,Centro,Tarjeta,73.48,2,3.0,3.7
-3915,Ropa,Norte,Débito,-9.03,2,3.3,4.1
+3915,Ropa,Norte,Débito,9.03,2,3.3,4.1
 3916,Ropa,Norte,Débito,63.95,3,2.7,4.9
 3917,Hogar,Sur,Tarjeta,55.44,3,3.9,5.4
 3918,Deportes,Norte,Débito,56.37,3,3.2,4.0
@@ -3979,7 +3979,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 3978,Deportes,Centro,Tarjeta,13.97,5,3.2,5.1
 3979,Deportes,Centro,Tarjeta,67.56,5,4.9,4.5
 3980,Electrónica,Norte,Transferencia,27.73,2,4.0,4.6
-3981,Deportes,Centro,Débito,-1.65,5,4.9,5.4
+3981,Deportes,Centro,Débito,1.65,5,4.9,5.4
 3982,Deportes,Sur,Débito,35.49,3,4.6,4.8
 3983,Deportes,Norte,Débito,39.66,3,3.5,2.8
 3984,Hogar,Sur,Débito,5.76,2,3.2,3.5
@@ -4008,7 +4008,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 4007,Ropa,Sur,Transferencia,32.13,1,4.1,5.2
 4008,Deportes,Sur,Débito,66.32,4,3.0,3.2
 4009,Ropa,Norte,Tarjeta,32.37,1,5.8,2.3
-4010,Electrónica,Centro,Transferencia,-22.4,4,1.6,4.3
+4010,Electrónica,Centro,Transferencia,22.4,4,1.6,4.3
 4011,Ropa,Centro,Transferencia,48.02,3,3.7,4.4
 4012,Ropa,Centro,Débito,24.68,4,2.9,3.5
 4013,Hogar,Centro,Transferencia,26.77,5,1.6,4.7
@@ -4097,7 +4097,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 4096,Electrónica,Norte,Tarjeta,20.55,3,2.6,5.0
 4097,Hogar,Sur,Débito,7.39,4,3.4,4.7
 4098,Hogar,Norte,Débito,78.08,5,2.2,5.4
-4099,Hogar,Sur,Débito,-5.06,3,2.9,5.5
+4099,Hogar,Sur,Débito,5.06,3,2.9,5.5
 4100,Ropa,Sur,Débito,91.32,5,1.1,5.6
 4101,Ropa,Centro,Tarjeta,32.01,5,2.6,3.9
 4102,Deportes,Centro,Transferencia,35.5,3,2.0,5.1
@@ -4125,7 +4125,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 4124,Hogar,Centro,Débito,38.77,3,2.1,4.6
 4125,Hogar,Norte,Débito,58.39,2,1.1,5.0
 4126,Deportes,Centro,Débito,19.89,3,1.4,5.4
-4127,Ropa,Centro,Débito,46.22,5,-0.1,4.5
+4127,Ropa,Centro,Débito,46.22,5,0.1,4.5
 4128,Deportes,Centro,Transferencia,68.5,1,1.7,2.7
 4129,Hogar,Centro,Transferencia,42.42,1,3.2,2.9
 4130,Electrónica,Norte,Tarjeta,65.87,2,3.3,3.8
@@ -4135,7 +4135,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 4134,Deportes,Centro,Tarjeta,33.1,1,3.5,5.7
 4135,Deportes,Centro,Débito,38.41,3,4.8,3.4
 4136,Electrónica,Sur,Débito,49.84,4,2.7,3.8
-4137,Electrónica,Norte,Débito,44.31,1,-0.1,3.0
+4137,Electrónica,Norte,Débito,44.31,1,0.1,3.0
 4138,Electrónica,Sur,Tarjeta,60.41,3,1.2,4.7
 4139,Ropa,Norte,Débito,57.29,2,3.2,3.8
 4140,Deportes,Sur,Tarjeta,48.92,4,3.6,4.0
@@ -4155,7 +4155,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 4154,Hogar,Sur,Transferencia,42.86,5,4.7,5.1
 4155,Ropa,Norte,Débito,45.88,4,3.4,4.4
 4156,Ropa,Sur,Tarjeta,58.63,1,2.3,4.1
-4157,Ropa,Sur,Débito,53.75,3,-0.1,4.2
+4157,Ropa,Sur,Débito,53.75,3,0.1,4.2
 4158,Deportes,Sur,Tarjeta,53.51,1,2.3,4.2
 4159,Ropa,Norte,Transferencia,56.38,5,1.9,4.2
 4160,Electrónica,Centro,Débito,59.79,1,2.1,5.0
@@ -4199,7 +4199,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 4198,Ropa,Sur,Transferencia,13.67,1,5.6,4.1
 4199,Electrónica,Sur,Débito,28.34,1,3.2,3.7
 4200,Hogar,Sur,Tarjeta,46.22,3,2.5,4.0
-4201,Hogar,Centro,Tarjeta,63.97,5,-1.0,3.9
+4201,Hogar,Centro,Tarjeta,63.97,5,1.0,3.9
 4202,Electrónica,Centro,Transferencia,66.39,4,3.4,3.8
 4203,Deportes,Sur,Transferencia,82.69,5,2.8,3.7
 4204,Ropa,Sur,Débito,56.57,2,3.8,4.6
@@ -4386,11 +4386,11 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 4385,Ropa,Norte,Débito,70.96,3,3.4,3.6
 4386,Electrónica,Norte,Transferencia,8.01,5,3.1,3.8
 4387,Ropa,Norte,Débito,27.85,2,3.9,4.3
-4388,Hogar,Centro,Débito,-0.65,3,4.1,4.5
+4388,Hogar,Centro,Débito,0.65,3,4.1,4.5
 4389,Hogar,Sur,Tarjeta,54.13,5,3.2,4.3
 4390,Electrónica,Norte,Tarjeta,53.46,2,2.5,3.6
 4391,Hogar,Sur,Transferencia,68.09,5,4.0,4.8
-4392,Hogar,Sur,Tarjeta,-9.61,3,2.9,5.1
+4392,Hogar,Sur,Tarjeta,9.61,3,2.9,5.1
 4393,Ropa,Norte,Débito,45.0,3,5.3,4.7
 4394,Ropa,Centro,Transferencia,18.51,2,3.4,4.8
 4395,Ropa,Norte,Débito,44.63,4,3.8,3.0
@@ -4522,7 +4522,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 4521,Hogar,Norte,Tarjeta,63.16,3,4.3,4.8
 4522,Electrónica,Sur,Transferencia,34.58,3,4.9,5.0
 4523,Electrónica,Centro,Transferencia,48.87,2,2.0,4.0
-4524,Deportes,Sur,Tarjeta,56.91,2,-0.9,4.0
+4524,Deportes,Sur,Tarjeta,56.91,2,0.9,4.0
 4525,Electrónica,Sur,Débito,40.84,3,4.1,4.3
 4526,Hogar,Centro,Tarjeta,60.05,4,3.5,5.4
 4527,Deportes,Norte,Débito,38.87,2,4.2,4.2
@@ -4802,13 +4802,13 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 4801,Deportes,Norte,Débito,75.49,3,1.8,4.2
 4802,Hogar,Sur,Débito,15.74,2,2.7,5.6
 4803,Electrónica,Norte,Débito,34.17,2,3.4,2.9
-4804,Deportes,Norte,Débito,-5.33,2,2.9,5.0
+4804,Deportes,Norte,Débito,5.33,2,2.9,5.0
 4805,Hogar,Sur,Tarjeta,38.04,5,2.5,3.1
 4806,Hogar,Sur,Débito,71.29,1,5.2,5.3
 4807,Electrónica,Norte,Débito,69.45,1,2.9,4.8
 4808,Electrónica,Norte,Débito,35.88,2,3.2,4.7
 4809,Ropa,Sur,Transferencia,36.99,5,2.8,3.5
-4810,Deportes,Centro,Débito,-3.05,2,4.8,4.0
+4810,Deportes,Centro,Débito,3.05,2,4.8,4.0
 4811,Ropa,Sur,Débito,51.74,5,4.4,3.9
 4812,Hogar,Centro,Tarjeta,24.25,4,3.5,4.1
 4813,Ropa,Norte,Transferencia,37.21,3,5.2,2.9
@@ -4897,7 +4897,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 4896,Ropa,Centro,Débito,13.74,1,4.8,3.7
 4897,Electrónica,Norte,Transferencia,65.89,2,1.8,3.6
 4898,Electrónica,Norte,Tarjeta,66.77,2,4.2,5.5
-4899,Deportes,Norte,Transferencia,-5.87,3,3.4,3.6
+4899,Deportes,Norte,Transferencia,5.87,3,3.4,3.6
 4900,Hogar,Norte,Tarjeta,66.72,2,0.5,3.0
 4901,Deportes,Norte,Tarjeta,41.65,4,2.5,4.3
 4902,Hogar,Centro,Tarjeta,65.3,3,5.9,5.2
@@ -4939,7 +4939,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 4938,Ropa,Sur,Débito,43.12,4,3.6,5.9
 4939,Deportes,Norte,Transferencia,31.81,2,0.9,3.1
 4940,Ropa,Sur,Tarjeta,44.78,3,2.0,3.6
-4941,Ropa,Sur,Transferencia,-0.11,4,2.9,5.1
+4941,Ropa,Sur,Transferencia,0.11,4,2.9,5.1
 4942,Hogar,Sur,Transferencia,2.4,2,4.5,3.7
 4943,Hogar,Sur,Tarjeta,65.15,3,3.8,3.5
 4944,Ropa,Sur,Tarjeta,30.73,3,2.8,5.1
@@ -5015,7 +5015,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 5014,Ropa,Sur,Transferencia,51.41,4,2.6,3.5
 5015,Hogar,Sur,Tarjeta,39.98,5,2.7,4.1
 5016,Deportes,Sur,Débito,67.37,5,3.2,4.2
-5017,Hogar,Sur,Transferencia,-8.47,2,3.3,3.3
+5017,Hogar,Sur,Transferencia,8.47,2,3.3,3.3
 5018,Deportes,Centro,Tarjeta,39.31,5,2.4,4.2
 5019,Deportes,Centro,Transferencia,11.14,2,5.1,2.9
 5020,Deportes,Sur,Transferencia,71.21,3,1.1,3.5
@@ -5345,7 +5345,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 5344,Hogar,Sur,Débito,67.13,5,4.1,4.8
 5345,Deportes,Sur,Transferencia,84.93,2,2.1,3.6
 5346,Deportes,Sur,Transferencia,67.72,5,2.6,2.9
-5347,Deportes,Centro,Tarjeta,-0.34,2,4.0,2.4
+5347,Deportes,Centro,Tarjeta,0.34,2,4.0,2.4
 5348,Deportes,Centro,Tarjeta,51.83,4,4.0,3.9
 5349,Ropa,Norte,Débito,63.69,3,1.1,3.5
 5350,Electrónica,Sur,Transferencia,36.65,3,5.2,3.7
@@ -5370,7 +5370,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 5369,Hogar,Norte,Tarjeta,47.67,5,2.0,4.8
 5370,Deportes,Centro,Débito,11.51,2,2.7,5.1
 5371,Ropa,Sur,Transferencia,86.45,4,3.2,4.3
-5372,Electrónica,Norte,Tarjeta,-8.73,3,2.9,4.9
+5372,Electrónica,Norte,Tarjeta,8.73,3,2.9,4.9
 5373,Hogar,Centro,Tarjeta,59.75,2,3.9,4.2
 5374,Electrónica,Sur,Transferencia,86.35,2,2.3,4.5
 5375,Electrónica,Norte,Tarjeta,35.21,3,3.3,3.2
@@ -5400,7 +5400,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 5399,Deportes,Norte,Tarjeta,21.63,2,2.9,2.9
 5400,Ropa,Sur,Tarjeta,58.48,4,4.0,5.1
 5401,Hogar,Norte,Transferencia,64.77,1,1.8,3.8
-5402,Deportes,Norte,Débito,-0.19,5,3.9,3.9
+5402,Deportes,Norte,Débito,0.19,5,3.9,3.9
 5403,Ropa,Norte,Tarjeta,31.83,5,3.5,3.7
 5404,Deportes,Norte,Débito,6.12,2,3.4,4.6
 5405,Hogar,Centro,Tarjeta,25.66,2,2.3,4.1
@@ -5604,7 +5604,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 5603,Hogar,Norte,Tarjeta,45.38,4,3.4,5.9
 5604,Ropa,Norte,Débito,50.78,2,3.7,6.0
 5605,Deportes,Centro,Débito,71.47,2,3.1,4.4
-5606,Electrónica,Sur,Transferencia,16.89,5,-0.8,5.1
+5606,Electrónica,Sur,Transferencia,16.89,5,0.8,5.1
 5607,Electrónica,Norte,Transferencia,56.44,1,2.8,4.9
 5608,Deportes,Sur,Débito,65.61,5,3.5,4.4
 5609,Electrónica,Norte,Transferencia,65.57,5,1.9,3.7
@@ -5618,7 +5618,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 5617,Hogar,Sur,Transferencia,58.1,4,1.3,3.3
 5618,Electrónica,Centro,Débito,33.67,3,4.0,4.2
 5619,Deportes,Centro,Débito,50.05,2,3.1,3.8
-5620,Ropa,Norte,Débito,-14.37,3,2.3,3.1
+5620,Ropa,Norte,Débito,14.37,3,2.3,3.1
 5621,Ropa,Centro,Débito,41.85,5,3.4,4.7
 5622,Electrónica,Sur,Transferencia,64.29,3,4.3,3.1
 5623,Deportes,Norte,Tarjeta,37.81,3,1.3,4.5
@@ -5909,7 +5909,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 5908,Electrónica,Centro,Transferencia,53.84,1,6.0,4.8
 5909,Electrónica,Sur,Débito,47.06,1,3.4,4.2
 5910,Hogar,Norte,Débito,36.82,2,3.3,3.1
-5911,Electrónica,Sur,Débito,-3.78,4,3.0,4.3
+5911,Electrónica,Sur,Débito,3.78,4,3.0,4.3
 5912,Electrónica,Sur,Tarjeta,67.9,3,2.0,5.4
 5913,Hogar,Sur,Débito,33.49,5,4.9,3.8
 5914,Ropa,Sur,Débito,27.48,1,4.1,4.2
@@ -5946,7 +5946,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 5945,Deportes,Sur,Transferencia,33.61,2,2.8,3.2
 5946,Hogar,Sur,Tarjeta,66.43,1,3.2,2.9
 5947,Electrónica,Sur,Transferencia,62.89,3,2.7,4.4
-5948,Ropa,Norte,Débito,-9.91,2,3.8,3.4
+5948,Ropa,Norte,Débito,9.91,2,3.8,3.4
 5949,Electrónica,Centro,Débito,24.24,3,3.2,5.3
 5950,Hogar,Sur,Débito,58.86,4,0.7,3.0
 5951,Ropa,Sur,Transferencia,55.82,5,3.9,3.8
@@ -6024,7 +6024,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6023,Ropa,Centro,Tarjeta,35.89,2,0.5,3.6
 6024,Deportes,Sur,Débito,58.54,4,4.4,4.8
 6025,Electrónica,Sur,Tarjeta,104.2,2,3.8,4.3
-6026,Electrónica,Norte,Tarjeta,-8.54,1,2.8,4.1
+6026,Electrónica,Norte,Tarjeta,8.54,1,2.8,4.1
 6027,Ropa,Norte,Tarjeta,36.35,1,2.7,4.7
 6028,Ropa,Sur,Débito,11.48,1,4.1,4.0
 6029,Electrónica,Centro,Transferencia,35.79,3,2.2,4.4
@@ -6083,7 +6083,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6082,Electrónica,Sur,Tarjeta,46.17,4,3.4,4.8
 6083,Deportes,Sur,Débito,30.73,1,1.1,3.4
 6084,Hogar,Centro,Débito,70.87,2,2.8,4.6
-6085,Hogar,Norte,Transferencia,-2.7,5,3.5,3.0
+6085,Hogar,Norte,Transferencia,2.7,5,3.5,3.0
 6086,Hogar,Centro,Débito,56.99,2,4.8,3.9
 6087,Deportes,Centro,Tarjeta,39.61,2,4.1,3.6
 6088,Hogar,Norte,Tarjeta,59.31,4,4.3,5.8
@@ -6106,7 +6106,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6105,Ropa,Sur,Transferencia,66.61,1,2.9,2.9
 6106,Hogar,Norte,Débito,38.47,2,3.6,5.3
 6107,Ropa,Norte,Débito,30.84,4,2.2,4.4
-6108,Hogar,Sur,Tarjeta,-3.12,4,5.0,4.7
+6108,Hogar,Sur,Tarjeta,3.12,4,5.0,4.7
 6109,Electrónica,Norte,Débito,15.82,4,1.3,3.4
 6110,Electrónica,Sur,Débito,23.85,1,2.1,3.9
 6111,Ropa,Norte,Transferencia,31.93,2,1.1,5.1
@@ -6160,7 +6160,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6159,Electrónica,Centro,Transferencia,12.93,4,2.6,3.5
 6160,Deportes,Norte,Tarjeta,10.81,1,4.2,5.5
 6161,Hogar,Sur,Débito,26.95,5,3.5,5.4
-6162,Hogar,Norte,Transferencia,-1.57,1,0.9,4.2
+6162,Hogar,Norte,Transferencia,1.57,1,0.9,4.2
 6163,Electrónica,Centro,Transferencia,56.83,3,2.2,3.9
 6164,Hogar,Norte,Transferencia,27.95,3,1.7,3.6
 6165,Hogar,Sur,Débito,45.29,2,1.6,3.8
@@ -6225,10 +6225,10 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6224,Ropa,Centro,Tarjeta,55.62,3,2.3,4.1
 6225,Deportes,Centro,Débito,65.27,2,3.1,3.3
 6226,Hogar,Sur,Transferencia,49.46,2,2.3,3.7
-6227,Electrónica,Centro,Transferencia,-7.75,4,1.7,4.6
+6227,Electrónica,Centro,Transferencia,7.75,4,1.7,4.6
 6228,Electrónica,Sur,Débito,7.23,2,2.7,3.6
 6229,Electrónica,Centro,Tarjeta,18.95,3,2.3,5.2
-6230,Electrónica,Centro,Tarjeta,-3.54,4,2.5,3.3
+6230,Electrónica,Centro,Tarjeta,3.54,4,2.5,3.3
 6231,Deportes,Sur,Débito,50.75,2,3.5,3.8
 6232,Hogar,Centro,Transferencia,15.97,5,4.6,4.1
 6233,Electrónica,Sur,Débito,3.16,4,2.2,4.5
@@ -6305,7 +6305,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6304,Deportes,Sur,Transferencia,42.2,2,4.5,3.7
 6305,Deportes,Norte,Tarjeta,50.72,2,2.7,4.7
 6306,Electrónica,Norte,Tarjeta,1.03,5,2.5,4.6
-6307,Electrónica,Norte,Transferencia,-6.63,5,3.7,5.5
+6307,Electrónica,Norte,Transferencia,6.63,5,3.7,5.5
 6308,Ropa,Sur,Tarjeta,15.28,2,1.6,3.7
 6309,Deportes,Sur,Tarjeta,60.3,1,5.0,4.4
 6310,Deportes,Norte,Débito,42.1,4,3.4,2.8
@@ -6343,7 +6343,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6342,Hogar,Sur,Tarjeta,32.81,4,5.0,4.3
 6343,Hogar,Centro,Débito,73.67,5,3.1,3.5
 6344,Hogar,Sur,Transferencia,44.42,4,3.3,4.3
-6345,Electrónica,Centro,Tarjeta,-24.87,5,3.6,2.8
+6345,Electrónica,Centro,Tarjeta,24.87,5,3.6,2.8
 6346,Hogar,Norte,Transferencia,40.87,2,3.3,4.7
 6347,Ropa,Centro,Transferencia,10.72,1,0.8,3.5
 6348,Hogar,Norte,Tarjeta,20.02,1,3.0,3.8
@@ -6366,7 +6366,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6365,Deportes,Norte,Débito,49.93,5,3.4,4.8
 6366,Deportes,Sur,Transferencia,34.95,3,5.6,3.6
 6367,Hogar,Centro,Tarjeta,20.96,3,3.4,4.3
-6368,Hogar,Sur,Transferencia,-4.75,4,1.8,5.3
+6368,Hogar,Sur,Transferencia,4.75,4,1.8,5.3
 6369,Ropa,Centro,Transferencia,91.23,5,2.9,3.9
 6370,Electrónica,Norte,Débito,37.25,3,3.4,2.6
 6371,Hogar,Sur,Débito,29.84,3,5.4,2.9
@@ -6390,7 +6390,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6389,Hogar,Sur,Débito,53.89,2,5.9,4.6
 6390,Electrónica,Norte,Transferencia,7.22,2,3.8,3.7
 6391,Deportes,Sur,Débito,42.33,1,3.6,2.9
-6392,Deportes,Centro,Débito,12.91,2,-0.0,4.2
+6392,Deportes,Centro,Débito,12.91,2,0.0,4.2
 6393,Ropa,Sur,Transferencia,54.95,4,1.0,6.1
 6394,Electrónica,Sur,Transferencia,54.85,2,1.6,4.0
 6395,Electrónica,Centro,Tarjeta,43.95,1,2.9,2.6
@@ -6417,14 +6417,14 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6416,Hogar,Centro,Transferencia,68.85,3,2.5,3.8
 6417,Hogar,Centro,Débito,53.95,2,1.1,5.7
 6418,Electrónica,Centro,Débito,69.52,5,2.2,3.0
-6419,Ropa,Centro,Tarjeta,-0.61,4,1.0,5.3
+6419,Ropa,Centro,Tarjeta,0.61,4,1.0,5.3
 6420,Electrónica,Centro,Transferencia,33.88,1,4.9,4.5
 6421,Ropa,Sur,Débito,43.6,5,4.4,3.6
 6422,Hogar,Centro,Transferencia,52.26,3,2.0,4.8
 6423,Ropa,Centro,Transferencia,39.4,4,3.4,4.4
 6424,Deportes,Sur,Tarjeta,41.37,2,1.4,3.1
 6425,Hogar,Centro,Débito,34.17,4,1.6,2.5
-6426,Hogar,Norte,Tarjeta,41.5,4,-0.0,4.9
+6426,Hogar,Norte,Tarjeta,41.5,4,0.0,4.9
 6427,Deportes,Sur,Débito,39.98,4,3.4,3.7
 6428,Electrónica,Sur,Débito,79.66,5,3.6,4.2
 6429,Ropa,Sur,Débito,46.0,2,3.0,4.6
@@ -6448,13 +6448,13 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6447,Hogar,Centro,Débito,46.47,5,4.2,4.7
 6448,Ropa,Norte,Débito,19.77,1,3.9,5.1
 6449,Ropa,Norte,Transferencia,52.07,4,0.1,3.8
-6450,Hogar,Norte,Tarjeta,-0.86,3,2.0,2.9
-6451,Ropa,Centro,Transferencia,64.06,2,-0.2,2.5
+6450,Hogar,Norte,Tarjeta,0.86,3,2.0,2.9
+6451,Ropa,Centro,Transferencia,64.06,2,0.2,2.5
 6452,Ropa,Norte,Tarjeta,35.6,2,2.6,3.0
 6453,Hogar,Centro,Tarjeta,62.3,2,3.0,4.2
 6454,Ropa,Centro,Débito,55.88,3,2.8,6.0
 6455,Hogar,Sur,Tarjeta,51.94,4,5.2,4.9
-6456,Electrónica,Sur,Transferencia,-12.97,5,2.5,5.3
+6456,Electrónica,Sur,Transferencia,12.97,5,2.5,5.3
 6457,Ropa,Centro,Tarjeta,42.94,5,4.4,4.1
 6458,Electrónica,Sur,Tarjeta,45.1,3,2.6,4.8
 6459,Deportes,Sur,Débito,83.92,5,3.0,3.9
@@ -6462,7 +6462,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6461,Deportes,Sur,Débito,46.94,5,2.8,4.3
 6462,Hogar,Norte,Transferencia,22.19,2,3.3,3.7
 6463,Deportes,Norte,Débito,25.68,3,2.1,4.3
-6464,Electrónica,Centro,Tarjeta,-0.7,5,2.6,3.3
+6464,Electrónica,Centro,Tarjeta,0.7,5,2.6,3.3
 6465,Hogar,Sur,Tarjeta,37.13,2,3.2,4.0
 6466,Deportes,Norte,Transferencia,52.74,3,3.8,4.0
 6467,Electrónica,Norte,Tarjeta,56.64,4,2.1,4.6
@@ -6493,7 +6493,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6492,Electrónica,Norte,Tarjeta,43.42,3,2.2,3.2
 6493,Hogar,Sur,Tarjeta,47.51,1,3.9,5.3
 6494,Deportes,Norte,Tarjeta,32.14,3,3.4,3.4
-6495,Electrónica,Centro,Débito,-22.61,2,2.2,3.2
+6495,Electrónica,Centro,Débito,22.61,2,2.2,3.2
 6496,Electrónica,Norte,Transferencia,29.36,5,1.8,4.2
 6497,Deportes,Norte,Débito,39.45,5,4.3,3.7
 6498,Deportes,Centro,Débito,57.54,3,1.8,5.4
@@ -6507,7 +6507,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6506,Ropa,Sur,Débito,48.73,2,3.0,4.0
 6507,Hogar,Centro,Débito,33.45,4,2.2,2.7
 6508,Ropa,Sur,Transferencia,29.79,5,6.1,2.4
-6509,Electrónica,Centro,Débito,-2.27,3,5.7,5.0
+6509,Electrónica,Centro,Débito,2.27,3,5.7,5.0
 6510,Ropa,Sur,Débito,64.04,5,1.6,4.2
 6511,Electrónica,Norte,Tarjeta,22.72,4,4.0,3.8
 6512,Deportes,Sur,Transferencia,48.67,1,3.6,4.4
@@ -6571,7 +6571,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6570,Ropa,Centro,Transferencia,32.45,3,2.3,3.6
 6571,Hogar,Centro,Tarjeta,66.95,5,5.7,4.0
 6572,Deportes,Norte,Tarjeta,73.41,2,2.4,4.6
-6573,Deportes,Centro,Débito,-4.73,1,2.4,3.9
+6573,Deportes,Centro,Débito,4.73,1,2.4,3.9
 6574,Hogar,Norte,Débito,38.99,4,3.8,4.8
 6575,Hogar,Centro,Tarjeta,48.78,3,4.5,2.7
 6576,Deportes,Centro,Transferencia,6.45,1,3.6,3.8
@@ -6606,7 +6606,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6605,Electrónica,Norte,Débito,37.73,3,3.6,5.4
 6606,Ropa,Centro,Débito,58.02,4,3.0,4.7
 6607,Hogar,Sur,Transferencia,40.52,5,3.3,4.1
-6608,Hogar,Sur,Débito,-25.42,2,2.8,4.6
+6608,Hogar,Sur,Débito,25.42,2,2.8,4.6
 6609,Ropa,Centro,Transferencia,45.02,4,3.7,4.3
 6610,Electrónica,Norte,Tarjeta,43.49,3,3.5,4.4
 6611,Deportes,Centro,Transferencia,35.25,4,4.4,4.1
@@ -6683,7 +6683,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6682,Electrónica,Sur,Débito,31.0,3,2.2,3.7
 6683,Deportes,Norte,Transferencia,61.45,5,2.9,3.7
 6684,Electrónica,Centro,Transferencia,70.26,1,3.7,4.1
-6685,Deportes,Centro,Transferencia,-0.2,3,2.7,4.1
+6685,Deportes,Centro,Transferencia,0.2,3,2.7,4.1
 6686,Electrónica,Centro,Débito,21.77,5,7.1,4.4
 6687,Deportes,Norte,Transferencia,35.2,1,1.8,4.7
 6688,Deportes,Sur,Tarjeta,15.48,1,2.8,4.9
@@ -6692,7 +6692,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6691,Electrónica,Norte,Tarjeta,34.58,1,0.8,3.8
 6692,Hogar,Centro,Tarjeta,35.82,3,2.8,3.4
 6693,Ropa,Sur,Débito,55.33,5,2.5,4.3
-6694,Ropa,Centro,Transferencia,-3.19,2,2.4,4.7
+6694,Ropa,Centro,Transferencia,3.19,2,2.4,4.7
 6695,Electrónica,Sur,Débito,52.5,5,1.0,3.9
 6696,Hogar,Sur,Débito,41.93,4,3.3,4.1
 6697,Deportes,Centro,Transferencia,27.55,3,4.7,3.7
@@ -6815,7 +6815,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6814,Electrónica,Sur,Débito,51.56,2,3.1,3.3
 6815,Hogar,Norte,Tarjeta,13.08,2,1.9,3.7
 6816,Ropa,Norte,Transferencia,20.81,5,3.4,4.5
-6817,Ropa,Sur,Tarjeta,-0.88,4,2.3,5.6
+6817,Ropa,Sur,Tarjeta,0.88,4,2.3,5.6
 6818,Deportes,Centro,Transferencia,40.9,2,2.8,3.9
 6819,Electrónica,Centro,Transferencia,76.43,3,4.3,3.2
 6820,Hogar,Centro,Transferencia,34.65,3,3.6,3.8
@@ -6892,10 +6892,10 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6891,Ropa,Centro,Transferencia,56.88,1,3.1,4.2
 6892,Electrónica,Centro,Transferencia,64.75,1,2.5,5.3
 6893,Hogar,Norte,Tarjeta,12.71,4,1.9,5.3
-6894,Ropa,Centro,Tarjeta,-0.04,4,3.6,4.4
+6894,Ropa,Centro,Tarjeta,0.04,4,3.6,4.4
 6895,Deportes,Centro,Tarjeta,49.63,2,1.6,4.0
 6896,Hogar,Norte,Tarjeta,23.32,3,4.6,4.9
-6897,Hogar,Sur,Tarjeta,-1.44,1,2.7,4.3
+6897,Hogar,Sur,Tarjeta,1.44,1,2.7,4.3
 6898,Ropa,Sur,Débito,44.33,5,3.4,3.6
 6899,Ropa,Sur,Tarjeta,60.57,5,3.0,4.6
 6900,Deportes,Norte,Tarjeta,19.12,5,6.2,4.3
@@ -6976,7 +6976,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 6975,Ropa,Sur,Tarjeta,63.94,4,3.0,3.1
 6976,Electrónica,Sur,Débito,35.53,5,5.2,4.2
 6977,Ropa,Norte,Transferencia,41.96,5,3.3,4.8
-6978,Electrónica,Centro,Débito,-1.84,3,2.2,4.7
+6978,Electrónica,Centro,Débito,1.84,3,2.2,4.7
 6979,Hogar,Centro,Tarjeta,63.69,5,2.6,5.9
 6980,Deportes,Sur,Transferencia,54.51,3,3.7,3.7
 6981,Electrónica,Sur,Tarjeta,33.34,1,3.6,2.8
@@ -7032,14 +7032,14 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 7031,Electrónica,Centro,Débito,53.23,2,2.3,4.6
 7032,Deportes,Centro,Débito,41.32,1,2.1,5.1
 7033,Hogar,Norte,Débito,54.45,3,3.1,5.0
-7034,Hogar,Sur,Débito,-5.97,5,3.7,4.5
+7034,Hogar,Sur,Débito,5.97,5,3.7,4.5
 7035,Electrónica,Sur,Transferencia,19.62,2,2.8,3.1
 7036,Hogar,Norte,Transferencia,37.42,1,2.4,3.6
 7037,Deportes,Sur,Débito,26.73,1,2.7,5.9
 7038,Ropa,Norte,Tarjeta,45.05,5,1.8,4.4
 7039,Deportes,Norte,Débito,64.95,5,3.1,5.1
 7040,Deportes,Sur,Transferencia,79.43,3,2.7,4.1
-7041,Deportes,Sur,Débito,-12.75,2,4.6,5.3
+7041,Deportes,Sur,Débito,12.75,2,4.6,5.3
 7042,Electrónica,Norte,Tarjeta,43.18,2,3.7,4.5
 7043,Deportes,Norte,Transferencia,44.78,1,3.3,4.2
 7044,Hogar,Norte,Tarjeta,0.03,3,2.4,4.2
@@ -7089,7 +7089,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 7088,Electrónica,Sur,Débito,54.05,5,3.5,4.5
 7089,Hogar,Norte,Transferencia,46.67,5,2.9,4.1
 7090,Ropa,Centro,Débito,56.06,2,1.7,3.8
-7091,Ropa,Sur,Tarjeta,55.86,2,-0.5,2.7
+7091,Ropa,Sur,Tarjeta,55.86,2,0.5,2.7
 7092,Hogar,Centro,Transferencia,64.84,4,3.0,5.6
 7093,Electrónica,Norte,Tarjeta,71.99,3,3.1,4.2
 7094,Ropa,Norte,Débito,67.96,4,1.6,4.3
@@ -7221,7 +7221,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 7220,Ropa,Centro,Transferencia,29.58,5,2.7,3.0
 7221,Electrónica,Sur,Transferencia,44.11,5,3.3,4.7
 7222,Deportes,Norte,Tarjeta,85.64,2,3.3,4.4
-7223,Hogar,Norte,Débito,-1.74,3,2.4,3.8
+7223,Hogar,Norte,Débito,1.74,3,2.4,3.8
 7224,Deportes,Norte,Débito,42.09,2,4.3,3.9
 7225,Electrónica,Sur,Transferencia,31.56,2,3.1,3.9
 7226,Electrónica,Norte,Tarjeta,36.2,4,3.0,4.7
@@ -7246,7 +7246,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 7245,Deportes,Centro,Transferencia,43.42,2,2.6,2.8
 7246,Hogar,Centro,Débito,57.86,3,1.1,4.4
 7247,Electrónica,Sur,Débito,70.01,1,2.5,3.5
-7248,Deportes,Sur,Transferencia,-5.44,4,3.5,3.1
+7248,Deportes,Sur,Transferencia,5.44,4,3.5,3.1
 7249,Ropa,Norte,Tarjeta,79.29,1,0.5,3.6
 7250,Ropa,Sur,Transferencia,61.11,3,2.1,4.6
 7251,Deportes,Centro,Tarjeta,77.01,4,2.5,4.3
@@ -7328,14 +7328,14 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 7327,Electrónica,Centro,Tarjeta,80.05,2,2.3,5.1
 7328,Hogar,Centro,Transferencia,31.98,5,4.3,4.6
 7329,Electrónica,Sur,Tarjeta,19.2,4,3.1,3.4
-7330,Electrónica,Centro,Débito,-11.13,2,6.8,4.9
+7330,Electrónica,Centro,Débito,11.13,2,6.8,4.9
 7331,Ropa,Norte,Tarjeta,91.42,3,1.1,3.6
 7332,Electrónica,Centro,Transferencia,51.58,1,3.7,2.3
 7333,Ropa,Sur,Tarjeta,93.04,5,2.5,4.5
 7334,Deportes,Norte,Tarjeta,57.46,1,3.3,4.9
 7335,Ropa,Centro,Tarjeta,55.15,4,4.6,4.5
 7336,Electrónica,Sur,Débito,29.17,2,2.5,3.3
-7337,Electrónica,Centro,Transferencia,-5.07,2,4.1,2.8
+7337,Electrónica,Centro,Transferencia,5.07,2,4.1,2.8
 7338,Ropa,Centro,Débito,53.14,1,2.2,3.6
 7339,Electrónica,Centro,Transferencia,48.02,2,4.8,4.6
 7340,Deportes,Norte,Débito,54.42,3,3.5,3.9
@@ -7356,7 +7356,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 7355,Deportes,Centro,Tarjeta,7.89,5,1.8,4.2
 7356,Ropa,Centro,Transferencia,29.37,2,4.8,3.0
 7357,Hogar,Centro,Transferencia,37.45,3,3.3,5.1
-7358,Deportes,Sur,Débito,-3.53,2,2.6,2.4
+7358,Deportes,Sur,Débito,3.53,2,2.6,2.4
 7359,Electrónica,Norte,Débito,29.16,3,4.0,4.5
 7360,Hogar,Centro,Tarjeta,46.91,1,3.8,3.5
 7361,Ropa,Sur,Débito,23.13,4,2.4,4.9
@@ -7454,7 +7454,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 7453,Ropa,Sur,Tarjeta,35.16,4,2.8,4.5
 7454,Hogar,Norte,Transferencia,49.8,2,2.3,6.0
 7455,Ropa,Norte,Débito,26.31,4,4.6,3.6
-7456,Ropa,Norte,Débito,-5.46,1,2.0,3.9
+7456,Ropa,Norte,Débito,5.46,1,2.0,3.9
 7457,Deportes,Centro,Débito,17.64,2,4.0,4.2
 7458,Hogar,Norte,Tarjeta,47.3,2,3.5,5.3
 7459,Electrónica,Sur,Tarjeta,40.91,3,2.3,4.4
@@ -7500,11 +7500,11 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 7499,Hogar,Centro,Transferencia,59.93,3,4.0,5.0
 7500,Ropa,Centro,Débito,59.65,5,4.3,3.4
 7501,Electrónica,Centro,Transferencia,58.03,4,1.9,4.6
-7502,Ropa,Sur,Transferencia,-0.4,4,4.9,3.8
+7502,Ropa,Sur,Transferencia,0.4,4,4.9,3.8
 7503,Deportes,Centro,Débito,19.46,5,3.9,4.3
 7504,Electrónica,Sur,Transferencia,34.75,3,2.2,2.8
 7505,Hogar,Sur,Débito,17.65,1,4.3,3.9
-7506,Electrónica,Centro,Transferencia,30.37,1,-0.5,5.0
+7506,Electrónica,Centro,Transferencia,30.37,1,0.5,5.0
 7507,Ropa,Centro,Débito,38.08,3,3.0,3.7
 7508,Electrónica,Norte,Débito,92.23,1,3.2,4.2
 7509,Ropa,Centro,Tarjeta,25.37,2,1.3,4.8
@@ -7603,7 +7603,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 7602,Deportes,Centro,Transferencia,85.4,1,3.4,4.2
 7603,Ropa,Sur,Débito,25.61,2,3.3,3.9
 7604,Ropa,Norte,Débito,30.94,4,3.2,4.7
-7605,Deportes,Centro,Tarjeta,34.7,5,-0.4,6.0
+7605,Deportes,Centro,Tarjeta,34.7,5,0.4,6.0
 7606,Ropa,Sur,Débito,4.3,1,4.7,2.9
 7607,Ropa,Norte,Transferencia,28.76,1,4.4,3.0
 7608,Hogar,Norte,Débito,26.57,2,3.1,4.9
@@ -7628,11 +7628,11 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 7627,Hogar,Sur,Débito,67.19,2,5.6,3.0
 7628,Hogar,Sur,Débito,41.42,2,5.3,3.0
 7629,Hogar,Sur,Tarjeta,23.09,4,4.2,4.7
-7630,Ropa,Sur,Débito,-8.69,1,3.2,3.6
+7630,Ropa,Sur,Débito,8.69,1,3.2,3.6
 7631,Electrónica,Norte,Tarjeta,28.04,5,5.3,4.5
 7632,Deportes,Sur,Tarjeta,27.5,2,3.5,4.0
 7633,Electrónica,Centro,Tarjeta,70.98,3,2.4,5.0
-7634,Hogar,Sur,Transferencia,-7.41,1,2.1,3.0
+7634,Hogar,Sur,Transferencia,7.41,1,2.1,3.0
 7635,Ropa,Norte,Tarjeta,65.72,3,0.4,4.1
 7636,Electrónica,Centro,Débito,47.09,3,3.0,3.8
 7637,Electrónica,Sur,Transferencia,65.46,5,2.6,4.5
@@ -7667,7 +7667,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 7666,Ropa,Centro,Tarjeta,62.64,1,2.5,4.7
 7667,Deportes,Centro,Débito,57.54,1,0.3,5.4
 7668,Hogar,Centro,Tarjeta,55.75,2,4.0,4.8
-7669,Deportes,Centro,Débito,-11.35,3,4.9,4.1
+7669,Deportes,Centro,Débito,11.35,3,4.9,4.1
 7670,Deportes,Sur,Transferencia,33.89,3,3.3,3.9
 7671,Electrónica,Norte,Débito,92.34,2,3.2,4.1
 7672,Deportes,Sur,Transferencia,26.52,1,3.6,3.4
@@ -7706,7 +7706,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 7705,Ropa,Centro,Transferencia,61.85,1,2.4,4.6
 7706,Ropa,Sur,Transferencia,38.24,2,4.1,3.8
 7707,Electrónica,Centro,Transferencia,26.01,3,0.9,3.2
-7708,Electrónica,Sur,Tarjeta,-5.32,1,3.9,4.3
+7708,Electrónica,Sur,Tarjeta,5.32,1,3.9,4.3
 7709,Deportes,Sur,Tarjeta,33.3,2,3.7,5.2
 7710,Deportes,Centro,Transferencia,57.54,3,2.9,4.8
 7711,Electrónica,Sur,Tarjeta,35.29,2,3.8,4.0
@@ -7806,11 +7806,11 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 7805,Deportes,Sur,Transferencia,29.63,1,2.1,4.4
 7806,Electrónica,Centro,Débito,44.96,4,2.4,3.2
 7807,Electrónica,Sur,Débito,61.06,3,2.8,3.9
-7808,Ropa,Centro,Tarjeta,-19.2,5,5.7,3.9
+7808,Ropa,Centro,Tarjeta,19.2,5,5.7,3.9
 7809,Deportes,Sur,Débito,53.36,1,2.0,3.0
 7810,Ropa,Centro,Débito,53.61,1,3.1,3.8
 7811,Ropa,Centro,Débito,57.19,5,2.6,4.1
-7812,Deportes,Sur,Tarjeta,-10.26,1,1.6,5.3
+7812,Deportes,Sur,Tarjeta,10.26,1,1.6,5.3
 7813,Deportes,Sur,Transferencia,34.06,5,4.7,5.3
 7814,Ropa,Sur,Tarjeta,49.68,5,2.2,3.5
 7815,Deportes,Centro,Débito,37.45,5,0.3,3.8
@@ -7864,7 +7864,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 7863,Deportes,Sur,Tarjeta,32.39,1,3.6,4.2
 7864,Electrónica,Centro,Transferencia,50.94,3,2.5,4.4
 7865,Electrónica,Centro,Tarjeta,73.67,5,2.8,4.8
-7866,Hogar,Norte,Débito,63.43,3,-0.1,4.5
+7866,Hogar,Norte,Débito,63.43,3,0.1,4.5
 7867,Ropa,Centro,Débito,22.66,4,4.4,4.5
 7868,Ropa,Norte,Tarjeta,43.1,2,2.2,3.8
 7869,Deportes,Sur,Débito,84.87,2,5.5,3.9
@@ -7906,7 +7906,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 7905,Deportes,Centro,Tarjeta,48.64,4,4.1,4.0
 7906,Hogar,Centro,Transferencia,49.61,1,3.8,4.0
 7907,Electrónica,Sur,Tarjeta,53.13,4,5.9,4.4
-7908,Ropa,Norte,Transferencia,-8.97,2,5.9,5.2
+7908,Ropa,Norte,Transferencia,8.97,2,5.9,5.2
 7909,Hogar,Sur,Débito,14.32,1,3.1,5.2
 7910,Ropa,Centro,Débito,1.09,5,3.0,3.7
 7911,Ropa,Sur,Tarjeta,41.92,2,1.4,3.4
@@ -7996,7 +7996,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 7995,Hogar,Norte,Transferencia,53.79,5,2.1,3.9
 7996,Electrónica,Centro,Débito,22.41,3,3.0,4.4
 7997,Hogar,Sur,Débito,65.52,5,2.8,2.8
-7998,Electrónica,Centro,Transferencia,47.43,3,-0.5,5.3
+7998,Electrónica,Centro,Transferencia,47.43,3,0.5,5.3
 7999,Ropa,Sur,Transferencia,24.16,1,1.5,2.7
 8000,Ropa,Centro,Débito,38.31,1,1.5,6.1
 8001,Ropa,Centro,Transferencia,74.89,4,1.4,3.6
@@ -8033,7 +8033,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 8032,Electrónica,Sur,Débito,76.86,5,3.3,2.9
 8033,Deportes,Centro,Débito,57.98,4,5.5,3.5
 8034,Electrónica,Norte,Débito,29.08,3,2.5,2.6
-8035,Ropa,Norte,Débito,-6.03,4,2.8,4.9
+8035,Ropa,Norte,Débito,6.03,4,2.8,4.9
 8036,Ropa,Sur,Tarjeta,68.27,2,2.3,3.8
 8037,Ropa,Sur,Tarjeta,36.17,4,1.7,4.8
 8038,Deportes,Centro,Tarjeta,47.43,2,2.8,3.0
@@ -8044,7 +8044,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 8043,Ropa,Centro,Tarjeta,37.59,5,3.8,5.4
 8044,Ropa,Sur,Transferencia,40.77,5,4.0,4.1
 8045,Hogar,Sur,Tarjeta,55.39,5,4.4,4.0
-8046,Hogar,Sur,Transferencia,-1.63,1,2.9,4.5
+8046,Hogar,Sur,Transferencia,1.63,1,2.9,4.5
 8047,Electrónica,Norte,Débito,39.67,3,4.2,3.8
 8048,Ropa,Centro,Tarjeta,43.55,5,3.7,4.4
 8049,Ropa,Norte,Débito,29.65,2,3.5,3.5
@@ -8080,7 +8080,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 8079,Electrónica,Norte,Tarjeta,40.44,4,4.8,3.7
 8080,Hogar,Norte,Débito,64.72,2,2.2,5.1
 8081,Ropa,Norte,Débito,42.78,4,3.2,4.3
-8082,Ropa,Norte,Transferencia,-0.24,3,3.9,4.7
+8082,Ropa,Norte,Transferencia,0.24,3,3.9,4.7
 8083,Ropa,Norte,Transferencia,21.51,3,4.1,3.0
 8084,Deportes,Norte,Transferencia,15.49,1,3.1,4.1
 8085,Ropa,Norte,Transferencia,48.55,1,5.5,2.5
@@ -8113,7 +8113,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 8112,Ropa,Sur,Débito,62.11,3,4.1,2.6
 8113,Deportes,Sur,Débito,47.37,5,5.8,4.4
 8114,Hogar,Sur,Transferencia,38.72,2,3.9,5.6
-8115,Ropa,Sur,Tarjeta,-1.64,3,3.5,4.4
+8115,Ropa,Sur,Tarjeta,1.64,3,3.5,4.4
 8116,Ropa,Norte,Tarjeta,44.31,2,4.1,4.5
 8117,Electrónica,Sur,Transferencia,38.01,4,1.5,3.8
 8118,Deportes,Centro,Débito,34.37,3,3.7,3.8
@@ -8199,7 +8199,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 8198,Deportes,Centro,Débito,5.2,5,3.9,3.6
 8199,Deportes,Sur,Tarjeta,76.88,3,0.6,5.0
 8200,Ropa,Centro,Transferencia,41.63,1,2.3,5.4
-8201,Ropa,Sur,Transferencia,-1.78,1,3.7,3.9
+8201,Ropa,Sur,Transferencia,1.78,1,3.7,3.9
 8202,Electrónica,Norte,Débito,63.62,1,2.9,4.3
 8203,Electrónica,Centro,Tarjeta,64.34,3,1.0,3.5
 8204,Electrónica,Sur,Tarjeta,66.9,4,2.4,5.1
@@ -8210,9 +8210,9 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 8209,Deportes,Centro,Débito,34.52,5,3.2,1.6
 8210,Electrónica,Sur,Tarjeta,70.21,5,4.4,4.4
 8211,Deportes,Sur,Débito,14.99,5,3.0,4.5
-8212,Deportes,Norte,Débito,50.42,2,-0.8,4.1
+8212,Deportes,Norte,Débito,50.42,2,0.8,4.1
 8213,Deportes,Centro,Tarjeta,57.22,4,1.5,3.7
-8214,Hogar,Norte,Transferencia,-23.24,4,3.2,5.1
+8214,Hogar,Norte,Transferencia,23.24,4,3.2,5.1
 8215,Deportes,Centro,Tarjeta,59.39,4,4.2,4.8
 8216,Ropa,Centro,Tarjeta,45.81,1,3.3,4.4
 8217,Deportes,Centro,Transferencia,48.52,3,3.7,5.0
@@ -8230,7 +8230,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 8229,Deportes,Sur,Tarjeta,79.84,4,3.5,4.1
 8230,Electrónica,Sur,Transferencia,43.24,5,3.1,2.1
 8231,Deportes,Centro,Tarjeta,29.3,2,2.3,4.8
-8232,Deportes,Centro,Transferencia,18.68,5,-0.2,4.5
+8232,Deportes,Centro,Transferencia,18.68,5,0.2,4.5
 8233,Electrónica,Sur,Transferencia,45.73,4,1.5,4.6
 8234,Electrónica,Norte,Transferencia,57.22,4,5.2,5.2
 8235,Deportes,Centro,Tarjeta,32.91,1,3.2,2.7
@@ -8241,7 +8241,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 8240,Electrónica,Sur,Transferencia,31.82,3,3.9,4.0
 8241,Electrónica,Centro,Tarjeta,28.57,3,2.6,3.8
 8242,Ropa,Norte,Transferencia,11.82,2,1.6,5.2
-8243,Electrónica,Norte,Débito,-11.81,3,4.2,5.2
+8243,Electrónica,Norte,Débito,11.81,3,4.2,5.2
 8244,Ropa,Sur,Débito,33.06,2,2.5,3.9
 8245,Deportes,Sur,Transferencia,43.13,2,3.5,4.4
 8246,Electrónica,Centro,Débito,54.72,1,4.0,5.5
@@ -8326,7 +8326,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 8325,Deportes,Centro,Tarjeta,13.51,5,2.3,4.0
 8326,Hogar,Centro,Transferencia,76.75,4,3.1,4.8
 8327,Electrónica,Centro,Transferencia,82.12,5,4.4,5.2
-8328,Deportes,Sur,Tarjeta,24.33,4,-0.0,4.3
+8328,Deportes,Sur,Tarjeta,24.33,4,0.0,4.3
 8329,Hogar,Norte,Tarjeta,37.62,4,4.1,4.3
 8330,Ropa,Norte,Tarjeta,28.58,3,3.4,3.8
 8331,Deportes,Sur,Transferencia,29.47,1,3.6,5.9
@@ -8371,7 +8371,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 8370,Deportes,Sur,Tarjeta,44.57,2,1.3,4.6
 8371,Ropa,Sur,Débito,39.2,3,2.1,3.8
 8372,Ropa,Sur,Transferencia,22.11,5,3.4,4.6
-8373,Deportes,Sur,Débito,-2.4,3,4.7,4.1
+8373,Deportes,Sur,Débito,2.4,3,4.7,4.1
 8374,Hogar,Centro,Tarjeta,55.98,2,3.7,4.5
 8375,Hogar,Sur,Transferencia,37.56,1,4.0,2.9
 8376,Electrónica,Sur,Tarjeta,31.34,4,3.5,3.5
@@ -8540,7 +8540,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 8539,Hogar,Sur,Transferencia,43.45,3,3.9,1.8
 8540,Ropa,Centro,Débito,45.68,3,4.2,5.2
 8541,Hogar,Sur,Tarjeta,20.51,3,3.8,4.8
-8542,Deportes,Norte,Débito,17.95,3,-0.5,4.1
+8542,Deportes,Norte,Débito,17.95,3,0.5,4.1
 8543,Deportes,Centro,Transferencia,27.67,1,3.8,3.9
 8544,Deportes,Norte,Tarjeta,59.01,5,1.6,4.1
 8545,Ropa,Centro,Tarjeta,51.42,2,3.0,5.6
@@ -8562,7 +8562,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 8561,Ropa,Norte,Débito,41.99,5,4.5,4.6
 8562,Electrónica,Norte,Débito,51.96,1,0.3,4.7
 8563,Ropa,Norte,Tarjeta,71.33,3,2.7,5.9
-8564,Electrónica,Sur,Débito,54.2,2,-0.2,4.3
+8564,Electrónica,Sur,Débito,54.2,2,0.2,4.3
 8565,Hogar,Centro,Transferencia,19.25,4,6.0,5.6
 8566,Electrónica,Centro,Transferencia,30.6,2,2.1,4.1
 8567,Deportes,Centro,Débito,53.67,3,3.9,4.6
@@ -8578,7 +8578,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 8577,Deportes,Centro,Transferencia,34.99,5,2.6,4.2
 8578,Hogar,Centro,Transferencia,34.26,1,3.8,3.4
 8579,Deportes,Centro,Débito,24.09,3,2.8,3.9
-8580,Electrónica,Norte,Débito,-20.7,4,4.0,4.1
+8580,Electrónica,Norte,Débito,20.7,4,4.0,4.1
 8581,Ropa,Sur,Débito,75.77,5,3.1,3.4
 8582,Ropa,Sur,Tarjeta,58.63,4,3.6,4.8
 8583,Electrónica,Norte,Tarjeta,38.59,1,0.9,5.6
@@ -8699,7 +8699,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 8698,Deportes,Sur,Transferencia,66.5,2,4.5,3.5
 8699,Deportes,Norte,Tarjeta,22.52,4,2.6,3.0
 8700,Electrónica,Norte,Débito,41.31,3,3.4,5.5
-8701,Deportes,Sur,Transferencia,-1.59,1,0.9,3.7
+8701,Deportes,Sur,Transferencia,1.59,1,0.9,3.7
 8702,Deportes,Norte,Débito,47.86,1,1.4,4.5
 8703,Electrónica,Norte,Transferencia,84.54,3,2.4,3.0
 8704,Electrónica,Sur,Débito,36.58,4,2.5,4.1
@@ -8733,7 +8733,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 8732,Deportes,Sur,Transferencia,25.79,3,1.6,4.2
 8733,Hogar,Sur,Débito,31.46,1,4.5,4.4
 8734,Ropa,Centro,Débito,63.47,2,2.4,3.9
-8735,Ropa,Sur,Transferencia,-12.64,3,0.9,4.8
+8735,Ropa,Sur,Transferencia,12.64,3,0.9,4.8
 8736,Ropa,Norte,Transferencia,30.8,2,2.5,4.3
 8737,Electrónica,Norte,Tarjeta,46.42,3,2.2,3.4
 8738,Hogar,Sur,Tarjeta,82.07,2,3.8,3.9
@@ -8847,7 +8847,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 8846,Ropa,Centro,Tarjeta,29.66,3,5.3,4.6
 8847,Electrónica,Norte,Transferencia,24.0,3,1.4,4.3
 8848,Hogar,Centro,Transferencia,43.22,4,2.7,3.7
-8849,Hogar,Norte,Débito,-1.9,2,4.1,3.6
+8849,Hogar,Norte,Débito,1.9,2,4.1,3.6
 8850,Ropa,Norte,Tarjeta,53.85,3,3.2,5.0
 8851,Hogar,Sur,Débito,69.94,3,2.7,2.7
 8852,Deportes,Sur,Débito,81.8,3,3.9,4.0
@@ -8969,10 +8969,10 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 8968,Electrónica,Norte,Débito,55.05,1,3.7,3.8
 8969,Deportes,Centro,Transferencia,76.84,1,3.2,5.4
 8970,Ropa,Sur,Transferencia,46.44,3,2.7,3.0
-8971,Deportes,Centro,Débito,12.88,4,-0.0,3.2
+8971,Deportes,Centro,Débito,12.88,4,0.0,3.2
 8972,Electrónica,Sur,Transferencia,20.8,4,4.9,3.7
 8973,Ropa,Norte,Débito,56.33,1,1.7,6.2
-8974,Deportes,Norte,Transferencia,-17.56,3,2.0,4.3
+8974,Deportes,Norte,Transferencia,17.56,3,2.0,4.3
 8975,Hogar,Centro,Tarjeta,42.41,2,3.4,3.7
 8976,Electrónica,Norte,Débito,79.62,5,1.1,4.1
 8977,Deportes,Sur,Transferencia,41.79,2,2.4,4.6
@@ -9067,7 +9067,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 9066,Deportes,Norte,Tarjeta,67.02,2,1.6,4.8
 9067,Ropa,Centro,Débito,64.26,2,1.1,4.3
 9068,Ropa,Sur,Débito,68.18,4,3.6,5.4
-9069,Deportes,Centro,Débito,-1.15,2,1.8,3.2
+9069,Deportes,Centro,Débito,1.15,2,1.8,3.2
 9070,Hogar,Sur,Débito,47.83,5,2.0,3.8
 9071,Ropa,Sur,Transferencia,68.73,5,2.7,3.7
 9072,Deportes,Sur,Débito,39.54,3,1.6,4.6
@@ -9149,7 +9149,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 9148,Ropa,Centro,Transferencia,37.63,3,2.8,4.6
 9149,Electrónica,Norte,Transferencia,22.64,3,3.4,4.1
 9150,Electrónica,Centro,Débito,44.62,2,3.3,4.4
-9151,Deportes,Centro,Débito,-0.19,1,3.0,3.4
+9151,Deportes,Centro,Débito,0.19,1,3.0,3.4
 9152,Electrónica,Norte,Tarjeta,54.83,1,1.6,5.4
 9153,Ropa,Centro,Transferencia,66.21,2,2.7,3.8
 9154,Hogar,Centro,Tarjeta,51.92,2,3.4,4.6
@@ -9186,7 +9186,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 9185,Deportes,Norte,Débito,56.67,3,2.4,4.4
 9186,Deportes,Sur,Transferencia,23.35,3,2.9,4.1
 9187,Deportes,Norte,Transferencia,60.1,3,3.0,3.6
-9188,Ropa,Centro,Transferencia,70.18,3,-0.2,4.1
+9188,Ropa,Centro,Transferencia,70.18,3,0.2,4.1
 9189,Ropa,Norte,Débito,46.35,3,4.4,3.9
 9190,Ropa,Sur,Débito,47.65,5,3.5,4.4
 9191,Hogar,Sur,Tarjeta,33.95,4,2.9,4.3
@@ -9282,13 +9282,13 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 9281,Ropa,Norte,Débito,26.76,3,1.3,4.1
 9282,Ropa,Centro,Transferencia,42.31,4,3.7,4.9
 9283,Hogar,Centro,Transferencia,57.33,5,4.0,4.8
-9284,Ropa,Centro,Tarjeta,40.82,3,-0.2,5.3
+9284,Ropa,Centro,Tarjeta,40.82,3,0.2,5.3
 9285,Hogar,Norte,Transferencia,33.48,1,3.5,4.3
 9286,Hogar,Norte,Débito,33.83,2,2.3,4.7
 9287,Deportes,Norte,Débito,54.46,3,2.2,4.7
 9288,Ropa,Norte,Transferencia,38.84,5,1.9,3.6
 9289,Hogar,Centro,Transferencia,42.26,5,0.7,3.2
-9290,Ropa,Norte,Débito,37.6,3,-0.7,4.6
+9290,Ropa,Norte,Débito,37.6,3,0.7,4.6
 9291,Hogar,Sur,Débito,76.71,4,1.2,4.7
 9292,Ropa,Norte,Transferencia,75.77,4,2.8,4.4
 9293,Electrónica,Norte,Tarjeta,36.81,5,2.4,5.0
@@ -9333,7 +9333,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 9332,Deportes,Norte,Transferencia,16.39,2,1.6,3.9
 9333,Electrónica,Centro,Tarjeta,58.77,5,2.3,4.3
 9334,Deportes,Sur,Tarjeta,61.74,1,2.2,4.8
-9335,Deportes,Norte,Tarjeta,43.14,2,-0.1,4.1
+9335,Deportes,Norte,Tarjeta,43.14,2,0.1,4.1
 9336,Deportes,Sur,Transferencia,30.03,1,1.3,3.7
 9337,Hogar,Sur,Transferencia,6.07,4,3.4,4.5
 9338,Electrónica,Norte,Tarjeta,51.88,4,3.3,4.4
@@ -9378,7 +9378,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 9377,Electrónica,Sur,Débito,50.53,4,5.0,4.1
 9378,Ropa,Sur,Débito,48.74,4,4.2,3.8
 9379,Electrónica,Centro,Transferencia,38.0,1,1.9,5.2
-9380,Ropa,Norte,Tarjeta,-3.33,3,2.1,3.7
+9380,Ropa,Norte,Tarjeta,3.33,3,2.1,3.7
 9381,Ropa,Norte,Transferencia,53.31,3,3.6,5.8
 9382,Deportes,Norte,Débito,41.23,5,1.9,4.2
 9383,Deportes,Norte,Transferencia,77.43,3,3.3,4.1
@@ -9421,7 +9421,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 9420,Electrónica,Norte,Transferencia,21.87,3,1.5,5.1
 9421,Ropa,Sur,Transferencia,69.0,4,4.4,2.0
 9422,Ropa,Sur,Transferencia,21.75,4,3.2,3.8
-9423,Electrónica,Centro,Débito,-16.92,1,1.4,4.0
+9423,Electrónica,Centro,Débito,16.92,1,1.4,4.0
 9424,Hogar,Sur,Débito,70.04,2,4.8,2.8
 9425,Electrónica,Norte,Tarjeta,28.5,2,3.8,6.6
 9426,Electrónica,Norte,Débito,39.14,2,2.9,4.0
@@ -9571,7 +9571,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 9570,Ropa,Norte,Transferencia,47.6,4,0.0,4.5
 9571,Electrónica,Norte,Transferencia,74.66,3,3.8,5.0
 9572,Electrónica,Centro,Débito,43.16,3,2.3,2.9
-9573,Deportes,Sur,Transferencia,-5.6,3,4.2,3.5
+9573,Deportes,Sur,Transferencia,5.6,3,4.2,3.5
 9574,Hogar,Norte,Transferencia,26.19,1,1.6,3.3
 9575,Ropa,Centro,Débito,36.54,4,3.6,5.9
 9576,Deportes,Sur,Débito,54.18,2,2.0,3.4
@@ -9623,11 +9623,11 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 9622,Electrónica,Norte,Débito,62.51,3,2.3,3.6
 9623,Electrónica,Centro,Débito,67.08,3,1.7,3.3
 9624,Deportes,Sur,Débito,15.78,5,3.1,4.9
-9625,Electrónica,Norte,Tarjeta,59.3,2,-0.2,4.2
+9625,Electrónica,Norte,Tarjeta,59.3,2,0.2,4.2
 9626,Ropa,Sur,Transferencia,54.61,5,4.1,4.4
 9627,Electrónica,Norte,Transferencia,66.45,4,4.0,4.6
 9628,Deportes,Norte,Débito,79.74,4,3.8,5.1
-9629,Hogar,Norte,Débito,-1.22,1,2.8,3.6
+9629,Hogar,Norte,Débito,1.22,1,2.8,3.6
 9630,Ropa,Centro,Débito,24.86,2,2.5,4.3
 9631,Deportes,Norte,Tarjeta,56.83,5,1.6,4.6
 9632,Electrónica,Sur,Débito,46.25,4,1.3,2.4
@@ -9653,7 +9653,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 9652,Hogar,Centro,Transferencia,60.43,4,5.6,4.7
 9653,Ropa,Centro,Tarjeta,57.28,2,4.4,4.2
 9654,Ropa,Sur,Transferencia,14.56,2,5.3,3.8
-9655,Hogar,Norte,Transferencia,-1.64,1,2.2,4.6
+9655,Hogar,Norte,Transferencia,1.64,1,2.2,4.6
 9656,Electrónica,Centro,Transferencia,3.07,1,4.7,3.1
 9657,Deportes,Sur,Débito,57.33,5,2.1,5.7
 9658,Electrónica,Norte,Débito,50.15,3,2.7,4.4
@@ -9715,7 +9715,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 9714,Electrónica,Centro,Transferencia,9.3,5,3.5,5.0
 9715,Electrónica,Norte,Transferencia,22.49,1,1.9,4.6
 9716,Ropa,Sur,Tarjeta,35.41,2,5.1,5.8
-9717,Ropa,Centro,Tarjeta,50.58,1,-0.8,3.1
+9717,Ropa,Centro,Tarjeta,50.58,1,0.8,3.1
 9718,Hogar,Norte,Débito,52.48,2,1.7,3.2
 9719,Deportes,Sur,Tarjeta,68.84,2,3.7,5.7
 9720,Deportes,Centro,Tarjeta,33.76,2,5.2,5.8
@@ -9758,7 +9758,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 9757,Deportes,Norte,Tarjeta,54.1,2,5.7,6.2
 9758,Ropa,Sur,Transferencia,14.53,5,2.1,4.3
 9759,Hogar,Sur,Débito,48.59,4,3.2,4.0
-9760,Hogar,Centro,Transferencia,-8.5,4,2.9,4.0
+9760,Hogar,Centro,Transferencia,8.5,4,2.9,4.0
 9761,Ropa,Sur,Tarjeta,31.8,3,4.5,4.1
 9762,Ropa,Norte,Débito,13.19,5,2.3,5.0
 9763,Ropa,Centro,Tarjeta,34.08,3,2.8,4.2
@@ -9869,7 +9869,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 9868,Deportes,Sur,Transferencia,11.71,3,5.0,2.8
 9869,Hogar,Norte,Débito,52.24,3,2.9,4.0
 9870,Deportes,Norte,Débito,43.35,5,2.1,5.3
-9871,Hogar,Sur,Transferencia,-4.52,5,2.2,3.1
+9871,Hogar,Sur,Transferencia,4.52,5,2.2,3.1
 9872,Deportes,Sur,Tarjeta,40.41,3,2.8,2.7
 9873,Electrónica,Sur,Tarjeta,39.62,1,3.4,4.2
 9874,Deportes,Centro,Transferencia,22.47,5,6.4,3.4
@@ -9877,7 +9877,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 9876,Hogar,Sur,Débito,22.91,5,3.1,4.3
 9877,Hogar,Sur,Transferencia,57.63,3,4.5,3.2
 9878,Deportes,Centro,Transferencia,38.35,2,0.9,3.3
-9879,Hogar,Centro,Transferencia,19.02,2,-0.1,5.3
+9879,Hogar,Centro,Transferencia,19.02,2,0.1,5.3
 9880,Deportes,Sur,Tarjeta,60.11,3,2.2,4.2
 9881,Ropa,Sur,Transferencia,41.09,1,4.4,4.7
 9882,Deportes,Centro,Transferencia,57.08,2,3.1,4.0
@@ -9943,7 +9943,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 9942,Ropa,Centro,Débito,33.42,2,3.6,4.0
 9943,Deportes,Centro,Tarjeta,41.11,3,3.1,3.3
 9944,Deportes,Sur,Tarjeta,68.59,3,2.1,4.1
-9945,Electrónica,Norte,Tarjeta,-33.57,4,3.4,4.4
+9945,Electrónica,Norte,Tarjeta,33.57,4,3.4,4.4
 9946,Deportes,Centro,Tarjeta,46.5,1,2.6,4.5
 9947,Ropa,Sur,Transferencia,54.17,2,0.7,3.9
 9948,Deportes,Centro,Tarjeta,44.68,2,4.5,2.9
@@ -10127,7 +10127,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 10126,Hogar,Sur,Débito,38.5,2,3.9,4.4
 10127,Ropa,Centro,Tarjeta,36.04,3,4.2,4.5
 10128,Deportes,Centro,Tarjeta,31.95,4,2.9,4.6
-10129,Deportes,Norte,Transferencia,-31.03,2,1.7,4.0
+10129,Deportes,Norte,Transferencia,31.03,2,1.7,4.0
 10130,Deportes,Centro,Débito,57.49,5,2.4,3.0
 10131,Ropa,Centro,Débito,32.96,1,3.1,4.1
 10132,Ropa,Norte,Transferencia,26.16,1,3.6,4.4
@@ -10197,7 +10197,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 10196,Ropa,Sur,Transferencia,57.82,3,4.2,3.4
 10197,Ropa,Centro,Transferencia,34.87,5,1.5,5.5
 10198,Hogar,Norte,Tarjeta,56.62,4,1.3,4.5
-10199,Electrónica,Sur,Tarjeta,-16.16,2,3.1,4.5
+10199,Electrónica,Sur,Tarjeta,16.16,2,3.1,4.5
 10200,Hogar,Norte,Transferencia,68.6,2,2.8,3.5
 10201,Electrónica,Centro,Tarjeta,34.38,3,2.8,4.8
 10202,Hogar,Sur,Transferencia,6.73,4,4.5,3.8
@@ -10212,7 +10212,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 10211,Deportes,Centro,Débito,24.87,5,2.9,5.2
 10212,Deportes,Norte,Débito,31.9,2,2.1,4.2
 10213,Ropa,Centro,Débito,20.77,1,3.6,3.0
-10214,Ropa,Norte,Débito,-13.26,2,4.6,4.0
+10214,Ropa,Norte,Débito,13.26,2,4.6,4.0
 10215,Electrónica,Sur,Débito,55.79,2,2.0,3.3
 10216,Hogar,Sur,Transferencia,23.65,3,3.0,4.1
 10217,Ropa,Centro,Tarjeta,52.29,3,0.3,4.2
@@ -10238,7 +10238,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 10237,Hogar,Norte,Transferencia,61.02,2,3.9,3.0
 10238,Deportes,Sur,Transferencia,33.86,1,2.3,5.1
 10239,Ropa,Norte,Débito,44.05,1,3.8,4.0
-10240,Electrónica,Norte,Transferencia,-3.87,1,1.9,4.5
+10240,Electrónica,Norte,Transferencia,3.87,1,1.9,4.5
 10241,Hogar,Sur,Transferencia,86.54,3,4.5,4.3
 10242,Hogar,Centro,Tarjeta,10.19,5,1.5,4.7
 10243,Hogar,Centro,Tarjeta,46.25,1,1.5,5.1
@@ -10249,7 +10249,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 10248,Deportes,Centro,Tarjeta,44.56,3,2.7,3.6
 10249,Deportes,Norte,Débito,15.39,1,3.3,4.3
 10250,Hogar,Norte,Transferencia,50.2,1,2.6,5.9
-10251,Electrónica,Norte,Transferencia,71.22,1,-0.3,4.3
+10251,Electrónica,Norte,Transferencia,71.22,1,0.3,4.3
 10252,Electrónica,Centro,Tarjeta,55.52,4,4.1,4.6
 10253,Hogar,Centro,Tarjeta,50.73,4,0.9,4.3
 10254,Hogar,Sur,Transferencia,77.01,3,0.7,3.9
@@ -10376,7 +10376,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 10375,Electrónica,Norte,Tarjeta,38.5,4,4.0,4.8
 10376,Hogar,Centro,Transferencia,83.05,1,3.6,3.9
 10377,Deportes,Norte,Tarjeta,19.9,2,2.4,4.5
-10378,Hogar,Sur,Tarjeta,-2.63,2,0.1,3.9
+10378,Hogar,Sur,Tarjeta,2.63,2,0.1,3.9
 10379,Deportes,Sur,Transferencia,90.86,5,2.3,4.1
 10380,Electrónica,Norte,Tarjeta,56.45,1,3.8,4.5
 10381,Electrónica,Centro,Transferencia,75.6,2,2.1,2.6
@@ -10484,7 +10484,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 10483,Electrónica,Centro,Tarjeta,33.28,1,2.5,3.6
 10484,Hogar,Centro,Transferencia,44.39,2,2.8,4.8
 10485,Deportes,Sur,Débito,81.82,1,2.6,4.7
-10486,Electrónica,Centro,Débito,49.67,4,-0.1,4.2
+10486,Electrónica,Centro,Débito,49.67,4,0.1,4.2
 10487,Ropa,Sur,Transferencia,39.02,3,2.9,4.7
 10488,Hogar,Sur,Débito,38.37,1,3.7,4.0
 10489,Ropa,Sur,Débito,25.99,5,4.5,5.0
@@ -10498,7 +10498,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 10497,Hogar,Norte,Tarjeta,17.99,2,4.0,5.0
 10498,Ropa,Norte,Tarjeta,29.66,1,2.9,3.8
 10499,Electrónica,Sur,Transferencia,45.05,1,4.0,4.2
-10500,Hogar,Sur,Transferencia,-3.63,1,3.3,3.4
+10500,Hogar,Sur,Transferencia,3.63,1,3.3,3.4
 10501,Deportes,Centro,Débito,62.1,3,4.7,2.6
 10502,Electrónica,Sur,Débito,27.92,5,3.4,5.2
 10503,Hogar,Sur,Débito,15.63,2,2.4,5.1
@@ -10523,7 +10523,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 10522,Ropa,Centro,Débito,77.46,3,3.8,4.8
 10523,Hogar,Sur,Débito,40.71,1,1.7,3.4
 10524,Electrónica,Norte,Transferencia,78.81,4,1.6,3.6
-10525,Electrónica,Norte,Tarjeta,66.07,2,-0.1,5.4
+10525,Electrónica,Norte,Tarjeta,66.07,2,0.1,5.4
 10526,Hogar,Norte,Tarjeta,73.79,5,4.2,3.1
 10527,Hogar,Norte,Tarjeta,46.84,3,5.5,3.3
 10528,Electrónica,Norte,Transferencia,18.39,5,5.7,4.3
@@ -10672,9 +10672,9 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 10671,Deportes,Centro,Transferencia,53.39,3,3.7,3.0
 10672,Electrónica,Centro,Tarjeta,73.67,1,0.7,3.2
 10673,Electrónica,Centro,Transferencia,43.54,5,6.1,4.4
-10674,Hogar,Sur,Transferencia,70.59,5,-1.1,4.3
+10674,Hogar,Sur,Transferencia,70.59,5,1.1,4.3
 10675,Ropa,Norte,Débito,32.95,3,6.1,2.9
-10676,Ropa,Sur,Transferencia,96.97,1,-0.0,4.0
+10676,Ropa,Sur,Transferencia,96.97,1,0.0,4.0
 10677,Hogar,Centro,Débito,54.09,2,4.6,4.5
 10678,Ropa,Norte,Débito,45.5,1,2.4,4.1
 10679,Electrónica,Norte,Tarjeta,51.91,4,3.4,4.3
@@ -10708,7 +10708,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 10707,Ropa,Centro,Tarjeta,35.21,4,1.8,5.4
 10708,Deportes,Sur,Tarjeta,51.82,2,3.8,5.1
 10709,Hogar,Sur,Tarjeta,29.6,4,2.9,3.5
-10710,Deportes,Centro,Tarjeta,13.21,3,-0.0,4.6
+10710,Deportes,Centro,Tarjeta,13.21,3,0.0,4.6
 10711,Deportes,Sur,Débito,45.62,2,5.0,4.9
 10712,Electrónica,Norte,Transferencia,76.39,4,4.0,4.7
 10713,Deportes,Norte,Débito,74.62,3,4.5,4.6
@@ -10720,7 +10720,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 10719,Hogar,Sur,Tarjeta,84.61,3,2.9,3.7
 10720,Deportes,Norte,Débito,59.09,1,4.7,4.3
 10721,Ropa,Centro,Débito,53.34,1,0.3,4.4
-10722,Hogar,Norte,Débito,-6.84,5,3.4,4.2
+10722,Hogar,Norte,Débito,6.84,5,3.4,4.2
 10723,Electrónica,Norte,Transferencia,77.76,3,3.9,4.0
 10724,Ropa,Sur,Tarjeta,46.84,4,2.8,3.6
 10725,Ropa,Norte,Transferencia,45.76,1,0.6,3.1
@@ -10810,7 +10810,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 10809,Ropa,Sur,Transferencia,18.86,3,1.8,4.4
 10810,Hogar,Sur,Débito,74.87,2,1.8,5.5
 10811,Deportes,Sur,Tarjeta,41.42,1,1.9,5.1
-10812,Deportes,Sur,Débito,-12.94,4,3.0,5.7
+10812,Deportes,Sur,Débito,12.94,4,3.0,5.7
 10813,Hogar,Centro,Transferencia,21.77,3,2.7,4.5
 10814,Hogar,Centro,Tarjeta,52.18,3,3.3,3.8
 10815,Electrónica,Centro,Débito,64.09,2,0.3,3.6
@@ -10916,7 +10916,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 10915,Electrónica,Sur,Tarjeta,53.13,3,2.6,4.9
 10916,Electrónica,Centro,Débito,58.21,5,2.2,3.1
 10917,Ropa,Centro,Transferencia,64.46,3,3.1,5.7
-10918,Ropa,Centro,Transferencia,-10.0,2,1.8,3.6
+10918,Ropa,Centro,Transferencia,10.0,2,1.8,3.6
 10919,Hogar,Norte,Débito,41.28,5,4.3,3.0
 10920,Electrónica,Centro,Débito,74.24,3,0.8,3.6
 10921,Ropa,Centro,Débito,35.34,1,3.3,5.4
@@ -10932,7 +10932,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 10931,Hogar,Sur,Tarjeta,28.7,1,2.4,3.9
 10932,Hogar,Norte,Débito,4.22,2,2.1,3.2
 10933,Electrónica,Centro,Transferencia,51.39,2,2.6,4.9
-10934,Deportes,Norte,Transferencia,61.8,3,-0.0,3.5
+10934,Deportes,Norte,Transferencia,61.8,3,0.0,3.5
 10935,Electrónica,Sur,Tarjeta,19.67,4,4.2,4.1
 10936,Deportes,Norte,Tarjeta,40.8,2,3.8,2.5
 10937,Hogar,Sur,Débito,76.35,4,2.9,5.3
@@ -10970,7 +10970,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 10969,Electrónica,Sur,Transferencia,71.59,5,4.1,3.8
 10970,Electrónica,Norte,Tarjeta,52.48,3,4.8,3.9
 10971,Ropa,Sur,Transferencia,71.98,5,4.0,2.9
-10972,Electrónica,Centro,Tarjeta,-6.79,3,3.2,4.3
+10972,Electrónica,Centro,Tarjeta,6.79,3,3.2,4.3
 10973,Electrónica,Centro,Transferencia,26.93,1,4.1,4.5
 10974,Hogar,Centro,Transferencia,40.94,5,5.0,3.8
 10975,Ropa,Centro,Transferencia,74.32,1,3.6,4.2
@@ -10986,7 +10986,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 10985,Hogar,Norte,Débito,42.68,4,2.3,4.1
 10986,Hogar,Norte,Débito,21.15,4,1.6,3.6
 10987,Hogar,Sur,Transferencia,68.54,4,3.1,3.5
-10988,Electrónica,Norte,Transferencia,30.63,2,-0.3,2.8
+10988,Electrónica,Norte,Transferencia,30.63,2,0.3,2.8
 10989,Deportes,Sur,Tarjeta,57.08,5,3.2,5.3
 10990,Hogar,Centro,Tarjeta,47.57,2,2.8,3.8
 10991,Deportes,Centro,Débito,76.31,2,3.0,3.0
@@ -11011,7 +11011,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 11010,Ropa,Norte,Débito,32.92,4,1.7,3.5
 11011,Hogar,Sur,Débito,51.7,3,3.2,3.9
 11012,Deportes,Centro,Tarjeta,16.0,4,3.4,4.3
-11013,Electrónica,Sur,Débito,-6.44,5,2.9,4.5
+11013,Electrónica,Sur,Débito,6.44,5,2.9,4.5
 11014,Hogar,Centro,Débito,90.34,2,3.4,4.4
 11015,Hogar,Sur,Débito,32.53,5,4.1,5.0
 11016,Ropa,Centro,Tarjeta,41.51,4,3.1,5.4
@@ -11061,7 +11061,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 11060,Deportes,Sur,Transferencia,57.09,4,2.6,3.3
 11061,Ropa,Norte,Transferencia,40.17,5,5.3,5.0
 11062,Hogar,Sur,Tarjeta,38.66,4,3.1,4.7
-11063,Deportes,Norte,Débito,-4.27,3,4.6,4.6
+11063,Deportes,Norte,Débito,4.27,3,4.6,4.6
 11064,Deportes,Norte,Tarjeta,34.68,5,1.3,4.5
 11065,Deportes,Sur,Transferencia,19.92,1,2.4,4.2
 11066,Deportes,Centro,Transferencia,47.59,1,4.6,4.5
@@ -11076,7 +11076,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 11075,Hogar,Norte,Transferencia,63.39,5,0.3,2.9
 11076,Deportes,Sur,Transferencia,41.08,1,0.9,4.6
 11077,Deportes,Sur,Transferencia,46.54,1,1.4,4.8
-11078,Deportes,Norte,Transferencia,67.18,1,-0.2,3.9
+11078,Deportes,Norte,Transferencia,67.18,1,0.2,3.9
 11079,Electrónica,Centro,Débito,44.91,2,2.3,5.1
 11080,Hogar,Centro,Débito,52.83,2,2.4,5.1
 11081,Deportes,Norte,Transferencia,29.61,4,3.9,5.1
@@ -11115,7 +11115,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 11114,Hogar,Sur,Débito,32.63,3,3.2,6.4
 11115,Electrónica,Sur,Débito,51.27,4,4.3,4.6
 11116,Electrónica,Sur,Transferencia,55.86,2,3.4,4.8
-11117,Deportes,Centro,Transferencia,-0.71,4,2.5,5.0
+11117,Deportes,Centro,Transferencia,0.71,4,2.5,5.0
 11118,Hogar,Sur,Tarjeta,45.78,1,3.3,4.3
 11119,Ropa,Norte,Transferencia,22.55,2,3.0,4.3
 11120,Hogar,Norte,Débito,92.89,2,3.6,5.7
@@ -11151,7 +11151,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 11150,Deportes,Norte,Débito,59.91,3,4.9,4.8
 11151,Deportes,Norte,Débito,47.65,1,4.1,4.7
 11152,Ropa,Norte,Débito,62.89,2,3.3,4.5
-11153,Hogar,Sur,Transferencia,-7.11,3,2.9,4.9
+11153,Hogar,Sur,Transferencia,7.11,3,2.9,4.9
 11154,Electrónica,Norte,Transferencia,50.29,3,0.5,4.6
 11155,Hogar,Sur,Transferencia,41.47,1,1.3,3.9
 11156,Ropa,Centro,Transferencia,63.98,1,1.4,4.4
@@ -11159,7 +11159,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 11158,Hogar,Centro,Débito,27.98,5,3.1,4.2
 11159,Hogar,Sur,Débito,58.65,4,2.1,4.3
 11160,Hogar,Norte,Transferencia,49.16,5,5.2,3.8
-11161,Electrónica,Centro,Débito,-2.76,4,2.3,4.0
+11161,Electrónica,Centro,Débito,2.76,4,2.3,4.0
 11162,Ropa,Sur,Tarjeta,53.45,5,3.2,4.3
 11163,Hogar,Sur,Tarjeta,44.71,4,2.9,4.0
 11164,Hogar,Sur,Transferencia,58.3,4,3.2,3.8
@@ -11236,12 +11236,12 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 11235,Hogar,Centro,Tarjeta,25.27,3,2.2,4.4
 11236,Electrónica,Norte,Tarjeta,65.46,5,3.3,4.2
 11237,Electrónica,Centro,Tarjeta,24.1,4,4.3,4.2
-11238,Deportes,Centro,Débito,-5.15,5,3.4,3.7
+11238,Deportes,Centro,Débito,5.15,5,3.4,3.7
 11239,Hogar,Centro,Débito,68.63,4,1.6,3.8
 11240,Hogar,Centro,Tarjeta,83.22,5,2.7,4.3
 11241,Deportes,Centro,Tarjeta,32.85,1,2.9,3.6
 11242,Deportes,Norte,Débito,52.11,4,3.7,4.2
-11243,Deportes,Centro,Tarjeta,-4.82,1,3.4,3.8
+11243,Deportes,Centro,Tarjeta,4.82,1,3.4,3.8
 11244,Electrónica,Norte,Transferencia,49.58,2,3.0,4.1
 11245,Ropa,Norte,Transferencia,50.02,1,3.0,4.1
 11246,Electrónica,Norte,Transferencia,50.77,1,3.1,3.5
@@ -11341,7 +11341,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 11340,Electrónica,Norte,Tarjeta,14.74,5,4.1,3.9
 11341,Hogar,Centro,Débito,54.18,4,2.3,3.0
 11342,Hogar,Centro,Tarjeta,66.64,2,3.7,4.5
-11343,Hogar,Centro,Tarjeta,-10.76,4,2.2,4.7
+11343,Hogar,Centro,Tarjeta,10.76,4,2.2,4.7
 11344,Ropa,Sur,Tarjeta,80.29,2,2.1,3.6
 11345,Ropa,Norte,Débito,4.88,5,2.4,3.5
 11346,Ropa,Sur,Transferencia,76.95,4,3.2,5.9
@@ -11400,7 +11400,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 11399,Electrónica,Sur,Transferencia,40.32,5,4.2,4.3
 11400,Ropa,Centro,Tarjeta,57.27,1,2.1,4.3
 11401,Deportes,Norte,Tarjeta,42.76,2,1.3,3.0
-11402,Hogar,Sur,Débito,-17.06,1,2.4,4.5
+11402,Hogar,Sur,Débito,17.06,1,2.4,4.5
 11403,Ropa,Centro,Tarjeta,33.66,1,1.9,4.1
 11404,Electrónica,Sur,Transferencia,48.35,5,0.4,4.5
 11405,Electrónica,Sur,Tarjeta,44.63,5,2.6,4.0
@@ -11426,17 +11426,17 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 11425,Deportes,Centro,Transferencia,7.89,4,4.9,4.4
 11426,Ropa,Norte,Transferencia,53.53,5,2.4,2.5
 11427,Deportes,Norte,Débito,13.02,1,3.8,5.8
-11428,Ropa,Norte,Débito,23.15,2,-0.4,4.5
+11428,Ropa,Norte,Débito,23.15,2,0.4,4.5
 11429,Electrónica,Norte,Débito,69.93,3,4.0,3.1
 11430,Ropa,Centro,Débito,30.05,5,5.0,6.2
 11431,Deportes,Norte,Transferencia,8.11,4,3.1,2.7
 11432,Deportes,Centro,Débito,71.5,5,3.1,4.8
-11433,Ropa,Sur,Débito,24.93,4,-0.5,4.2
+11433,Ropa,Sur,Débito,24.93,4,0.5,4.2
 11434,Deportes,Sur,Transferencia,8.6,3,4.1,3.6
 11435,Deportes,Sur,Tarjeta,81.9,5,2.3,5.4
 11436,Deportes,Sur,Transferencia,50.1,2,4.4,4.8
 11437,Hogar,Norte,Transferencia,17.13,2,2.2,4.3
-11438,Hogar,Centro,Tarjeta,-6.14,2,1.6,3.7
+11438,Hogar,Centro,Tarjeta,6.14,2,1.6,3.7
 11439,Electrónica,Norte,Transferencia,77.78,2,3.7,2.5
 11440,Hogar,Sur,Débito,63.88,3,2.1,4.1
 11441,Hogar,Centro,Transferencia,51.77,5,3.2,4.0
@@ -11450,7 +11450,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 11449,Deportes,Norte,Tarjeta,46.87,5,1.8,4.1
 11450,Deportes,Centro,Débito,30.69,1,3.2,3.2
 11451,Electrónica,Centro,Débito,52.0,1,4.8,3.3
-11452,Deportes,Norte,Transferencia,-1.85,1,3.4,5.9
+11452,Deportes,Norte,Transferencia,1.85,1,3.4,5.9
 11453,Hogar,Norte,Transferencia,23.43,5,1.7,4.3
 11454,Deportes,Centro,Tarjeta,49.45,4,0.2,3.3
 11455,Hogar,Sur,Débito,60.3,4,0.4,4.5
@@ -11513,8 +11513,8 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 11512,Ropa,Sur,Tarjeta,38.2,4,3.8,6.1
 11513,Electrónica,Norte,Débito,41.43,2,3.5,4.3
 11514,Ropa,Centro,Tarjeta,22.03,5,2.2,4.5
-11515,Electrónica,Norte,Débito,-6.46,3,3.6,3.1
-11516,Electrónica,Norte,Débito,-9.52,5,0.8,3.5
+11515,Electrónica,Norte,Débito,6.46,3,3.6,3.1
+11516,Electrónica,Norte,Débito,9.52,5,0.8,3.5
 11517,Hogar,Sur,Débito,32.2,2,3.7,4.5
 11518,Electrónica,Norte,Tarjeta,65.92,4,1.0,5.0
 11519,Hogar,Centro,Transferencia,105.12,5,3.7,4.1
@@ -11525,8 +11525,8 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 11524,Electrónica,Centro,Débito,24.4,2,5.9,3.3
 11525,Ropa,Sur,Tarjeta,39.25,2,3.5,4.0
 11526,Ropa,Centro,Débito,26.33,4,1.5,5.2
-11527,Electrónica,Centro,Débito,-4.95,3,2.8,3.2
-11528,Deportes,Sur,Tarjeta,54.26,5,-0.7,4.5
+11527,Electrónica,Centro,Débito,4.95,3,2.8,3.2
+11528,Deportes,Sur,Tarjeta,54.26,5,0.7,4.5
 11529,Ropa,Norte,Débito,42.67,3,2.7,3.7
 11530,Hogar,Centro,Débito,44.36,1,2.6,4.8
 11531,Ropa,Centro,Transferencia,71.11,1,0.7,4.6
@@ -11535,7 +11535,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 11534,Deportes,Centro,Transferencia,29.87,5,1.9,3.1
 11535,Ropa,Norte,Tarjeta,46.08,4,3.0,5.7
 11536,Hogar,Norte,Transferencia,36.88,2,2.5,4.3
-11537,Deportes,Centro,Débito,34.23,2,-0.1,2.8
+11537,Deportes,Centro,Débito,34.23,2,0.1,2.8
 11538,Deportes,Centro,Débito,67.53,5,2.6,4.0
 11539,Electrónica,Centro,Tarjeta,52.0,5,3.6,3.7
 11540,Hogar,Sur,Tarjeta,36.37,5,2.5,5.3
@@ -11553,7 +11553,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 11552,Electrónica,Norte,Transferencia,16.29,1,4.2,5.5
 11553,Electrónica,Sur,Transferencia,85.62,5,2.3,3.9
 11554,Deportes,Norte,Débito,39.56,4,3.4,5.3
-11555,Hogar,Norte,Tarjeta,-4.03,4,4.6,4.1
+11555,Hogar,Norte,Tarjeta,4.03,4,4.6,4.1
 11556,Ropa,Norte,Transferencia,19.39,1,3.4,4.7
 11557,Ropa,Sur,Transferencia,61.57,4,1.9,4.7
 11558,Ropa,Sur,Transferencia,57.36,3,2.5,3.6
@@ -11639,7 +11639,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 11638,Hogar,Sur,Tarjeta,29.06,1,4.1,4.9
 11639,Deportes,Norte,Débito,52.81,2,3.2,2.5
 11640,Deportes,Sur,Transferencia,27.6,4,5.4,4.3
-11641,Hogar,Sur,Débito,-20.77,5,1.2,3.8
+11641,Hogar,Sur,Débito,20.77,5,1.2,3.8
 11642,Hogar,Sur,Débito,47.51,4,2.9,4.6
 11643,Ropa,Norte,Tarjeta,35.43,4,2.5,6.0
 11644,Deportes,Norte,Tarjeta,44.53,5,4.9,4.6
@@ -11683,7 +11683,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 11682,Ropa,Sur,Tarjeta,59.27,3,5.3,4.3
 11683,Ropa,Centro,Transferencia,65.14,4,3.9,5.1
 11684,Ropa,Centro,Transferencia,67.84,1,3.8,4.5
-11685,Ropa,Norte,Débito,43.03,1,-0.1,6.0
+11685,Ropa,Norte,Débito,43.03,1,0.1,6.0
 11686,Ropa,Norte,Tarjeta,33.83,4,3.2,4.8
 11687,Ropa,Sur,Débito,31.22,2,3.7,2.7
 11688,Electrónica,Sur,Transferencia,43.1,2,3.9,3.0
@@ -11902,7 +11902,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 11901,Hogar,Sur,Tarjeta,41.36,3,4.8,4.8
 11902,Ropa,Sur,Transferencia,63.68,2,3.6,3.3
 11903,Deportes,Norte,Débito,11.9,4,3.1,6.2
-11904,Ropa,Sur,Transferencia,51.93,5,-0.7,5.1
+11904,Ropa,Sur,Transferencia,51.93,5,0.7,5.1
 11905,Hogar,Sur,Débito,50.54,3,2.8,4.8
 11906,Hogar,Norte,Tarjeta,50.43,2,6.1,3.9
 11907,Hogar,Norte,Débito,24.36,5,1.9,4.5
@@ -11920,7 +11920,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 11919,Deportes,Sur,Débito,67.55,1,0.9,5.1
 11920,Deportes,Sur,Transferencia,57.64,1,1.3,4.8
 11921,Ropa,Norte,Transferencia,52.61,2,1.8,4.2
-11922,Electrónica,Norte,Transferencia,27.71,2,-0.7,4.5
+11922,Electrónica,Norte,Transferencia,27.71,2,0.7,4.5
 11923,Hogar,Sur,Tarjeta,61.08,3,5.8,3.2
 11924,Ropa,Sur,Débito,55.39,1,4.8,4.9
 11925,Deportes,Centro,Tarjeta,82.47,3,1.2,4.4
@@ -12049,7 +12049,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 12048,Electrónica,Centro,Tarjeta,55.07,2,5.8,4.5
 12049,Electrónica,Sur,Tarjeta,24.79,1,2.9,3.3
 12050,Electrónica,Sur,Transferencia,100.83,2,3.4,3.4
-12051,Hogar,Sur,Tarjeta,35.48,2,-0.4,5.1
+12051,Hogar,Sur,Tarjeta,35.48,2,0.4,5.1
 12052,Deportes,Norte,Débito,58.5,1,1.7,5.2
 12053,Hogar,Sur,Tarjeta,45.59,5,2.5,3.5
 12054,Hogar,Sur,Tarjeta,53.61,5,3.5,4.0
@@ -12159,7 +12159,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 12158,Ropa,Norte,Transferencia,43.9,2,2.8,3.7
 12159,Electrónica,Centro,Transferencia,76.76,4,4.3,4.3
 12160,Deportes,Centro,Tarjeta,30.43,1,3.2,4.7
-12161,Deportes,Norte,Débito,-2.4,3,3.7,5.4
+12161,Deportes,Norte,Débito,2.4,3,3.7,5.4
 12162,Electrónica,Sur,Transferencia,49.67,3,1.3,5.6
 12163,Hogar,Sur,Tarjeta,52.4,1,3.7,4.8
 12164,Deportes,Norte,Tarjeta,44.9,3,1.3,4.5
@@ -12200,7 +12200,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 12199,Deportes,Sur,Tarjeta,43.46,5,1.6,4.3
 12200,Ropa,Centro,Tarjeta,61.24,3,3.4,3.5
 12201,Deportes,Norte,Débito,80.3,5,1.3,4.8
-12202,Electrónica,Norte,Transferencia,-7.58,5,3.6,4.3
+12202,Electrónica,Norte,Transferencia,7.58,5,3.6,4.3
 12203,Electrónica,Norte,Transferencia,57.51,1,4.1,3.4
 12204,Hogar,Norte,Tarjeta,21.72,5,2.0,5.3
 12205,Ropa,Sur,Transferencia,53.93,4,1.6,4.4
@@ -12370,7 +12370,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 12369,Electrónica,Centro,Transferencia,33.52,5,4.3,4.8
 12370,Ropa,Norte,Débito,9.39,5,3.3,5.0
 12371,Ropa,Centro,Débito,66.04,2,3.2,3.5
-12372,Ropa,Centro,Débito,-1.13,1,2.0,3.8
+12372,Ropa,Centro,Débito,1.13,1,2.0,3.8
 12373,Hogar,Centro,Tarjeta,75.67,4,2.9,3.7
 12374,Ropa,Centro,Tarjeta,39.51,1,3.4,5.4
 12375,Ropa,Norte,Tarjeta,42.07,3,2.4,3.6
@@ -12417,7 +12417,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 12416,Ropa,Sur,Transferencia,57.42,3,4.0,4.5
 12417,Electrónica,Norte,Tarjeta,34.23,5,3.7,3.6
 12418,Electrónica,Centro,Débito,20.07,4,1.9,4.6
-12419,Deportes,Sur,Transferencia,-12.84,5,3.3,3.5
+12419,Deportes,Sur,Transferencia,12.84,5,3.3,3.5
 12420,Deportes,Centro,Débito,48.8,5,1.8,3.7
 12421,Deportes,Centro,Débito,5.62,1,2.6,4.7
 12422,Ropa,Norte,Débito,21.26,2,1.4,4.0
@@ -12442,11 +12442,11 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 12441,Deportes,Centro,Débito,47.06,5,2.1,4.7
 12442,Ropa,Sur,Débito,42.41,5,1.1,5.3
 12443,Ropa,Centro,Tarjeta,29.93,3,1.0,4.4
-12444,Electrónica,Sur,Débito,-3.71,1,4.6,4.7
+12444,Electrónica,Sur,Débito,3.71,1,4.6,4.7
 12445,Deportes,Sur,Transferencia,52.44,4,3.8,3.8
 12446,Ropa,Centro,Tarjeta,51.49,1,2.9,3.4
 12447,Deportes,Norte,Transferencia,85.05,2,3.9,3.3
-12448,Ropa,Centro,Débito,42.41,3,-1.0,4.9
+12448,Ropa,Centro,Débito,42.41,3,1.0,4.9
 12449,Deportes,Norte,Débito,53.35,3,3.6,4.4
 12450,Ropa,Sur,Tarjeta,54.63,5,3.6,5.1
 12451,Deportes,Norte,Débito,69.14,2,2.8,4.3
@@ -12459,7 +12459,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 12458,Deportes,Norte,Transferencia,54.26,4,1.9,4.6
 12459,Electrónica,Norte,Tarjeta,38.5,3,1.1,3.8
 12460,Electrónica,Centro,Débito,14.07,1,3.2,3.9
-12461,Ropa,Norte,Transferencia,-0.04,4,3.3,5.9
+12461,Ropa,Norte,Transferencia,0.04,4,3.3,5.9
 12462,Deportes,Sur,Tarjeta,37.97,2,2.9,4.6
 12463,Hogar,Norte,Débito,33.35,2,1.1,4.6
 12464,Ropa,Centro,Tarjeta,35.84,4,2.3,2.8
@@ -12473,7 +12473,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 12472,Ropa,Norte,Tarjeta,47.31,4,4.5,4.9
 12473,Electrónica,Sur,Tarjeta,24.44,5,2.7,4.1
 12474,Hogar,Centro,Tarjeta,58.09,5,2.9,1.6
-12475,Electrónica,Centro,Débito,-1.99,1,4.9,4.9
+12475,Electrónica,Centro,Débito,1.99,1,4.9,4.9
 12476,Deportes,Sur,Tarjeta,49.51,5,3.6,3.9
 12477,Ropa,Centro,Transferencia,63.51,2,2.6,5.1
 12478,Electrónica,Centro,Tarjeta,22.31,1,1.4,4.1
@@ -12760,7 +12760,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 12759,Electrónica,Centro,Tarjeta,47.77,2,3.7,3.0
 12760,Electrónica,Centro,Débito,3.18,1,2.9,4.0
 12761,Deportes,Centro,Transferencia,37.4,4,2.0,3.5
-12762,Hogar,Sur,Transferencia,72.37,1,-0.1,4.4
+12762,Hogar,Sur,Transferencia,72.37,1,0.1,4.4
 12763,Hogar,Norte,Tarjeta,46.91,5,2.3,4.3
 12764,Deportes,Norte,Tarjeta,34.17,5,3.3,5.0
 12765,Deportes,Norte,Transferencia,62.67,5,4.1,3.8
@@ -12778,7 +12778,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 12777,Ropa,Sur,Débito,90.97,5,2.2,3.4
 12778,Hogar,Norte,Tarjeta,51.65,4,2.0,6.1
 12779,Hogar,Norte,Transferencia,50.61,1,3.4,4.8
-12780,Ropa,Norte,Tarjeta,41.23,3,-0.1,2.8
+12780,Ropa,Norte,Tarjeta,41.23,3,0.1,2.8
 12781,Hogar,Centro,Tarjeta,39.75,2,2.7,4.2
 12782,Electrónica,Centro,Transferencia,52.02,4,1.9,4.0
 12783,Hogar,Centro,Transferencia,52.17,2,3.8,4.1
@@ -12788,7 +12788,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 12787,Ropa,Norte,Transferencia,64.21,5,4.5,4.7
 12788,Ropa,Norte,Débito,39.48,4,2.8,4.1
 12789,Deportes,Sur,Débito,78.1,5,3.7,3.1
-12790,Electrónica,Sur,Tarjeta,37.19,5,-0.2,4.3
+12790,Electrónica,Sur,Tarjeta,37.19,5,0.2,4.3
 12791,Deportes,Centro,Débito,77.7,1,2.9,4.3
 12792,Deportes,Norte,Transferencia,33.47,1,2.8,4.2
 12793,Ropa,Norte,Transferencia,52.4,4,5.3,3.1
@@ -12832,7 +12832,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 12831,Electrónica,Norte,Tarjeta,65.51,5,2.1,4.5
 12832,Ropa,Sur,Transferencia,37.04,1,3.4,4.2
 12833,Hogar,Norte,Débito,40.23,4,3.2,4.8
-12834,Hogar,Centro,Transferencia,51.32,4,-0.3,4.2
+12834,Hogar,Centro,Transferencia,51.32,4,0.3,4.2
 12835,Ropa,Centro,Débito,62.19,1,1.4,5.6
 12836,Deportes,Sur,Débito,55.63,2,3.9,5.0
 12837,Ropa,Centro,Débito,14.85,5,2.3,3.7
@@ -12848,7 +12848,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 12847,Electrónica,Norte,Débito,54.25,1,5.0,5.0
 12848,Electrónica,Norte,Transferencia,24.97,5,3.8,5.0
 12849,Deportes,Norte,Transferencia,37.74,1,2.4,4.0
-12850,Ropa,Norte,Tarjeta,-2.3,1,1.7,2.3
+12850,Ropa,Norte,Tarjeta,2.3,1,1.7,2.3
 12851,Hogar,Centro,Transferencia,51.21,3,2.0,2.4
 12852,Electrónica,Sur,Tarjeta,34.78,3,4.7,4.2
 12853,Deportes,Norte,Débito,32.01,1,3.3,4.3
@@ -13035,7 +13035,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 13034,Ropa,Sur,Transferencia,27.74,5,3.2,4.1
 13035,Hogar,Centro,Transferencia,46.99,4,1.6,2.8
 13036,Ropa,Sur,Tarjeta,55.03,2,3.8,3.9
-13037,Hogar,Norte,Tarjeta,-0.23,3,1.8,4.7
+13037,Hogar,Norte,Tarjeta,0.23,3,1.8,4.7
 13038,Hogar,Sur,Débito,74.22,1,1.5,3.0
 13039,Deportes,Centro,Transferencia,53.98,1,2.2,4.2
 13040,Ropa,Sur,Tarjeta,80.32,3,4.2,4.7
@@ -13069,7 +13069,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 13068,Ropa,Centro,Tarjeta,60.3,3,2.0,3.8
 13069,Ropa,Sur,Transferencia,29.14,4,3.4,5.4
 13070,Hogar,Norte,Transferencia,43.68,3,3.3,4.6
-13071,Hogar,Sur,Transferencia,-9.73,5,2.6,5.4
+13071,Hogar,Sur,Transferencia,9.73,5,2.6,5.4
 13072,Electrónica,Centro,Tarjeta,53.45,4,3.1,2.8
 13073,Hogar,Sur,Transferencia,42.52,4,2.5,4.0
 13074,Hogar,Sur,Tarjeta,64.68,4,2.9,4.5
@@ -13087,7 +13087,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 13086,Ropa,Sur,Débito,49.53,2,2.8,1.9
 13087,Hogar,Sur,Tarjeta,28.44,3,3.1,4.0
 13088,Electrónica,Centro,Tarjeta,39.49,1,3.0,4.1
-13089,Ropa,Sur,Transferencia,42.12,2,-0.3,3.8
+13089,Ropa,Sur,Transferencia,42.12,2,0.3,3.8
 13090,Deportes,Centro,Tarjeta,70.69,5,4.5,3.3
 13091,Deportes,Centro,Débito,48.8,2,1.6,3.0
 13092,Electrónica,Sur,Tarjeta,71.11,5,4.0,4.8
@@ -13122,7 +13122,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 13121,Electrónica,Centro,Tarjeta,58.66,1,2.8,4.1
 13122,Electrónica,Sur,Transferencia,45.69,4,2.3,2.4
 13123,Hogar,Centro,Transferencia,8.5,3,2.1,3.8
-13124,Deportes,Centro,Débito,-6.26,3,2.3,4.6
+13124,Deportes,Centro,Débito,6.26,3,2.3,4.6
 13125,Ropa,Norte,Débito,43.11,5,3.7,5.2
 13126,Electrónica,Centro,Transferencia,51.72,4,2.7,4.3
 13127,Hogar,Norte,Transferencia,44.34,3,4.6,2.5
@@ -13149,14 +13149,14 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 13148,Hogar,Sur,Tarjeta,27.3,1,2.6,2.6
 13149,Electrónica,Centro,Débito,49.34,4,2.9,3.0
 13150,Hogar,Centro,Débito,37.77,4,2.5,2.8
-13151,Hogar,Norte,Transferencia,-9.68,3,3.5,4.5
+13151,Hogar,Norte,Transferencia,9.68,3,3.5,4.5
 13152,Electrónica,Centro,Transferencia,79.5,4,1.2,4.3
 13153,Deportes,Norte,Débito,54.42,4,2.7,4.0
 13154,Electrónica,Centro,Débito,77.74,1,2.7,3.4
 13155,Hogar,Centro,Débito,49.62,2,3.9,2.8
 13156,Electrónica,Sur,Transferencia,54.6,5,4.0,2.1
 13157,Deportes,Norte,Débito,61.49,2,6.0,5.0
-13158,Hogar,Centro,Tarjeta,-0.61,5,3.5,3.7
+13158,Hogar,Centro,Tarjeta,0.61,5,3.5,3.7
 13159,Ropa,Centro,Débito,24.97,1,4.4,3.4
 13160,Deportes,Norte,Transferencia,31.4,2,2.3,3.9
 13161,Electrónica,Sur,Débito,52.94,4,3.4,3.6
@@ -13204,7 +13204,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 13203,Ropa,Sur,Transferencia,39.32,2,3.4,4.2
 13204,Ropa,Centro,Transferencia,70.54,1,1.6,4.2
 13205,Hogar,Norte,Tarjeta,65.57,3,1.0,3.3
-13206,Hogar,Centro,Transferencia,25.92,5,-1.4,3.3
+13206,Hogar,Centro,Transferencia,25.92,5,1.4,3.3
 13207,Ropa,Sur,Tarjeta,27.13,3,4.9,4.9
 13208,Electrónica,Norte,Transferencia,18.49,4,1.7,4.4
 13209,Deportes,Norte,Débito,39.07,3,4.8,4.4
@@ -13224,7 +13224,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 13223,Hogar,Sur,Transferencia,38.78,3,2.2,6.1
 13224,Deportes,Centro,Tarjeta,53.97,4,3.9,3.5
 13225,Hogar,Norte,Transferencia,47.24,4,1.8,5.2
-13226,Ropa,Centro,Tarjeta,-14.01,5,3.2,2.7
+13226,Ropa,Centro,Tarjeta,14.01,5,3.2,2.7
 13227,Ropa,Norte,Tarjeta,23.62,4,1.8,4.1
 13228,Deportes,Norte,Débito,14.18,2,2.4,5.4
 13229,Ropa,Norte,Tarjeta,31.47,1,4.7,5.4
@@ -13295,7 +13295,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 13294,Electrónica,Centro,Débito,63.22,5,3.8,4.1
 13295,Hogar,Sur,Transferencia,4.75,4,2.6,2.9
 13296,Deportes,Norte,Débito,49.72,4,2.8,4.3
-13297,Ropa,Centro,Transferencia,-2.34,3,0.9,5.2
+13297,Ropa,Centro,Transferencia,2.34,3,0.9,5.2
 13298,Hogar,Sur,Transferencia,15.56,5,3.6,3.4
 13299,Deportes,Centro,Débito,23.29,3,4.8,3.8
 13300,Deportes,Centro,Transferencia,48.85,4,1.8,3.8
@@ -13319,7 +13319,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 13318,Deportes,Norte,Tarjeta,54.95,3,3.9,4.5
 13319,Hogar,Centro,Tarjeta,56.55,3,2.8,5.3
 13320,Deportes,Centro,Tarjeta,28.6,2,3.3,2.9
-13321,Electrónica,Norte,Tarjeta,53.1,4,-0.6,5.1
+13321,Electrónica,Norte,Tarjeta,53.1,4,0.6,5.1
 13322,Hogar,Centro,Débito,55.63,4,4.1,3.9
 13323,Ropa,Sur,Transferencia,50.9,1,2.9,4.2
 13324,Electrónica,Norte,Débito,9.93,4,2.0,4.0
@@ -13456,7 +13456,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 13455,Ropa,Norte,Tarjeta,82.66,2,3.2,2.6
 13456,Deportes,Centro,Tarjeta,47.47,2,0.6,4.4
 13457,Deportes,Norte,Débito,38.5,1,2.1,4.8
-13458,Ropa,Centro,Transferencia,-5.04,2,0.5,4.2
+13458,Ropa,Centro,Transferencia,5.04,2,0.5,4.2
 13459,Deportes,Sur,Débito,68.91,5,4.8,4.3
 13460,Deportes,Sur,Débito,19.04,3,2.8,4.4
 13461,Electrónica,Sur,Transferencia,54.77,3,3.9,3.6
@@ -13468,7 +13468,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 13467,Electrónica,Centro,Transferencia,60.46,1,2.9,4.0
 13468,Hogar,Centro,Tarjeta,52.78,5,3.6,4.9
 13469,Deportes,Norte,Transferencia,51.88,3,3.4,4.2
-13470,Hogar,Sur,Transferencia,-11.88,5,3.4,5.2
+13470,Hogar,Sur,Transferencia,11.88,5,3.4,5.2
 13471,Deportes,Norte,Tarjeta,51.54,5,2.1,5.1
 13472,Hogar,Sur,Tarjeta,24.1,5,4.7,5.1
 13473,Ropa,Sur,Tarjeta,42.55,1,1.7,3.9
@@ -13492,7 +13492,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 13491,Ropa,Norte,Débito,55.6,4,3.2,4.3
 13492,Ropa,Centro,Débito,27.1,1,3.0,4.9
 13493,Hogar,Centro,Transferencia,48.77,5,2.8,2.9
-13494,Ropa,Norte,Transferencia,-1.9,2,1.5,3.2
+13494,Ropa,Norte,Transferencia,1.9,2,1.5,3.2
 13495,Electrónica,Norte,Débito,47.03,1,1.8,5.2
 13496,Deportes,Centro,Tarjeta,50.68,2,3.1,4.6
 13497,Deportes,Norte,Tarjeta,76.85,4,3.5,5.0
@@ -13702,7 +13702,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 13701,Deportes,Sur,Transferencia,47.2,4,3.4,3.7
 13702,Deportes,Centro,Tarjeta,42.72,4,3.1,3.9
 13703,Ropa,Norte,Tarjeta,69.03,1,3.6,5.0
-13704,Hogar,Centro,Débito,17.24,2,-0.4,3.8
+13704,Hogar,Centro,Débito,17.24,2,0.4,3.8
 13705,Hogar,Norte,Tarjeta,30.42,2,1.9,4.4
 13706,Deportes,Norte,Tarjeta,56.33,2,0.2,4.7
 13707,Hogar,Centro,Débito,39.48,1,4.1,3.1
@@ -13783,7 +13783,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 13782,Electrónica,Sur,Tarjeta,61.39,3,4.3,4.9
 13783,Electrónica,Sur,Transferencia,40.71,4,1.7,4.6
 13784,Ropa,Norte,Débito,46.47,5,4.7,4.8
-13785,Deportes,Norte,Tarjeta,-6.28,1,3.6,5.3
+13785,Deportes,Norte,Tarjeta,6.28,1,3.6,5.3
 13786,Deportes,Norte,Transferencia,39.25,5,2.4,3.7
 13787,Hogar,Centro,Tarjeta,37.0,2,3.9,3.9
 13788,Hogar,Centro,Transferencia,30.96,5,3.8,4.3
@@ -13838,7 +13838,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 13837,Hogar,Centro,Tarjeta,23.51,4,5.1,4.4
 13838,Deportes,Norte,Tarjeta,61.79,1,2.3,4.1
 13839,Electrónica,Sur,Transferencia,32.87,4,3.3,5.0
-13840,Ropa,Centro,Transferencia,-17.66,4,4.1,4.8
+13840,Ropa,Centro,Transferencia,17.66,4,4.1,4.8
 13841,Electrónica,Sur,Transferencia,43.66,5,2.3,4.0
 13842,Deportes,Centro,Transferencia,32.29,3,2.3,2.6
 13843,Ropa,Centro,Tarjeta,90.94,1,3.2,4.5
@@ -14020,7 +14020,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14019,Electrónica,Centro,Tarjeta,25.67,1,1.3,3.8
 14020,Ropa,Sur,Transferencia,57.76,1,2.9,5.1
 14021,Hogar,Sur,Débito,48.37,4,4.3,5.1
-14022,Electrónica,Norte,Débito,-17.5,1,2.4,4.4
+14022,Electrónica,Norte,Débito,17.5,1,2.4,4.4
 14023,Electrónica,Norte,Tarjeta,74.02,4,3.1,3.7
 14024,Electrónica,Centro,Débito,44.35,3,2.3,4.3
 14025,Ropa,Sur,Transferencia,43.78,4,1.7,3.8
@@ -14044,7 +14044,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14043,Deportes,Centro,Débito,34.22,3,4.1,5.0
 14044,Hogar,Sur,Tarjeta,20.61,5,3.9,3.8
 14045,Electrónica,Sur,Tarjeta,34.54,4,4.0,3.9
-14046,Ropa,Norte,Tarjeta,37.07,2,-0.1,6.2
+14046,Ropa,Norte,Tarjeta,37.07,2,0.1,6.2
 14047,Ropa,Centro,Débito,40.71,1,4.0,4.6
 14048,Ropa,Norte,Débito,28.92,3,2.9,4.4
 14049,Ropa,Norte,Débito,44.74,3,2.7,5.2
@@ -14109,7 +14109,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14108,Electrónica,Norte,Débito,9.42,1,2.8,3.4
 14109,Ropa,Sur,Débito,62.91,1,3.3,5.3
 14110,Ropa,Centro,Transferencia,28.12,3,2.5,3.7
-14111,Hogar,Centro,Débito,-7.57,2,3.8,4.1
+14111,Hogar,Centro,Débito,7.57,2,3.8,4.1
 14112,Ropa,Centro,Débito,45.2,3,2.1,4.3
 14113,Electrónica,Norte,Débito,72.6,4,3.0,4.3
 14114,Hogar,Centro,Débito,59.52,1,3.5,3.7
@@ -14142,7 +14142,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14141,Hogar,Norte,Débito,16.29,2,3.9,3.8
 14142,Ropa,Centro,Débito,61.65,4,2.5,3.8
 14143,Electrónica,Centro,Débito,24.6,2,3.2,4.0
-14144,Hogar,Sur,Tarjeta,37.17,1,-0.1,4.8
+14144,Hogar,Sur,Tarjeta,37.17,1,0.1,4.8
 14145,Electrónica,Centro,Transferencia,42.79,2,4.0,4.2
 14146,Ropa,Sur,Débito,53.85,2,3.8,4.1
 14147,Electrónica,Centro,Transferencia,38.61,1,2.7,4.6
@@ -14169,7 +14169,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14168,Hogar,Sur,Tarjeta,38.55,2,5.4,4.3
 14169,Electrónica,Centro,Transferencia,44.49,4,3.7,5.6
 14170,Hogar,Sur,Transferencia,56.74,2,2.5,3.6
-14171,Hogar,Sur,Tarjeta,-11.22,1,2.6,5.1
+14171,Hogar,Sur,Tarjeta,11.22,1,2.6,5.1
 14172,Hogar,Norte,Transferencia,44.37,3,5.0,5.9
 14173,Hogar,Sur,Tarjeta,53.45,3,5.4,5.0
 14174,Electrónica,Sur,Transferencia,69.81,5,2.4,4.0
@@ -14223,15 +14223,15 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14222,Hogar,Sur,Tarjeta,59.95,2,3.0,5.9
 14223,Ropa,Norte,Débito,65.0,3,3.9,3.9
 14224,Electrónica,Centro,Tarjeta,61.21,4,1.7,2.9
-14225,Ropa,Norte,Transferencia,-7.07,5,2.6,5.0
+14225,Ropa,Norte,Transferencia,7.07,5,2.6,5.0
 14226,Ropa,Sur,Transferencia,23.44,4,1.0,5.3
-14227,Ropa,Centro,Tarjeta,26.1,4,-0.2,3.8
+14227,Ropa,Centro,Tarjeta,26.1,4,0.2,3.8
 14228,Ropa,Sur,Transferencia,16.01,2,3.4,4.3
 14229,Hogar,Centro,Débito,65.75,3,0.9,3.2
 14230,Hogar,Norte,Tarjeta,34.13,1,1.8,4.4
 14231,Hogar,Sur,Débito,22.06,2,2.8,2.9
 14232,Deportes,Norte,Débito,69.65,1,3.5,4.2
-14233,Deportes,Centro,Tarjeta,-3.67,5,2.9,4.0
+14233,Deportes,Centro,Tarjeta,3.67,5,2.9,4.0
 14234,Deportes,Centro,Transferencia,50.23,3,3.3,4.4
 14235,Ropa,Norte,Transferencia,69.19,3,5.2,4.7
 14236,Ropa,Norte,Tarjeta,77.75,2,2.8,4.5
@@ -14304,7 +14304,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14303,Electrónica,Sur,Débito,49.14,1,3.4,3.2
 14304,Ropa,Centro,Transferencia,36.65,3,3.4,4.4
 14305,Deportes,Norte,Tarjeta,55.24,4,2.7,4.4
-14306,Ropa,Sur,Débito,-10.79,3,4.2,4.6
+14306,Ropa,Sur,Débito,10.79,3,4.2,4.6
 14307,Hogar,Centro,Tarjeta,59.35,3,2.1,3.6
 14308,Hogar,Sur,Transferencia,37.0,1,3.7,5.1
 14309,Ropa,Sur,Transferencia,74.58,1,3.4,3.5
@@ -14323,8 +14323,8 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14322,Deportes,Sur,Débito,11.19,2,3.7,4.5
 14323,Hogar,Centro,Débito,20.84,3,5.5,3.6
 14324,Hogar,Centro,Tarjeta,55.07,4,3.3,4.4
-14325,Deportes,Norte,Débito,-10.16,5,4.5,4.1
-14326,Deportes,Sur,Tarjeta,-1.06,5,2.7,3.1
+14325,Deportes,Norte,Débito,10.16,5,4.5,4.1
+14326,Deportes,Sur,Tarjeta,1.06,5,2.7,3.1
 14327,Electrónica,Sur,Tarjeta,28.56,5,2.6,3.8
 14328,Ropa,Centro,Transferencia,21.31,5,3.6,5.0
 14329,Hogar,Sur,Transferencia,65.27,3,2.6,4.3
@@ -14350,7 +14350,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14349,Deportes,Centro,Transferencia,36.08,2,5.1,4.1
 14350,Ropa,Sur,Tarjeta,56.87,2,3.5,4.5
 14351,Ropa,Norte,Débito,65.55,2,2.4,5.4
-14352,Ropa,Norte,Débito,-1.59,2,2.7,4.4
+14352,Ropa,Norte,Débito,1.59,2,2.7,4.4
 14353,Deportes,Centro,Débito,61.84,1,2.0,4.2
 14354,Electrónica,Norte,Débito,22.74,1,2.7,4.7
 14355,Electrónica,Centro,Débito,12.36,1,1.0,4.3
@@ -14421,11 +14421,11 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14420,Hogar,Sur,Tarjeta,45.51,2,2.9,3.9
 14421,Deportes,Centro,Transferencia,73.37,4,2.3,3.1
 14422,Ropa,Sur,Débito,29.25,2,2.1,4.3
-14423,Electrónica,Norte,Tarjeta,-2.69,5,2.9,4.6
+14423,Electrónica,Norte,Tarjeta,2.69,5,2.9,4.6
 14424,Hogar,Norte,Tarjeta,62.98,4,6.2,3.4
 14425,Hogar,Norte,Transferencia,42.79,3,3.8,5.1
 14426,Deportes,Sur,Débito,44.07,2,1.6,4.0
-14427,Deportes,Centro,Tarjeta,-9.85,3,2.5,3.5
+14427,Deportes,Centro,Tarjeta,9.85,3,2.5,3.5
 14428,Hogar,Centro,Débito,53.35,2,1.1,4.2
 14429,Hogar,Norte,Débito,21.21,1,1.6,3.5
 14430,Deportes,Norte,Tarjeta,68.46,2,3.3,3.1
@@ -14486,7 +14486,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14485,Deportes,Centro,Débito,42.07,4,1.0,5.3
 14486,Hogar,Norte,Transferencia,15.52,4,3.0,3.7
 14487,Ropa,Norte,Tarjeta,59.92,1,4.1,4.6
-14488,Electrónica,Norte,Débito,-11.99,1,4.2,4.1
+14488,Electrónica,Norte,Débito,11.99,1,4.2,4.1
 14489,Ropa,Sur,Transferencia,42.9,5,2.8,5.2
 14490,Ropa,Sur,Transferencia,76.13,4,1.3,4.3
 14491,Ropa,Norte,Transferencia,66.68,3,2.0,3.7
@@ -14500,7 +14500,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14499,Hogar,Centro,Tarjeta,55.91,5,4.1,5.1
 14500,Ropa,Centro,Transferencia,58.63,5,2.1,3.3
 14501,Deportes,Norte,Débito,41.04,5,1.8,4.0
-14502,Electrónica,Centro,Transferencia,-0.58,4,3.5,4.7
+14502,Electrónica,Centro,Transferencia,0.58,4,3.5,4.7
 14503,Electrónica,Centro,Tarjeta,43.13,3,2.7,2.8
 14504,Hogar,Norte,Débito,65.62,4,3.5,4.6
 14505,Electrónica,Norte,Tarjeta,15.71,1,4.8,5.6
@@ -14517,8 +14517,8 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14516,Electrónica,Sur,Tarjeta,48.47,2,3.7,5.9
 14517,Hogar,Centro,Transferencia,59.25,5,1.2,3.5
 14518,Deportes,Norte,Tarjeta,84.94,1,2.1,3.9
-14519,Electrónica,Centro,Débito,-15.25,3,2.1,4.5
-14520,Hogar,Norte,Débito,48.68,5,-0.6,5.2
+14519,Electrónica,Centro,Débito,15.25,3,2.1,4.5
+14520,Hogar,Norte,Débito,48.68,5,0.6,5.2
 14521,Ropa,Norte,Débito,2.26,1,3.8,4.6
 14522,Electrónica,Sur,Tarjeta,54.13,1,6.0,6.3
 14523,Deportes,Centro,Débito,49.78,3,0.6,4.7
@@ -14536,7 +14536,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14535,Ropa,Norte,Transferencia,84.59,3,4.5,3.9
 14536,Hogar,Sur,Tarjeta,54.82,2,1.3,3.8
 14537,Deportes,Centro,Transferencia,58.42,4,4.0,3.8
-14538,Hogar,Sur,Transferencia,42.9,2,-0.1,4.2
+14538,Hogar,Sur,Transferencia,42.9,2,0.1,4.2
 14539,Hogar,Norte,Transferencia,42.5,1,1.1,4.8
 14540,Deportes,Sur,Tarjeta,64.11,4,1.8,3.8
 14541,Deportes,Norte,Débito,56.72,2,2.1,4.6
@@ -14548,7 +14548,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14547,Electrónica,Norte,Tarjeta,60.83,5,1.8,4.5
 14548,Hogar,Sur,Tarjeta,77.64,1,3.3,4.6
 14549,Hogar,Norte,Débito,45.21,5,1.1,5.6
-14550,Electrónica,Sur,Transferencia,-14.47,4,3.4,1.7
+14550,Electrónica,Sur,Transferencia,14.47,4,3.4,1.7
 14551,Ropa,Norte,Tarjeta,38.1,3,4.8,5.2
 14552,Ropa,Centro,Débito,35.65,3,3.4,4.2
 14553,Deportes,Sur,Débito,66.74,1,5.8,4.4
@@ -14619,7 +14619,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14618,Ropa,Norte,Débito,29.94,1,3.7,4.3
 14619,Ropa,Sur,Débito,63.35,3,3.9,3.1
 14620,Hogar,Norte,Débito,43.24,4,2.2,4.4
-14621,Electrónica,Sur,Tarjeta,-2.72,3,1.9,4.1
+14621,Electrónica,Sur,Tarjeta,2.72,3,1.9,4.1
 14622,Ropa,Centro,Transferencia,6.34,4,1.7,3.6
 14623,Hogar,Sur,Tarjeta,36.15,2,3.7,2.9
 14624,Hogar,Norte,Transferencia,38.41,5,2.2,4.5
@@ -14737,7 +14737,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14736,Ropa,Norte,Tarjeta,39.02,4,4.4,3.7
 14737,Ropa,Norte,Transferencia,61.32,5,4.5,2.1
 14738,Hogar,Sur,Transferencia,53.69,3,5.0,3.5
-14739,Ropa,Norte,Débito,-3.15,5,3.6,3.6
+14739,Ropa,Norte,Débito,3.15,5,3.6,3.6
 14740,Ropa,Sur,Transferencia,55.44,3,3.1,2.5
 14741,Ropa,Norte,Débito,30.1,2,3.2,3.6
 14742,Hogar,Centro,Transferencia,39.26,3,2.4,4.6
@@ -14780,7 +14780,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14779,Ropa,Centro,Transferencia,42.16,4,2.6,3.7
 14780,Hogar,Norte,Transferencia,52.54,3,2.4,4.1
 14781,Hogar,Sur,Débito,51.84,2,3.0,3.0
-14782,Hogar,Sur,Débito,-0.99,2,-0.4,5.1
+14782,Hogar,Sur,Débito,0.99,2,0.4,5.1
 14783,Hogar,Centro,Débito,32.54,2,3.2,4.2
 14784,Hogar,Centro,Débito,13.63,5,4.2,4.4
 14785,Deportes,Centro,Débito,46.21,3,2.2,3.6
@@ -14825,7 +14825,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14824,Deportes,Sur,Transferencia,68.64,5,3.0,4.5
 14825,Electrónica,Centro,Débito,62.11,4,4.8,4.5
 14826,Ropa,Sur,Tarjeta,39.54,4,4.4,5.2
-14827,Deportes,Centro,Débito,-6.31,3,1.2,3.9
+14827,Deportes,Centro,Débito,6.31,3,1.2,3.9
 14828,Ropa,Centro,Transferencia,58.27,4,2.1,4.1
 14829,Hogar,Sur,Tarjeta,72.99,5,1.8,4.7
 14830,Deportes,Centro,Débito,38.46,1,3.2,4.3
@@ -14882,7 +14882,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14881,Deportes,Centro,Tarjeta,19.6,4,4.2,4.7
 14882,Electrónica,Centro,Débito,31.34,3,5.4,3.6
 14883,Deportes,Centro,Débito,22.37,3,3.0,3.7
-14884,Electrónica,Norte,Tarjeta,61.32,5,-0.1,4.4
+14884,Electrónica,Norte,Tarjeta,61.32,5,0.1,4.4
 14885,Ropa,Centro,Tarjeta,56.61,1,5.0,4.1
 14886,Hogar,Sur,Transferencia,43.16,4,1.6,3.9
 14887,Ropa,Centro,Transferencia,54.85,1,3.0,4.3
@@ -14913,7 +14913,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14912,Deportes,Centro,Débito,57.88,4,4.4,3.1
 14913,Hogar,Centro,Transferencia,67.35,4,4.6,3.4
 14914,Hogar,Norte,Transferencia,67.13,3,1.3,3.4
-14915,Hogar,Sur,Débito,35.38,4,-0.7,4.0
+14915,Hogar,Sur,Débito,35.38,4,0.7,4.0
 14916,Ropa,Sur,Transferencia,57.13,2,1.7,4.8
 14917,Deportes,Sur,Tarjeta,41.37,1,2.8,4.8
 14918,Ropa,Centro,Transferencia,36.67,5,1.7,4.9
@@ -14943,7 +14943,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 14942,Hogar,Sur,Débito,60.08,1,4.1,3.5
 14943,Electrónica,Norte,Transferencia,30.68,1,1.1,3.0
 14944,Hogar,Sur,Transferencia,29.49,1,4.6,5.5
-14945,Deportes,Centro,Tarjeta,54.46,1,-0.8,3.3
+14945,Deportes,Centro,Tarjeta,54.46,1,0.8,3.3
 14946,Electrónica,Norte,Tarjeta,4.48,1,3.6,4.1
 14947,Deportes,Centro,Transferencia,28.42,4,3.0,5.0
 14948,Deportes,Sur,Débito,33.42,1,2.9,5.0
@@ -15065,7 +15065,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 15064,Hogar,Sur,Tarjeta,42.75,1,2.4,3.1
 15065,Hogar,Norte,Débito,70.68,1,3.0,3.8
 15066,Hogar,Centro,Transferencia,42.39,3,5.2,3.4
-15067,Hogar,Sur,Transferencia,-1.2,3,4.8,3.1
+15067,Hogar,Sur,Transferencia,1.2,3,4.8,3.1
 15068,Electrónica,Centro,Transferencia,28.62,2,2.7,5.0
 15069,Hogar,Centro,Débito,43.72,1,4.7,4.2
 15070,Hogar,Norte,Débito,28.48,2,3.2,4.6
@@ -15128,7 +15128,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 15127,Electrónica,Centro,Transferencia,46.76,4,3.7,4.3
 15128,Electrónica,Norte,Débito,52.34,1,4.2,4.3
 15129,Electrónica,Centro,Transferencia,8.3,3,1.5,4.6
-15130,Ropa,Norte,Débito,44.22,2,-0.5,3.6
+15130,Ropa,Norte,Débito,44.22,2,0.5,3.6
 15131,Deportes,Sur,Transferencia,60.11,1,3.0,4.3
 15132,Electrónica,Sur,Transferencia,38.74,4,3.4,4.1
 15133,Ropa,Centro,Tarjeta,29.62,1,3.3,5.3
@@ -15211,7 +15211,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 15210,Electrónica,Norte,Tarjeta,0.05,1,2.9,4.6
 15211,Hogar,Sur,Tarjeta,15.27,5,3.1,6.1
 15212,Hogar,Sur,Transferencia,29.14,1,3.1,3.6
-15213,Electrónica,Centro,Tarjeta,-14.34,4,2.7,5.7
+15213,Electrónica,Centro,Tarjeta,14.34,4,2.7,5.7
 15214,Deportes,Sur,Tarjeta,38.33,2,3.3,5.0
 15215,Electrónica,Norte,Débito,51.38,4,4.2,3.6
 15216,Electrónica,Centro,Débito,54.6,5,2.6,2.8
@@ -15253,7 +15253,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 15252,Hogar,Sur,Débito,59.39,3,3.0,5.3
 15253,Electrónica,Norte,Transferencia,48.49,1,3.0,5.5
 15254,Hogar,Norte,Transferencia,73.52,4,4.1,4.0
-15255,Hogar,Sur,Débito,-6.45,3,3.3,5.4
+15255,Hogar,Sur,Débito,6.45,3,3.3,5.4
 15256,Ropa,Norte,Tarjeta,75.44,1,2.9,4.6
 15257,Hogar,Centro,Transferencia,62.83,3,2.1,4.9
 15258,Deportes,Centro,Débito,27.63,4,1.3,4.0
@@ -15267,7 +15267,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 15266,Deportes,Sur,Débito,42.61,1,4.1,4.0
 15267,Deportes,Sur,Tarjeta,59.15,1,3.3,4.0
 15268,Electrónica,Norte,Transferencia,56.04,5,2.4,3.2
-15269,Deportes,Centro,Débito,17.22,2,-0.0,3.9
+15269,Deportes,Centro,Débito,17.22,2,0.0,3.9
 15270,Hogar,Norte,Tarjeta,18.74,1,5.1,3.1
 15271,Deportes,Centro,Tarjeta,51.43,1,4.5,4.1
 15272,Electrónica,Centro,Tarjeta,36.18,1,5.0,4.1
@@ -15487,7 +15487,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 15486,Electrónica,Centro,Transferencia,57.66,5,4.7,4.8
 15487,Deportes,Centro,Transferencia,52.98,5,2.5,3.9
 15488,Ropa,Sur,Transferencia,45.43,4,4.3,4.6
-15489,Ropa,Centro,Débito,-0.23,4,1.8,3.3
+15489,Ropa,Centro,Débito,0.23,4,1.8,3.3
 15490,Hogar,Sur,Tarjeta,21.0,1,2.3,5.1
 15491,Deportes,Sur,Débito,33.03,3,5.7,5.1
 15492,Hogar,Sur,Transferencia,55.87,3,2.1,4.6
@@ -15587,7 +15587,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 15586,Ropa,Centro,Débito,28.5,4,1.0,4.7
 15587,Electrónica,Norte,Débito,44.94,3,2.4,4.3
 15588,Hogar,Sur,Débito,28.54,1,4.6,4.9
-15589,Deportes,Centro,Tarjeta,-0.18,5,3.1,3.8
+15589,Deportes,Centro,Tarjeta,0.18,5,3.1,3.8
 15590,Hogar,Sur,Tarjeta,67.79,3,3.5,5.4
 15591,Electrónica,Norte,Transferencia,23.34,1,3.7,4.1
 15592,Ropa,Centro,Débito,24.28,5,1.3,3.4
@@ -15657,7 +15657,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 15656,Electrónica,Centro,Débito,30.39,1,2.0,4.2
 15657,Ropa,Norte,Débito,35.12,3,2.7,3.9
 15658,Electrónica,Norte,Transferencia,57.94,1,2.2,3.9
-15659,Deportes,Centro,Débito,-5.26,3,3.6,4.2
+15659,Deportes,Centro,Débito,5.26,3,3.6,4.2
 15660,Ropa,Centro,Transferencia,32.9,1,0.7,3.5
 15661,Ropa,Centro,Débito,38.77,3,0.9,3.4
 15662,Hogar,Norte,Tarjeta,34.09,1,3.5,3.8
@@ -15668,7 +15668,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 15667,Ropa,Sur,Débito,35.69,3,2.9,4.8
 15668,Deportes,Sur,Transferencia,8.67,1,3.7,4.2
 15669,Deportes,Centro,Transferencia,31.22,2,1.1,3.8
-15670,Electrónica,Norte,Débito,-14.62,5,2.3,3.9
+15670,Electrónica,Norte,Débito,14.62,5,2.3,3.9
 15671,Electrónica,Norte,Débito,30.54,5,1.7,4.2
 15672,Electrónica,Norte,Transferencia,45.75,3,4.9,3.9
 15673,Ropa,Sur,Débito,54.92,4,3.6,4.5
@@ -15959,7 +15959,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 15958,Hogar,Centro,Débito,49.67,4,2.6,4.2
 15959,Deportes,Centro,Débito,60.94,3,2.9,4.3
 15960,Hogar,Sur,Tarjeta,15.15,1,3.1,4.1
-15961,Ropa,Sur,Transferencia,-24.43,5,3.1,4.5
+15961,Ropa,Sur,Transferencia,24.43,5,3.1,4.5
 15962,Electrónica,Centro,Tarjeta,16.35,5,3.1,3.4
 15963,Ropa,Norte,Tarjeta,79.66,4,1.3,4.1
 15964,Electrónica,Norte,Transferencia,9.06,5,3.8,4.1
@@ -16069,7 +16069,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 16068,Electrónica,Sur,Transferencia,49.7,2,1.8,4.9
 16069,Deportes,Norte,Débito,70.1,2,3.7,4.6
 16070,Electrónica,Sur,Débito,28.66,1,3.4,4.8
-16071,Hogar,Sur,Débito,-9.84,5,3.1,5.2
+16071,Hogar,Sur,Débito,9.84,5,3.1,5.2
 16072,Hogar,Norte,Transferencia,56.34,2,4.0,2.7
 16073,Hogar,Norte,Tarjeta,7.25,2,1.8,3.9
 16074,Electrónica,Sur,Débito,90.14,3,2.6,3.1
@@ -16086,11 +16086,11 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 16085,Deportes,Norte,Transferencia,8.02,2,1.8,4.7
 16086,Ropa,Sur,Débito,71.81,4,3.4,4.9
 16087,Electrónica,Norte,Débito,71.09,3,2.2,4.8
-16088,Electrónica,Norte,Débito,-6.57,5,4.0,3.0
-16089,Electrónica,Centro,Tarjeta,-3.89,5,2.3,4.4
+16088,Electrónica,Norte,Débito,6.57,5,4.0,3.0
+16089,Electrónica,Centro,Tarjeta,3.89,5,2.3,4.4
 16090,Electrónica,Norte,Tarjeta,32.67,5,2.8,4.2
 16091,Ropa,Norte,Transferencia,0.3,1,4.8,6.0
-16092,Ropa,Centro,Transferencia,18.72,4,-0.4,3.8
+16092,Ropa,Centro,Transferencia,18.72,4,0.4,3.8
 16093,Electrónica,Norte,Tarjeta,36.8,4,4.5,4.4
 16094,Hogar,Norte,Débito,51.85,5,3.1,4.0
 16095,Ropa,Centro,Transferencia,62.93,4,2.0,5.0
@@ -16111,7 +16111,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 16110,Ropa,Sur,Transferencia,54.79,3,3.9,4.1
 16111,Hogar,Norte,Transferencia,10.73,5,3.4,5.1
 16112,Ropa,Norte,Transferencia,61.02,4,3.2,3.7
-16113,Ropa,Sur,Tarjeta,-0.09,4,1.8,3.3
+16113,Ropa,Sur,Tarjeta,0.09,4,1.8,3.3
 16114,Electrónica,Norte,Transferencia,30.63,4,3.6,5.6
 16115,Ropa,Sur,Transferencia,46.2,1,3.1,4.4
 16116,Hogar,Norte,Débito,75.22,1,2.2,3.3
@@ -16121,7 +16121,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 16120,Hogar,Norte,Débito,36.77,1,3.4,5.4
 16121,Deportes,Sur,Transferencia,26.21,1,1.2,4.5
 16122,Electrónica,Centro,Débito,59.51,4,2.4,3.1
-16123,Ropa,Centro,Tarjeta,-13.44,5,2.9,3.4
+16123,Ropa,Centro,Tarjeta,13.44,5,2.9,3.4
 16124,Deportes,Norte,Débito,33.89,3,0.5,4.5
 16125,Deportes,Norte,Transferencia,59.71,2,1.7,3.9
 16126,Deportes,Centro,Tarjeta,36.26,3,3.3,5.7
@@ -16358,7 +16358,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 16357,Ropa,Centro,Débito,24.85,2,4.7,4.3
 16358,Hogar,Centro,Débito,41.82,3,3.0,4.1
 16359,Ropa,Centro,Tarjeta,33.12,2,3.6,5.2
-16360,Deportes,Norte,Transferencia,47.81,4,-0.1,5.1
+16360,Deportes,Norte,Transferencia,47.81,4,0.1,5.1
 16361,Hogar,Norte,Tarjeta,15.66,4,3.0,4.6
 16362,Electrónica,Centro,Transferencia,58.54,1,4.4,5.2
 16363,Electrónica,Norte,Tarjeta,7.92,3,2.5,3.1
@@ -16375,7 +16375,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 16374,Ropa,Norte,Tarjeta,66.9,2,1.6,4.9
 16375,Ropa,Norte,Débito,31.88,3,3.1,3.8
 16376,Ropa,Norte,Transferencia,44.71,2,2.1,3.2
-16377,Ropa,Sur,Débito,-21.02,5,4.2,4.2
+16377,Ropa,Sur,Débito,21.02,5,4.2,4.2
 16378,Deportes,Centro,Transferencia,54.65,4,2.0,4.6
 16379,Hogar,Norte,Tarjeta,75.49,2,1.7,4.1
 16380,Hogar,Norte,Débito,44.39,5,4.8,3.7
@@ -16431,7 +16431,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 16430,Ropa,Centro,Transferencia,32.11,4,2.3,4.0
 16431,Ropa,Centro,Tarjeta,1.65,5,2.9,3.6
 16432,Ropa,Norte,Tarjeta,39.23,2,3.7,4.6
-16433,Deportes,Sur,Tarjeta,-0.04,3,3.6,4.0
+16433,Deportes,Sur,Tarjeta,0.04,3,3.6,4.0
 16434,Electrónica,Norte,Transferencia,61.21,4,3.6,3.1
 16435,Deportes,Norte,Tarjeta,35.88,5,2.1,3.5
 16436,Electrónica,Sur,Tarjeta,50.08,1,2.4,5.6
@@ -16514,7 +16514,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 16513,Hogar,Centro,Débito,28.99,3,2.4,5.0
 16514,Electrónica,Centro,Débito,55.3,4,3.5,5.1
 16515,Deportes,Centro,Débito,5.73,4,3.8,4.0
-16516,Electrónica,Centro,Transferencia,-0.12,4,4.3,4.5
+16516,Electrónica,Centro,Transferencia,0.12,4,4.3,4.5
 16517,Electrónica,Norte,Débito,32.75,4,4.3,4.9
 16518,Electrónica,Sur,Débito,71.59,1,2.0,4.7
 16519,Deportes,Sur,Tarjeta,48.88,2,3.5,4.7
@@ -16523,11 +16523,11 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 16522,Hogar,Centro,Tarjeta,67.96,1,2.6,3.2
 16523,Ropa,Centro,Débito,73.31,3,3.9,5.8
 16524,Deportes,Norte,Tarjeta,43.49,5,5.2,4.7
-16525,Deportes,Centro,Transferencia,-1.86,2,4.2,4.7
+16525,Deportes,Centro,Transferencia,1.86,2,4.2,4.7
 16526,Electrónica,Sur,Transferencia,46.27,4,5.1,3.7
 16527,Electrónica,Sur,Tarjeta,23.58,4,2.4,4.7
 16528,Electrónica,Sur,Tarjeta,58.12,5,1.5,4.2
-16529,Deportes,Sur,Débito,-8.94,3,4.0,2.9
+16529,Deportes,Sur,Débito,8.94,3,4.0,2.9
 16530,Ropa,Norte,Débito,32.87,3,2.4,3.6
 16531,Ropa,Norte,Transferencia,46.44,5,4.5,3.2
 16532,Deportes,Centro,Débito,32.58,5,2.9,5.1
@@ -16557,7 +16557,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 16556,Ropa,Sur,Débito,59.13,1,3.6,4.0
 16557,Deportes,Sur,Débito,68.17,5,4.6,3.3
 16558,Hogar,Sur,Débito,49.48,3,2.5,4.3
-16559,Ropa,Norte,Tarjeta,-4.12,2,2.1,5.1
+16559,Ropa,Norte,Tarjeta,4.12,2,2.1,5.1
 16560,Ropa,Centro,Débito,67.5,4,2.6,3.1
 16561,Hogar,Norte,Débito,14.62,5,4.7,3.3
 16562,Electrónica,Sur,Transferencia,30.37,5,1.2,5.9
@@ -16583,7 +16583,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 16582,Electrónica,Centro,Débito,62.07,2,3.2,4.1
 16583,Ropa,Centro,Débito,37.46,1,2.3,4.4
 16584,Ropa,Centro,Transferencia,72.37,4,4.7,4.3
-16585,Hogar,Sur,Transferencia,-3.11,5,2.8,6.1
+16585,Hogar,Sur,Transferencia,3.11,5,2.8,6.1
 16586,Electrónica,Norte,Débito,73.26,5,3.0,4.4
 16587,Hogar,Sur,Tarjeta,17.86,3,2.8,4.7
 16588,Electrónica,Centro,Débito,49.3,4,4.5,4.4
@@ -16608,7 +16608,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 16607,Hogar,Norte,Débito,31.62,1,2.8,4.7
 16608,Ropa,Sur,Tarjeta,67.33,2,3.1,3.3
 16609,Deportes,Sur,Tarjeta,52.15,1,5.1,5.2
-16610,Hogar,Sur,Débito,41.97,3,-0.4,6.2
+16610,Hogar,Sur,Débito,41.97,3,0.4,6.2
 16611,Hogar,Norte,Tarjeta,110.56,4,3.5,4.7
 16612,Electrónica,Sur,Tarjeta,25.86,3,3.4,5.2
 16613,Electrónica,Sur,Tarjeta,21.69,3,2.0,3.6
@@ -16631,7 +16631,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 16630,Hogar,Centro,Tarjeta,40.85,5,1.6,4.0
 16631,Deportes,Centro,Débito,59.05,2,3.8,4.8
 16632,Ropa,Centro,Débito,68.96,5,2.4,3.9
-16633,Electrónica,Centro,Tarjeta,-0.18,5,2.8,5.4
+16633,Electrónica,Centro,Tarjeta,0.18,5,2.8,5.4
 16634,Hogar,Centro,Débito,58.45,2,3.5,5.3
 16635,Electrónica,Centro,Transferencia,17.81,1,3.4,4.8
 16636,Hogar,Centro,Tarjeta,22.46,1,1.2,4.7
@@ -16660,7 +16660,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 16659,Ropa,Centro,Tarjeta,72.52,5,2.3,5.4
 16660,Ropa,Sur,Tarjeta,88.96,3,2.0,5.1
 16661,Hogar,Centro,Débito,22.78,1,2.8,4.2
-16662,Electrónica,Sur,Transferencia,-11.42,5,4.0,3.8
+16662,Electrónica,Sur,Transferencia,11.42,5,4.0,3.8
 16663,Deportes,Centro,Transferencia,51.86,5,3.7,3.5
 16664,Ropa,Sur,Tarjeta,44.38,2,3.5,3.0
 16665,Deportes,Centro,Tarjeta,57.05,2,2.2,4.5
@@ -16696,7 +16696,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 16695,Deportes,Norte,Transferencia,22.88,3,3.7,3.8
 16696,Deportes,Centro,Transferencia,39.09,4,1.5,4.0
 16697,Electrónica,Sur,Tarjeta,57.09,1,4.0,4.5
-16698,Ropa,Sur,Transferencia,28.46,5,-0.2,3.5
+16698,Ropa,Sur,Transferencia,28.46,5,0.2,3.5
 16699,Hogar,Sur,Tarjeta,35.55,5,1.6,3.6
 16700,Hogar,Sur,Transferencia,33.82,3,2.8,4.7
 16701,Ropa,Centro,Débito,64.07,1,2.8,4.1
@@ -16846,7 +16846,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 16845,Ropa,Norte,Transferencia,32.12,4,4.4,4.5
 16846,Ropa,Sur,Débito,37.77,4,5.2,5.0
 16847,Electrónica,Centro,Débito,47.32,1,3.8,4.3
-16848,Deportes,Centro,Tarjeta,-2.69,2,1.6,3.4
+16848,Deportes,Centro,Tarjeta,2.69,2,1.6,3.4
 16849,Electrónica,Sur,Transferencia,90.6,2,2.8,4.3
 16850,Deportes,Norte,Transferencia,2.79,1,3.2,5.6
 16851,Electrónica,Norte,Débito,95.04,1,3.7,4.9
@@ -16941,7 +16941,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 16940,Deportes,Centro,Débito,39.88,1,3.2,3.6
 16941,Hogar,Sur,Débito,61.63,4,1.5,3.2
 16942,Electrónica,Norte,Débito,59.55,2,2.8,5.4
-16943,Deportes,Centro,Tarjeta,-2.14,5,2.9,3.1
+16943,Deportes,Centro,Tarjeta,2.14,5,2.9,3.1
 16944,Electrónica,Centro,Débito,60.97,3,0.3,4.0
 16945,Electrónica,Centro,Débito,48.1,4,4.3,4.4
 16946,Electrónica,Centro,Tarjeta,50.21,5,1.2,4.6
@@ -17025,7 +17025,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 17024,Electrónica,Centro,Transferencia,79.74,2,3.2,4.9
 17025,Hogar,Sur,Transferencia,33.53,4,4.7,4.6
 17026,Ropa,Sur,Débito,53.89,3,1.1,3.9
-17027,Electrónica,Centro,Transferencia,-2.04,1,2.7,5.0
+17027,Electrónica,Centro,Transferencia,2.04,1,2.7,5.0
 17028,Hogar,Centro,Débito,37.35,4,1.5,3.2
 17029,Hogar,Centro,Tarjeta,33.43,1,4.6,4.1
 17030,Electrónica,Norte,Débito,35.21,4,4.0,4.2
@@ -17091,7 +17091,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 17090,Ropa,Sur,Transferencia,39.94,1,1.6,4.5
 17091,Deportes,Norte,Transferencia,47.67,1,2.2,5.1
 17092,Ropa,Norte,Débito,38.84,5,2.6,4.6
-17093,Deportes,Sur,Débito,-0.43,2,1.2,5.0
+17093,Deportes,Sur,Débito,0.43,2,1.2,5.0
 17094,Electrónica,Norte,Tarjeta,43.62,4,3.9,3.9
 17095,Deportes,Centro,Tarjeta,63.2,2,4.8,5.6
 17096,Deportes,Norte,Transferencia,41.47,1,4.2,6.5
@@ -17148,7 +17148,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 17147,Hogar,Centro,Tarjeta,49.72,5,4.0,5.5
 17148,Electrónica,Sur,Débito,60.27,1,1.1,3.9
 17149,Ropa,Norte,Transferencia,50.4,3,2.7,4.1
-17150,Deportes,Centro,Transferencia,43.41,4,-0.1,3.0
+17150,Deportes,Centro,Transferencia,43.41,4,0.1,3.0
 17151,Deportes,Sur,Transferencia,56.57,1,3.8,4.6
 17152,Electrónica,Sur,Tarjeta,35.93,3,2.0,3.8
 17153,Electrónica,Centro,Débito,42.72,4,2.9,4.7
@@ -17188,7 +17188,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 17187,Ropa,Sur,Tarjeta,62.86,2,2.8,5.3
 17188,Hogar,Sur,Débito,46.2,4,2.2,4.2
 17189,Electrónica,Norte,Tarjeta,70.54,2,2.5,3.4
-17190,Ropa,Centro,Transferencia,-25.57,2,3.6,4.0
+17190,Ropa,Centro,Transferencia,25.57,2,3.6,4.0
 17191,Hogar,Sur,Débito,45.55,5,2.6,3.8
 17192,Ropa,Centro,Tarjeta,55.44,4,6.3,5.1
 17193,Hogar,Sur,Tarjeta,42.6,1,4.5,5.7
@@ -17315,7 +17315,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 17314,Electrónica,Norte,Tarjeta,44.83,5,3.3,4.4
 17315,Ropa,Norte,Transferencia,29.38,5,2.3,5.4
 17316,Ropa,Centro,Tarjeta,9.7,4,3.5,5.1
-17317,Electrónica,Sur,Transferencia,-4.85,3,4.4,5.0
+17317,Electrónica,Sur,Transferencia,4.85,3,4.4,5.0
 17318,Electrónica,Sur,Transferencia,24.98,1,0.8,4.3
 17319,Electrónica,Norte,Débito,40.91,1,3.4,5.2
 17320,Electrónica,Centro,Transferencia,23.08,1,3.4,4.3
@@ -17339,7 +17339,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 17338,Deportes,Centro,Transferencia,49.34,4,1.9,4.4
 17339,Deportes,Sur,Débito,73.19,1,4.3,4.1
 17340,Ropa,Sur,Transferencia,28.69,5,1.4,3.5
-17341,Ropa,Norte,Transferencia,-2.94,1,2.1,4.2
+17341,Ropa,Norte,Transferencia,2.94,1,2.1,4.2
 17342,Hogar,Sur,Transferencia,63.56,1,2.3,4.8
 17343,Hogar,Sur,Transferencia,49.08,3,1.5,3.5
 17344,Hogar,Norte,Tarjeta,36.38,5,3.4,5.4
@@ -17419,7 +17419,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 17418,Deportes,Norte,Transferencia,24.78,1,3.2,3.0
 17419,Deportes,Norte,Transferencia,43.54,1,2.6,4.9
 17420,Deportes,Sur,Tarjeta,67.39,2,3.0,5.5
-17421,Electrónica,Norte,Tarjeta,-1.52,5,3.0,3.6
+17421,Electrónica,Norte,Tarjeta,1.52,5,3.0,3.6
 17422,Ropa,Sur,Débito,50.23,3,4.0,3.7
 17423,Deportes,Norte,Tarjeta,48.81,5,3.4,3.1
 17424,Electrónica,Centro,Tarjeta,78.38,3,1.1,3.6
@@ -17525,7 +17525,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 17524,Deportes,Centro,Tarjeta,61.36,3,0.7,4.1
 17525,Electrónica,Norte,Transferencia,55.83,4,2.3,5.4
 17526,Electrónica,Sur,Tarjeta,54.57,3,1.2,4.1
-17527,Deportes,Norte,Transferencia,-16.27,5,5.7,4.0
+17527,Deportes,Norte,Transferencia,16.27,5,5.7,4.0
 17528,Deportes,Centro,Tarjeta,65.22,5,2.9,4.4
 17529,Electrónica,Centro,Tarjeta,13.22,4,2.9,4.4
 17530,Electrónica,Centro,Tarjeta,47.11,4,2.4,4.7
@@ -17579,7 +17579,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 17578,Electrónica,Norte,Débito,51.63,1,2.3,4.1
 17579,Hogar,Centro,Transferencia,46.45,4,4.0,4.7
 17580,Electrónica,Norte,Débito,40.0,2,3.1,4.6
-17581,Electrónica,Norte,Transferencia,-9.99,1,2.8,5.9
+17581,Electrónica,Norte,Transferencia,9.99,1,2.8,5.9
 17582,Deportes,Norte,Tarjeta,68.76,1,3.1,5.4
 17583,Deportes,Norte,Transferencia,45.08,3,2.9,4.5
 17584,Deportes,Sur,Débito,37.26,1,0.4,3.4
@@ -17618,7 +17618,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 17617,Electrónica,Sur,Tarjeta,46.02,1,4.2,3.9
 17618,Hogar,Sur,Tarjeta,44.5,5,2.7,4.9
 17619,Ropa,Sur,Transferencia,46.05,5,3.2,4.9
-17620,Hogar,Centro,Tarjeta,46.52,3,-0.4,3.9
+17620,Hogar,Centro,Tarjeta,46.52,3,0.4,3.9
 17621,Electrónica,Sur,Débito,60.03,4,4.4,3.9
 17622,Hogar,Sur,Transferencia,45.51,1,3.5,5.0
 17623,Electrónica,Centro,Transferencia,51.91,3,3.4,4.2
@@ -17729,7 +17729,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 17728,Hogar,Sur,Transferencia,75.82,4,2.5,4.6
 17729,Electrónica,Norte,Tarjeta,44.78,5,2.9,3.7
 17730,Ropa,Sur,Transferencia,52.83,3,2.8,5.5
-17731,Deportes,Sur,Débito,-6.1,5,3.7,4.7
+17731,Deportes,Sur,Débito,6.1,5,3.7,4.7
 17732,Hogar,Norte,Débito,24.18,2,3.9,4.3
 17733,Hogar,Sur,Transferencia,42.27,3,2.3,5.5
 17734,Ropa,Sur,Transferencia,58.18,1,1.6,4.4
@@ -17791,7 +17791,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 17790,Ropa,Norte,Transferencia,68.87,2,1.8,4.9
 17791,Hogar,Centro,Tarjeta,60.98,1,3.4,4.0
 17792,Hogar,Centro,Transferencia,68.1,4,4.8,4.0
-17793,Deportes,Centro,Débito,-18.56,5,4.6,4.7
+17793,Deportes,Centro,Débito,18.56,5,4.6,4.7
 17794,Electrónica,Norte,Transferencia,78.03,4,3.6,3.5
 17795,Electrónica,Centro,Transferencia,67.17,1,2.4,3.3
 17796,Deportes,Sur,Transferencia,21.92,4,2.2,3.7
@@ -17830,12 +17830,12 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 17829,Hogar,Sur,Transferencia,21.41,5,4.1,4.9
 17830,Ropa,Centro,Tarjeta,38.69,5,3.3,4.8
 17831,Ropa,Norte,Tarjeta,60.2,1,4.4,4.7
-17832,Deportes,Norte,Tarjeta,-1.14,3,3.4,4.2
+17832,Deportes,Norte,Tarjeta,1.14,3,3.4,4.2
 17833,Electrónica,Centro,Transferencia,71.84,3,2.6,4.9
 17834,Electrónica,Norte,Débito,42.49,4,5.3,4.6
 17835,Deportes,Sur,Tarjeta,5.18,1,2.8,4.1
 17836,Electrónica,Norte,Débito,60.57,1,4.4,3.9
-17837,Hogar,Norte,Débito,-13.45,4,3.2,4.1
+17837,Hogar,Norte,Débito,13.45,4,3.2,4.1
 17838,Deportes,Norte,Tarjeta,36.98,5,1.6,5.9
 17839,Hogar,Centro,Tarjeta,71.34,3,4.5,4.3
 17840,Ropa,Sur,Transferencia,23.41,5,1.2,5.0
@@ -17881,10 +17881,10 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 17880,Ropa,Norte,Tarjeta,40.22,3,6.3,4.8
 17881,Hogar,Centro,Tarjeta,43.73,4,0.9,5.9
 17882,Hogar,Centro,Transferencia,73.43,1,2.6,3.6
-17883,Deportes,Centro,Débito,-22.65,3,4.3,3.1
+17883,Deportes,Centro,Débito,22.65,3,4.3,3.1
 17884,Ropa,Norte,Débito,45.21,4,5.4,4.3
 17885,Ropa,Norte,Tarjeta,57.55,3,4.4,4.6
-17886,Ropa,Norte,Débito,-17.11,5,3.1,4.5
+17886,Ropa,Norte,Débito,17.11,5,3.1,4.5
 17887,Hogar,Centro,Tarjeta,62.83,5,1.6,3.2
 17888,Electrónica,Centro,Transferencia,10.66,2,2.4,3.7
 17889,Electrónica,Centro,Tarjeta,43.23,1,3.1,3.3
@@ -17951,7 +17951,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 17950,Hogar,Centro,Tarjeta,75.9,4,1.4,5.0
 17951,Hogar,Centro,Tarjeta,28.75,3,3.5,3.9
 17952,Electrónica,Norte,Tarjeta,95.15,1,1.4,4.4
-17953,Ropa,Centro,Tarjeta,39.62,2,-0.1,4.8
+17953,Ropa,Centro,Tarjeta,39.62,2,0.1,4.8
 17954,Electrónica,Norte,Transferencia,41.51,3,3.7,3.5
 17955,Electrónica,Centro,Débito,38.96,5,3.9,4.3
 17956,Deportes,Norte,Débito,5.15,1,4.9,4.0
@@ -17991,7 +17991,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 17990,Ropa,Centro,Transferencia,55.04,1,2.7,4.6
 17991,Hogar,Norte,Débito,64.09,5,0.5,3.6
 17992,Electrónica,Centro,Transferencia,54.63,3,3.5,4.8
-17993,Hogar,Sur,Transferencia,-29.23,4,2.7,4.9
+17993,Hogar,Sur,Transferencia,29.23,4,2.7,4.9
 17994,Deportes,Sur,Débito,8.14,2,3.2,4.9
 17995,Ropa,Sur,Débito,20.25,5,4.8,5.9
 17996,Hogar,Sur,Transferencia,34.84,4,4.3,3.8
@@ -18024,7 +18024,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 18023,Deportes,Norte,Débito,44.85,2,2.5,5.4
 18024,Electrónica,Centro,Débito,50.95,4,3.2,3.8
 18025,Electrónica,Norte,Débito,66.43,5,2.2,5.8
-18026,Ropa,Norte,Transferencia,-6.59,2,1.2,4.1
+18026,Ropa,Norte,Transferencia,6.59,2,1.2,4.1
 18027,Deportes,Norte,Tarjeta,41.7,2,2.8,1.4
 18028,Hogar,Norte,Débito,36.99,5,2.3,5.2
 18029,Deportes,Centro,Débito,58.21,1,2.4,5.7
@@ -18037,12 +18037,12 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 18036,Electrónica,Centro,Transferencia,63.43,5,3.3,3.1
 18037,Electrónica,Centro,Débito,81.49,2,3.8,3.6
 18038,Ropa,Sur,Débito,46.58,2,4.6,4.1
-18039,Deportes,Norte,Transferencia,-6.31,3,2.9,2.9
+18039,Deportes,Norte,Transferencia,6.31,3,2.9,2.9
 18040,Deportes,Sur,Débito,31.07,1,2.8,4.6
 18041,Hogar,Sur,Transferencia,41.76,4,3.1,5.1
 18042,Hogar,Centro,Transferencia,40.73,3,2.9,5.0
 18043,Electrónica,Centro,Tarjeta,9.07,4,2.6,4.6
-18044,Hogar,Norte,Tarjeta,-14.64,3,4.9,4.8
+18044,Hogar,Norte,Tarjeta,14.64,3,4.9,4.8
 18045,Deportes,Centro,Débito,35.27,4,3.1,5.9
 18046,Hogar,Sur,Débito,23.1,4,3.1,4.5
 18047,Electrónica,Sur,Transferencia,55.63,3,3.4,4.5
@@ -18071,7 +18071,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 18070,Hogar,Centro,Transferencia,43.8,4,3.6,4.5
 18071,Deportes,Sur,Transferencia,11.3,3,2.7,4.5
 18072,Hogar,Norte,Transferencia,36.91,2,1.6,4.1
-18073,Hogar,Sur,Débito,31.87,5,-0.2,3.0
+18073,Hogar,Sur,Débito,31.87,5,0.2,3.0
 18074,Electrónica,Sur,Transferencia,56.97,4,2.9,3.5
 18075,Electrónica,Centro,Débito,11.92,4,4.9,4.1
 18076,Deportes,Sur,Tarjeta,54.81,4,3.3,4.9
@@ -18151,7 +18151,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 18150,Deportes,Sur,Débito,47.86,4,3.5,4.6
 18151,Ropa,Sur,Tarjeta,69.67,4,5.1,4.5
 18152,Hogar,Norte,Transferencia,0.79,4,4.4,3.1
-18153,Electrónica,Sur,Débito,-4.26,5,3.5,3.2
+18153,Electrónica,Sur,Débito,4.26,5,3.5,3.2
 18154,Deportes,Sur,Transferencia,58.35,4,4.7,2.9
 18155,Hogar,Sur,Débito,52.28,4,1.8,2.2
 18156,Hogar,Centro,Débito,24.18,2,4.2,4.0
@@ -18172,7 +18172,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 18171,Deportes,Norte,Débito,77.35,1,5.6,4.3
 18172,Ropa,Sur,Transferencia,17.01,4,3.8,4.8
 18173,Ropa,Sur,Tarjeta,35.96,2,3.6,3.2
-18174,Ropa,Norte,Débito,-4.37,4,3.6,3.8
+18174,Ropa,Norte,Débito,4.37,4,3.6,3.8
 18175,Electrónica,Norte,Tarjeta,40.68,5,2.8,4.9
 18176,Deportes,Sur,Transferencia,12.82,4,3.2,5.8
 18177,Hogar,Norte,Transferencia,49.43,2,3.0,5.2
@@ -18239,7 +18239,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 18238,Deportes,Centro,Tarjeta,19.6,1,0.5,4.6
 18239,Ropa,Centro,Transferencia,67.63,4,4.0,4.1
 18240,Deportes,Sur,Débito,39.15,3,4.2,2.2
-18241,Ropa,Centro,Transferencia,-0.43,4,2.1,5.9
+18241,Ropa,Centro,Transferencia,0.43,4,2.1,5.9
 18242,Deportes,Centro,Débito,3.75,5,2.4,5.8
 18243,Ropa,Sur,Tarjeta,9.56,4,1.8,4.4
 18244,Ropa,Norte,Débito,57.11,3,4.4,4.0
@@ -18371,7 +18371,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 18370,Ropa,Sur,Tarjeta,26.88,1,4.8,4.5
 18371,Ropa,Norte,Tarjeta,27.87,4,2.0,4.4
 18372,Electrónica,Norte,Transferencia,27.84,5,2.2,3.8
-18373,Electrónica,Norte,Transferencia,-7.04,4,4.3,5.4
+18373,Electrónica,Norte,Transferencia,7.04,4,4.3,5.4
 18374,Deportes,Centro,Débito,49.79,1,3.8,5.1
 18375,Ropa,Centro,Transferencia,63.65,2,4.4,5.1
 18376,Deportes,Sur,Tarjeta,36.25,1,4.1,3.7
@@ -18418,7 +18418,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 18417,Electrónica,Centro,Tarjeta,64.63,4,4.0,4.3
 18418,Electrónica,Sur,Transferencia,42.92,3,2.5,4.4
 18419,Deportes,Centro,Tarjeta,48.68,4,2.9,4.0
-18420,Deportes,Norte,Transferencia,-3.63,1,5.3,4.1
+18420,Deportes,Norte,Transferencia,3.63,1,5.3,4.1
 18421,Deportes,Centro,Débito,30.42,4,4.2,3.2
 18422,Deportes,Sur,Transferencia,27.65,3,3.3,3.7
 18423,Hogar,Norte,Tarjeta,51.94,2,2.2,5.7
@@ -18568,7 +18568,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 18567,Ropa,Norte,Tarjeta,68.53,3,3.4,5.9
 18568,Hogar,Norte,Tarjeta,75.9,3,5.4,4.1
 18569,Hogar,Sur,Tarjeta,58.4,2,4.2,1.7
-18570,Ropa,Sur,Débito,-6.25,3,1.1,4.0
+18570,Ropa,Sur,Débito,6.25,3,1.1,4.0
 18571,Deportes,Centro,Tarjeta,49.73,5,2.2,5.2
 18572,Deportes,Norte,Tarjeta,55.07,5,2.3,3.8
 18573,Deportes,Centro,Débito,32.5,3,3.3,2.1
@@ -18759,7 +18759,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 18758,Electrónica,Norte,Transferencia,53.52,5,5.4,4.0
 18759,Deportes,Norte,Débito,46.25,1,5.5,3.7
 18760,Hogar,Sur,Tarjeta,22.27,3,4.7,5.1
-18761,Deportes,Norte,Transferencia,-6.36,5,0.9,4.1
+18761,Deportes,Norte,Transferencia,6.36,5,0.9,4.1
 18762,Deportes,Norte,Débito,60.2,3,3.6,4.9
 18763,Ropa,Centro,Tarjeta,24.53,2,2.3,3.2
 18764,Electrónica,Sur,Tarjeta,49.46,3,2.3,3.7
@@ -18774,18 +18774,18 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 18773,Electrónica,Sur,Débito,34.68,1,5.1,5.6
 18774,Ropa,Sur,Transferencia,67.08,2,2.8,5.1
 18775,Deportes,Norte,Tarjeta,38.35,5,1.1,3.6
-18776,Electrónica,Sur,Débito,-0.14,2,2.1,4.2
-18777,Ropa,Sur,Tarjeta,-7.07,5,3.8,3.0
+18776,Electrónica,Sur,Débito,0.14,2,2.1,4.2
+18777,Ropa,Sur,Tarjeta,7.07,5,3.8,3.0
 18778,Electrónica,Norte,Transferencia,45.97,3,4.0,3.3
 18779,Hogar,Norte,Tarjeta,37.49,5,2.6,4.2
 18780,Hogar,Norte,Tarjeta,32.21,1,5.1,4.9
 18781,Hogar,Sur,Transferencia,41.74,1,1.5,4.7
 18782,Deportes,Centro,Transferencia,21.49,4,5.0,3.5
 18783,Ropa,Norte,Tarjeta,65.41,5,2.2,3.3
-18784,Electrónica,Centro,Débito,-7.92,2,1.6,3.3
+18784,Electrónica,Centro,Débito,7.92,2,1.6,3.3
 18785,Electrónica,Norte,Tarjeta,18.28,3,1.2,3.2
 18786,Hogar,Centro,Transferencia,41.77,1,2.3,3.6
-18787,Deportes,Norte,Transferencia,-8.31,4,3.8,3.4
+18787,Deportes,Norte,Transferencia,8.31,4,3.8,3.4
 18788,Deportes,Sur,Transferencia,19.81,1,3.4,4.0
 18789,Electrónica,Sur,Débito,22.19,3,2.3,3.7
 18790,Deportes,Norte,Débito,48.81,5,2.5,4.4
@@ -18859,7 +18859,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 18858,Hogar,Centro,Débito,58.71,4,2.1,4.0
 18859,Electrónica,Centro,Tarjeta,91.48,2,4.4,4.1
 18860,Hogar,Centro,Tarjeta,34.11,1,2.5,4.2
-18861,Deportes,Centro,Tarjeta,-7.82,1,3.1,3.2
+18861,Deportes,Centro,Tarjeta,7.82,1,3.1,3.2
 18862,Ropa,Centro,Transferencia,73.87,5,3.9,3.1
 18863,Hogar,Sur,Tarjeta,80.64,1,3.5,4.0
 18864,Hogar,Centro,Débito,31.8,1,0.6,3.3
@@ -18900,7 +18900,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 18899,Ropa,Sur,Transferencia,16.94,4,1.8,3.3
 18900,Hogar,Norte,Débito,16.77,3,3.2,4.4
 18901,Deportes,Sur,Tarjeta,45.27,2,4.8,3.6
-18902,Electrónica,Sur,Transferencia,-10.67,4,4.9,4.8
+18902,Electrónica,Sur,Transferencia,10.67,4,4.9,4.8
 18903,Hogar,Norte,Transferencia,71.48,2,4.8,5.3
 18904,Electrónica,Norte,Transferencia,60.33,5,3.8,3.0
 18905,Deportes,Norte,Tarjeta,21.69,4,3.8,3.0
@@ -19033,13 +19033,13 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19032,Deportes,Centro,Débito,18.74,1,4.9,4.9
 19033,Ropa,Sur,Transferencia,55.23,1,3.6,3.8
 19034,Ropa,Norte,Débito,32.75,1,3.4,4.2
-19035,Ropa,Sur,Débito,-11.87,3,1.6,3.6
+19035,Ropa,Sur,Débito,11.87,3,1.6,3.6
 19036,Deportes,Centro,Débito,53.39,2,4.1,4.1
 19037,Hogar,Sur,Débito,73.33,5,2.5,3.5
 19038,Electrónica,Centro,Transferencia,40.5,3,3.4,3.7
 19039,Ropa,Norte,Débito,33.63,2,1.1,3.7
 19040,Deportes,Sur,Transferencia,34.78,2,2.6,6.0
-19041,Deportes,Centro,Tarjeta,65.56,5,-0.1,3.9
+19041,Deportes,Centro,Tarjeta,65.56,5,0.1,3.9
 19042,Electrónica,Norte,Débito,60.41,4,2.9,4.9
 19043,Hogar,Sur,Tarjeta,41.61,3,3.2,3.9
 19044,Hogar,Sur,Débito,69.47,2,2.3,4.9
@@ -19116,7 +19116,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19115,Ropa,Centro,Débito,36.64,3,3.4,4.6
 19116,Ropa,Norte,Tarjeta,50.4,1,3.0,3.9
 19117,Electrónica,Centro,Tarjeta,19.78,4,3.1,5.6
-19118,Hogar,Centro,Débito,-3.9,2,5.8,6.0
+19118,Hogar,Centro,Débito,3.9,2,5.8,6.0
 19119,Hogar,Norte,Transferencia,47.53,1,2.3,4.1
 19120,Electrónica,Sur,Tarjeta,42.32,4,3.0,4.4
 19121,Electrónica,Centro,Transferencia,76.12,5,2.5,4.3
@@ -19133,11 +19133,11 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19132,Electrónica,Centro,Tarjeta,21.0,1,2.6,4.9
 19133,Deportes,Norte,Tarjeta,28.36,3,3.1,6.0
 19134,Deportes,Sur,Débito,50.42,4,1.1,3.9
-19135,Ropa,Sur,Tarjeta,-12.68,2,4.2,3.6
+19135,Ropa,Sur,Tarjeta,12.68,2,4.2,3.6
 19136,Electrónica,Norte,Tarjeta,43.47,5,2.8,4.7
 19137,Ropa,Centro,Transferencia,35.73,2,0.2,3.9
 19138,Hogar,Sur,Débito,25.98,4,2.2,4.4
-19139,Hogar,Norte,Débito,-11.55,1,3.5,4.6
+19139,Hogar,Norte,Débito,11.55,1,3.5,4.6
 19140,Electrónica,Sur,Débito,81.12,3,3.8,4.4
 19141,Deportes,Sur,Transferencia,36.35,3,3.8,3.7
 19142,Hogar,Sur,Transferencia,35.11,1,2.3,4.8
@@ -19230,7 +19230,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19229,Electrónica,Sur,Débito,64.74,2,5.2,2.6
 19230,Ropa,Norte,Tarjeta,24.24,1,3.5,4.8
 19231,Hogar,Sur,Transferencia,26.95,3,0.8,4.7
-19232,Ropa,Norte,Débito,-3.52,5,5.1,4.8
+19232,Ropa,Norte,Débito,3.52,5,5.1,4.8
 19233,Ropa,Centro,Débito,30.06,2,1.5,4.0
 19234,Hogar,Centro,Débito,65.02,5,4.0,4.3
 19235,Electrónica,Norte,Transferencia,63.6,1,0.7,3.8
@@ -19262,7 +19262,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19261,Electrónica,Norte,Transferencia,69.61,5,2.9,4.5
 19262,Electrónica,Centro,Tarjeta,29.27,5,4.6,4.0
 19263,Hogar,Norte,Transferencia,55.94,5,3.5,4.5
-19264,Hogar,Norte,Débito,-1.75,3,3.3,3.1
+19264,Hogar,Norte,Débito,1.75,3,3.3,3.1
 19265,Ropa,Norte,Débito,37.2,2,3.9,3.3
 19266,Deportes,Centro,Débito,42.31,5,2.6,4.6
 19267,Ropa,Centro,Transferencia,37.63,4,2.7,3.7
@@ -19275,7 +19275,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19274,Hogar,Centro,Tarjeta,20.07,1,2.0,4.6
 19275,Ropa,Centro,Transferencia,55.62,5,2.8,4.0
 19276,Hogar,Centro,Tarjeta,12.77,4,3.5,3.8
-19277,Deportes,Norte,Débito,-6.78,1,0.4,3.3
+19277,Deportes,Norte,Débito,6.78,1,0.4,3.3
 19278,Electrónica,Norte,Tarjeta,86.22,1,1.2,4.0
 19279,Ropa,Centro,Tarjeta,66.38,3,2.1,3.0
 19280,Electrónica,Norte,Tarjeta,52.25,2,2.8,3.0
@@ -19285,7 +19285,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19284,Deportes,Centro,Transferencia,21.91,2,3.5,4.3
 19285,Deportes,Centro,Tarjeta,41.35,3,2.6,4.4
 19286,Electrónica,Norte,Transferencia,40.7,5,3.9,4.8
-19287,Deportes,Centro,Transferencia,8.47,5,-0.4,3.8
+19287,Deportes,Centro,Transferencia,8.47,5,0.4,3.8
 19288,Deportes,Centro,Tarjeta,53.81,2,4.3,3.3
 19289,Ropa,Centro,Tarjeta,74.13,1,4.0,5.2
 19290,Hogar,Sur,Transferencia,29.58,4,2.2,3.9
@@ -19296,7 +19296,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19295,Hogar,Norte,Débito,56.61,2,3.5,3.5
 19296,Electrónica,Centro,Transferencia,57.02,4,3.0,4.4
 19297,Hogar,Sur,Transferencia,62.54,2,3.9,5.0
-19298,Deportes,Norte,Tarjeta,26.51,4,-0.2,3.7
+19298,Deportes,Norte,Tarjeta,26.51,4,0.2,3.7
 19299,Deportes,Centro,Transferencia,29.32,1,2.1,4.1
 19300,Electrónica,Norte,Tarjeta,55.88,5,3.1,3.9
 19301,Ropa,Centro,Tarjeta,72.79,5,3.5,2.6
@@ -19330,7 +19330,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19329,Electrónica,Sur,Tarjeta,55.39,1,3.1,4.9
 19330,Hogar,Sur,Transferencia,55.8,2,1.1,4.4
 19331,Hogar,Sur,Tarjeta,48.84,2,0.5,3.5
-19332,Ropa,Norte,Débito,-9.35,5,2.6,2.6
+19332,Ropa,Norte,Débito,9.35,5,2.6,2.6
 19333,Electrónica,Sur,Débito,62.62,1,1.8,4.0
 19334,Hogar,Norte,Tarjeta,13.32,4,1.1,5.7
 19335,Ropa,Norte,Débito,19.83,5,2.6,4.3
@@ -19462,7 +19462,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19461,Hogar,Centro,Transferencia,33.75,4,2.4,4.6
 19462,Electrónica,Norte,Transferencia,17.35,3,0.9,3.7
 19463,Ropa,Sur,Tarjeta,62.97,2,0.8,4.3
-19464,Ropa,Sur,Débito,45.81,4,-0.1,3.8
+19464,Ropa,Sur,Débito,45.81,4,0.1,3.8
 19465,Deportes,Norte,Tarjeta,52.95,4,5.4,4.2
 19466,Deportes,Norte,Débito,48.9,3,2.2,3.8
 19467,Deportes,Centro,Tarjeta,24.4,3,4.8,4.2
@@ -19478,7 +19478,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19477,Ropa,Centro,Tarjeta,40.35,5,2.7,4.9
 19478,Deportes,Norte,Tarjeta,40.71,2,2.0,3.6
 19479,Deportes,Norte,Tarjeta,65.8,3,1.8,4.6
-19480,Electrónica,Norte,Débito,-5.85,2,2.8,4.2
+19480,Electrónica,Norte,Débito,5.85,2,2.8,4.2
 19481,Hogar,Norte,Débito,52.83,3,3.0,4.0
 19482,Deportes,Norte,Tarjeta,17.04,4,1.9,3.7
 19483,Hogar,Sur,Tarjeta,53.79,2,2.0,4.2
@@ -19490,7 +19490,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19489,Electrónica,Sur,Débito,48.7,1,2.1,3.2
 19490,Hogar,Centro,Débito,48.84,3,2.6,4.3
 19491,Deportes,Sur,Débito,39.92,5,2.5,3.6
-19492,Deportes,Sur,Tarjeta,-1.45,2,4.4,4.2
+19492,Deportes,Sur,Tarjeta,1.45,2,4.4,4.2
 19493,Deportes,Norte,Transferencia,35.77,1,3.9,4.6
 19494,Ropa,Centro,Tarjeta,41.35,5,3.6,4.3
 19495,Ropa,Norte,Débito,28.17,3,2.3,3.5
@@ -19516,7 +19516,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19515,Ropa,Centro,Tarjeta,48.81,4,2.2,3.9
 19516,Hogar,Sur,Transferencia,63.9,4,3.1,3.2
 19517,Ropa,Centro,Transferencia,77.27,2,2.2,2.8
-19518,Deportes,Centro,Transferencia,-27.34,3,4.3,2.5
+19518,Deportes,Centro,Transferencia,27.34,3,4.3,2.5
 19519,Electrónica,Sur,Débito,57.79,3,2.5,3.1
 19520,Hogar,Sur,Tarjeta,47.31,3,2.9,3.3
 19521,Ropa,Norte,Tarjeta,38.2,3,3.0,3.8
@@ -19534,7 +19534,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19533,Hogar,Centro,Tarjeta,61.45,1,3.6,5.0
 19534,Ropa,Centro,Tarjeta,50.25,3,1.0,3.2
 19535,Ropa,Norte,Transferencia,26.9,3,3.1,6.1
-19536,Ropa,Norte,Tarjeta,-8.81,4,3.2,4.2
+19536,Ropa,Norte,Tarjeta,8.81,4,3.2,4.2
 19537,Deportes,Norte,Transferencia,32.78,1,3.0,4.6
 19538,Electrónica,Centro,Débito,54.77,4,4.4,3.9
 19539,Ropa,Norte,Tarjeta,32.45,4,3.8,5.9
@@ -19570,7 +19570,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19569,Hogar,Centro,Tarjeta,29.09,3,3.3,5.1
 19570,Electrónica,Centro,Tarjeta,41.62,2,3.9,4.7
 19571,Ropa,Norte,Transferencia,33.17,4,4.9,4.0
-19572,Ropa,Sur,Débito,-8.07,2,2.3,3.8
+19572,Ropa,Sur,Débito,8.07,2,2.3,3.8
 19573,Deportes,Centro,Tarjeta,53.78,2,2.7,4.6
 19574,Deportes,Sur,Tarjeta,44.47,4,3.0,4.5
 19575,Electrónica,Sur,Transferencia,45.0,1,3.2,4.5
@@ -19579,7 +19579,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19578,Electrónica,Sur,Tarjeta,6.93,2,1.5,3.7
 19579,Deportes,Sur,Débito,48.18,1,2.3,3.6
 19580,Deportes,Centro,Débito,44.1,5,4.4,4.8
-19581,Ropa,Centro,Débito,-5.66,4,3.5,4.6
+19581,Ropa,Centro,Débito,5.66,4,3.5,4.6
 19582,Ropa,Centro,Tarjeta,58.18,2,4.3,4.5
 19583,Ropa,Centro,Tarjeta,63.49,2,4.3,2.8
 19584,Hogar,Sur,Débito,16.74,4,1.8,5.5
@@ -19631,7 +19631,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19630,Hogar,Centro,Transferencia,53.6,2,1.0,3.6
 19631,Ropa,Centro,Débito,33.52,3,4.5,4.2
 19632,Deportes,Centro,Débito,0.26,1,1.5,4.8
-19633,Hogar,Centro,Tarjeta,-0.55,2,3.1,4.1
+19633,Hogar,Centro,Tarjeta,0.55,2,3.1,4.1
 19634,Hogar,Norte,Tarjeta,35.8,4,2.9,4.3
 19635,Deportes,Sur,Débito,34.8,2,4.1,4.7
 19636,Ropa,Sur,Débito,34.41,5,2.5,2.3
@@ -19701,7 +19701,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19700,Deportes,Norte,Tarjeta,35.57,3,3.8,4.4
 19701,Deportes,Norte,Débito,44.8,2,4.7,3.6
 19702,Hogar,Sur,Débito,44.04,4,4.4,3.6
-19703,Electrónica,Centro,Tarjeta,-6.81,2,1.5,3.4
+19703,Electrónica,Centro,Tarjeta,6.81,2,1.5,3.4
 19704,Deportes,Centro,Débito,15.98,1,3.9,3.6
 19705,Electrónica,Sur,Tarjeta,51.51,4,3.1,4.9
 19706,Hogar,Norte,Débito,17.03,3,4.9,4.5
@@ -19750,7 +19750,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19749,Hogar,Sur,Tarjeta,76.71,3,4.9,3.7
 19750,Ropa,Sur,Transferencia,51.21,1,4.2,4.3
 19751,Hogar,Centro,Transferencia,70.68,5,2.2,4.7
-19752,Ropa,Centro,Tarjeta,22.21,1,-0.1,5.1
+19752,Ropa,Centro,Tarjeta,22.21,1,0.1,5.1
 19753,Ropa,Norte,Transferencia,20.89,5,3.1,4.5
 19754,Ropa,Centro,Transferencia,31.29,2,1.7,4.8
 19755,Ropa,Centro,Tarjeta,56.8,1,4.0,3.6
@@ -19828,7 +19828,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19827,Deportes,Norte,Débito,40.15,1,2.9,3.7
 19828,Hogar,Sur,Tarjeta,54.4,5,3.8,4.4
 19829,Electrónica,Centro,Transferencia,23.84,1,2.4,3.9
-19830,Hogar,Centro,Tarjeta,-4.24,4,2.6,3.9
+19830,Hogar,Centro,Tarjeta,4.24,4,2.6,3.9
 19831,Deportes,Norte,Transferencia,72.2,5,3.4,4.9
 19832,Deportes,Centro,Transferencia,72.02,2,5.7,2.6
 19833,Deportes,Norte,Transferencia,67.53,1,0.6,4.0
@@ -19853,7 +19853,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19852,Hogar,Sur,Tarjeta,14.92,2,4.5,3.6
 19853,Deportes,Centro,Tarjeta,43.12,1,3.8,4.2
 19854,Hogar,Norte,Débito,41.0,1,3.4,3.7
-19855,Ropa,Norte,Transferencia,-11.59,5,3.7,1.9
+19855,Ropa,Norte,Transferencia,11.59,5,3.7,1.9
 19856,Deportes,Sur,Tarjeta,56.46,2,2.3,2.9
 19857,Electrónica,Centro,Débito,59.46,3,4.6,4.0
 19858,Hogar,Centro,Débito,79.34,4,4.2,5.6
@@ -19871,7 +19871,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19870,Ropa,Centro,Tarjeta,28.58,4,2.7,4.0
 19871,Hogar,Centro,Tarjeta,32.25,1,1.3,3.7
 19872,Hogar,Sur,Débito,54.35,4,1.9,3.9
-19873,Deportes,Centro,Tarjeta,-17.28,5,3.2,5.3
+19873,Deportes,Centro,Tarjeta,17.28,5,3.2,5.3
 19874,Electrónica,Centro,Transferencia,79.87,2,3.6,5.0
 19875,Hogar,Centro,Débito,45.83,4,2.4,4.0
 19876,Electrónica,Centro,Tarjeta,44.18,2,4.1,2.8
@@ -19985,7 +19985,7 @@ id_pedido,categoria_producto,region_cliente,metodo_pago,precio_unitario,cantidad
 19984,Ropa,Centro,Transferencia,64.85,3,3.6,5.2
 19985,Hogar,Norte,Transferencia,34.19,2,2.8,3.4
 19986,Hogar,Norte,Transferencia,65.66,1,3.8,5.7
-19987,Deportes,Norte,Tarjeta,-0.73,4,3.9,3.9
+19987,Deportes,Norte,Tarjeta,0.73,4,3.9,3.9
 19988,Deportes,Centro,Débito,39.21,5,1.4,3.7
 19989,Ropa,Sur,Tarjeta,72.06,2,2.4,3.4
 19990,Electrónica,Norte,Tarjeta,51.3,5,4.3,4.4
